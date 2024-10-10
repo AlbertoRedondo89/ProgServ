@@ -21,17 +21,23 @@ public class ExerciciMultiproc {
         System.out.println("Dime un numero, pichón");
         String input = "";
         int n = 0;
-        while (input != "exit")  {
+        while (true)  {
             ExerciciMultiproc proc = new ExerciciMultiproc();
             input = scanner.nextLine();
+            if (input.equals("exit")) {
+                break;
+            }
             try {
                 n = Integer.parseInt(input);
                 proc.lanzador(n);
             } catch (NumberFormatException nfe) {
                 if (input == "exit") break;
-                System.out.println("Fatal");
+                System.err.println("Fatal");
             }
+            
         }
+        scanner.close();
+        System.out.println("Se acabó la fiesta");
 
     }
 
