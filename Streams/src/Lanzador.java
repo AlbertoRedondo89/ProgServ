@@ -1,12 +1,12 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class Main {
+public class Lanzador{
 
-    static final String dirPath = "C:\\Users\\alber\\Desktop\\ConexionConGit\\Prog\\ProgServ\\EjercicioMultiproceso2_ModificaString\\src";
+    static final String dirPath = "C:\\Users\\alber\\Desktop\\ConexionConGit\\Prog\\ProgServ\\Streams\\src";
     static final String [] command = {
             "java",
-            "ModificaString.java"
+            "Sqrt.java"
     };
 
     private static Process executarPrograma() throws IOException {
@@ -36,28 +36,32 @@ public class Main {
         // Aqui hace menos falta hacer el close
     }
 
-
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
+        try (Scanner scan = new Scanner(System.in)) {
 
-        System.out.println("Dime algo, pichón");
-        String input = "";
-        while (true)  {
-            input = scanner.nextLine();
-            try {
-                if (input.equals("exit")) break;
+            while (true) {
+                System.out.println("Pare: Dame un número, pichón!");
+                String n = scan.nextLine();
+
+                if (n.equals("exit")) return;
+
                 Process process = executarPrograma();
-                enviar(process, input);
+                enviar(process, n);
                 String retorn = llegir(process);
                 System.out.println("Pare: " + retorn);
-            } catch (NumberFormatException | IOException nfe) {
-                System.err.println("Fatal");
+
+                System.out.println("Pare: Fi");
+
             }
 
+        } catch (IOException ioe) {
+            ioe.printStackTrace();
         }
-        scanner.close();
-        System.out.println("Se acabó la fiesta");
 
     }
+
 }
+
+
+
