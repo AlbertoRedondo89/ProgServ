@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5063aac1-fad5-4315-a6b9-0fe7eba258de" name="Changes" comment="" />
+    <list default="true" id="5063aac1-fad5-4315-a6b9-0fe7eba258de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ejercicio3.1/Ejercicio3.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio3.2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio3.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio3.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio3.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio3.2/Ejercicio3.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio3.2/srcerrores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2nG5xvMF7dX6MLzPzqKyCIvvVm3" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -33,6 +43,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/alber/Desktop/GIT/Programación/ProgServ/EjercicioMultiproceso2_ModificaString",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728586822204</updated>
       <workItem from="1728586823250" duration="1928000" />
+      <workItem from="1728840925296" duration="1206000" />
     </task>
     <servers />
   </component>
