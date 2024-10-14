@@ -2,8 +2,8 @@ import java.io.*;
 import java.util.Scanner;
 
 public class Main {
-
-    static final String dirPath = "C:\\Users\\alber\\Desktop\\ConexionConGit\\Prog\\ProgServ\\Ejercicio3.2\\src";
+    static final String dirPath = "C:\\Users\\alber\\Desktop\\GIT\\Programación\\ProgServ\\Ejercicio3.2\\src";
+    //static final String dirPath = "C:\\Users\\alber\\Desktop\\ConexionConGit\\Prog\\ProgServ\\Ejercicio3.2\\src";
     static final String [] command = {
             "java",
             "Main.java"
@@ -12,7 +12,7 @@ public class Main {
     private static Process executarPrograma() throws IOException {
         ProcessBuilder programa = new ProcessBuilder(command);
         programa.directory(new File(dirPath));
-        programa.redirectError(new File(dirPath + "errores.txt"));
+        programa.redirectError(new File(dirPath + "\\errores.txt"));
         return programa.start();
     }
 
@@ -32,7 +32,12 @@ public class Main {
         InputStreamReader iSR = new InputStreamReader(inS);
         BufferedReader iBR = new BufferedReader(iSR);
 
-        return iBR.readLine();
+        StringBuilder salida = new StringBuilder();
+        String linea = "";
+        while ((linea = iBR.readLine()) != null) {
+            salida.append(linea).append("\n");
+        }
+        return salida.toString().trim();
         // Aqui hace menos falta hacer el close
     }
 
@@ -48,15 +53,18 @@ public class Main {
             try {
                 if (input.equals("exit")) break;
                 Process process = executarPrograma();
+                System.out.println("Pare envía el mensaje: " + input);
+                    //Envia mensaje al hijo
                 enviar(process, input);
+                    //El wait para esperar a la respuesta antes de seguir
+                process.waitFor();
+                    //Lee el retorno del hijo
                 String retorn = llegir(process);
-                System.out.println("Pare diu: " + input);
-                System.out.print(retorn);
-                System.out.println();
-
-                System.out.println("El pare rep: " + retorn);
+                System.out.println(retorn);
             } catch (NumberFormatException | IOException nfe) {
                 System.err.println("Fatal");
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
             }
 
         }
