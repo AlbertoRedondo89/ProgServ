@@ -16,7 +16,7 @@ public class ExecutaDir {
         }
 
     }
-    
+
     public static void muestraDirectorio(Path dir, int sangrado, BufferedWriter writer) throws IOException {
         try (DirectoryStream<Path> stream = Files.newDirectoryStream(dir)) {
 

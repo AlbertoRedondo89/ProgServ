@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    static final String dirPath = "C:\\Users\\alber\\Desktop\\GIT\\Programación\\ProgServ\\Ejercicio3.2\\src";
+    static final String dirPath = "C:\\Users\\alber\\Desktop\\ConexionConGit\\Prog\\ProgServ\\Ejercicio3.2\\src";
     static final String [] command = {
             "java",
             "Main.java"
@@ -50,7 +50,11 @@ public class Main {
                 Process process = executarPrograma();
                 enviar(process, input);
                 String retorn = llegir(process);
-                System.out.println("Pare: " + retorn);
+                System.out.println("Pare diu: " + input);
+                System.out.print(retorn);
+                System.out.println();
+
+                System.out.println("El pare rep: " + retorn);
             } catch (NumberFormatException | IOException nfe) {
                 System.err.println("Fatal");
             }

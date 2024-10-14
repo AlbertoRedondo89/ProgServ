@@ -6,7 +6,7 @@ public class Main {
 
     public static String responder(String a) {
         String respuesta = "";
-        respuesta += (a + " El hijo respone: Hola papá!");
+        respuesta += ("\t el hijo recibe el mensaje : " + a + "\n El hijo respone: Hola papá!");
         return respuesta;
     }
 
