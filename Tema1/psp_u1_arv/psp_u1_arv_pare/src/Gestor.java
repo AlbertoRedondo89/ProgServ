@@ -1,6 +1,9 @@
 import procesos.Procesos;
 import tools.Menu;
 
+import java.awt.*;
+import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.regex.Matcher;
@@ -151,6 +154,18 @@ public class Gestor {
                     System.out.println(resultado);
                 }
                 case 7 -> {
+                    String archivo = "src/index.html";
+                    File archivoHtml = new File(archivo);
+
+                    if (archivoHtml.exists()) {
+                        try {
+                            Desktop.getDesktop().browse(archivoHtml.toURI());
+                        } catch (IOException e) {
+                            throw new RuntimeException(e);
+                        }
+                    } else {
+                        System.err.println("El archivo no esiste");
+                    }
                 }
                 default -> System.out.println("bad option");
             }
