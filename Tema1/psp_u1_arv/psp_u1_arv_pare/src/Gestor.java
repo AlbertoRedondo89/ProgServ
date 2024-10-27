@@ -134,6 +134,21 @@ public class Gestor {
                     System.out.println(resultado);
                 }
                 case 6 -> {
+                    String[] command = {
+                            "java",
+                            "-cp",
+                            dirPath,
+                            "ExtraeBody"
+                    };
+                    Process process = Procesos.ejecutaPrograma(command);
+                    Procesos.enviar(process, String.join("\n",textoWeb));
+                    try {
+                        process.waitFor();
+                    } catch (InterruptedException e) {
+                        throw new RuntimeException(e);
+                    }
+                    String resultado = Procesos.leer(process).toString();
+                    System.out.println(resultado);
                 }
                 case 7 -> {
                 }
