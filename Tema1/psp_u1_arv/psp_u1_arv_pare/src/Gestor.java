@@ -39,7 +39,6 @@ public class Gestor {
                     pass();
                 }
                 case 1 -> {
-                    System.out.println("Ejecutando DescargaWeb...");
                     String[] command = {
                             "java",
                             "-cp",
@@ -48,20 +47,48 @@ public class Gestor {
                             url// Pasar la URL como argumento
                     };
                     Process process = Procesos.ejecutaPrograma(command);
-                    System.out.println("Proceso lanzado, enviando URL...");
+                    /* WAITFOR QUITADO POR FALLOS, PENDIENTE DE REVISION
                     try {
                         process.waitFor();
                     } catch (InterruptedException e) {
                         throw new RuntimeException(e);
                     }
-                    System.out.println("Leyendo salida del proceso...");
+                     */
                     textoWeb = Procesos.leer(process);
-                    System.out.println("Contenido descargado:");
-                    System.out.println(textoWeb);
+                    for(String line : textoWeb) {
+                        System.out.println(line);
+                    }
+
                 }
                 case 2 -> {
+                    String buscador = "a";
+                    String[] command = {
+                            "java",
+                            "-cp",
+                            dirPath,
+                            "CuentaCaracteres",
+                            buscador
+                    };
+                    Process process = Procesos.ejecutaPrograma(command);
+                    Procesos.enviar(process, String.join("\n",textoWeb));
+                    String resultado = Procesos.leer(process).toString();
+                    System.out.println(resultado);
                 }
                 case 3 -> {
+                    String letraACambiar = "a";
+                    String nuevaLetra = "b";
+                    String[] command = {
+                            "java",
+                            "-cp",
+                            dirPath,
+                            "CambiaLetras",
+                            letraACambiar,
+                            nuevaLetra
+                    };
+                    Process process = Procesos.ejecutaPrograma(command);
+                    Procesos.enviar(process, String.join("\n",textoWeb));
+                    String resultado = Procesos.leer(process).toString();
+                    System.out.println(resultado);
                 }
                 case 4 -> {
                 }

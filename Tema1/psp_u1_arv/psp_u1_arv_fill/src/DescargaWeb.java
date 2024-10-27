@@ -13,7 +13,7 @@ public class DescargaWeb {
             return; // Termina el proceso si no hay URL
         }
 
-        String web = args[0]; // La URL se toma del primer argumento
+        String web = args[0]; // La URL la da el primer argumento
         String contenido = descargaWeb(web);
         System.out.println("Contenido descargado:");
         DataOutputStream ops = new DataOutputStream(new BufferedOutputStream(System.out));
