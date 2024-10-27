@@ -1,12 +1,19 @@
+import procesos.Procesos;
 import tools.Menu;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import static procesos.Procesos.dirPath;
+
 public class Gestor {
 
-    private String url = "";
+    Procesos proceso = new Procesos();
+
+    private ArrayList<String> textoWeb = new ArrayList<>(); // HTML web de la web
+    private String url = "";                                // URL web
     Scanner scan = new Scanner(System.in);
     public Gestor() {
         System.out.println("Introduzca una url web");
@@ -32,6 +39,25 @@ public class Gestor {
                     pass();
                 }
                 case 1 -> {
+                    System.out.println("Ejecutando DescargaWeb...");
+                    String[] command = {
+                            "java",
+                            "-cp",
+                            dirPath,
+                            "DescargaWeb",
+                            url// Pasar la URL como argumento
+                    };
+                    Process process = Procesos.ejecutaPrograma(command);
+                    System.out.println("Proceso lanzado, enviando URL...");
+                    try {
+                        process.waitFor();
+                    } catch (InterruptedException e) {
+                        throw new RuntimeException(e);
+                    }
+                    System.out.println("Leyendo salida del proceso...");
+                    textoWeb = Procesos.leer(process);
+                    System.out.println("Contenido descargado:");
+                    System.out.println(textoWeb);
                 }
                 case 2 -> {
                 }
