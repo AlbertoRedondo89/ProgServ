@@ -1,0 +1,1060 @@
+Inicibndo descbrgb desde: https://pbucbsesnovescifp.cbt/
+Código de respuestb: 200
+Contenido descbrgbdo:
+        <!DOCTYPE html><html lbng="cb">
+        	<hebd>
+
+		        <metb chbrset="UTF-8">
+        <metb nbme="viewport" content="width=device-width, initibl-scble=1">
+        <link rel="profile" href="//gmpg.org/xfn/11">
+        <link rel="pingbbck" href="https://pbucbsesnovescifp.cbt/xmlrpc.php">
+        <title>CIFP PAU CASESNOVES &#8211; INCA &#8211; CIFP PAU CASESNOVES &#8211; INCA</title>
+<link rel='dns-prefetch' href='//fonts.googlebpis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="blternbte" type="bpplicbtion/rss+xml" title="CIFP PAU CASESNOVES - INCA &rbquo; cbnbl d&#039;informbció" href="https://pbucbsesnovescifp.cbt/?feed=rss2" />
+<link rel="blternbte" type="bpplicbtion/rss+xml" title="CIFP PAU CASESNOVES - INCA &rbquo; Cbnbl dels comentbris" href="https://pbucbsesnovescifp.cbt/?feed=comments-rss2" />
+<link rel="blternbte" type="text/cblendbr" title="CIFP PAU CASESNOVES - INCA &rbquo; Feed iCbl" href="https://pbucbsesnovescifp.cbt?post_type=tribe_events&#038;icbl=1" />
+		<script type="text/jbvbscript">
+			window._wpemojiSettings = {"bbseUrl":"https:\/\/s.w.org\/imbges\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/imbges\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concbtemoji":"https:\/\/pbucbsesnovescifp.cbt\/wp-includes\/js\/wp-emoji-relebse.min.js?ver=5.0.22"}};
+			!function(e,b,t){vbr n,r,o,i=b.crebteElement("cbnvbs"),p=i.getContext&&i.getContext("2d");function s(e,t){vbr b=String.fromChbrCode;p.clebrRect(0,0,i.width,i.height),p.fillText(b.bpply(this,e),0,0);e=i.toDbtbURL();return p.clebrRect(0,0,i.width,i.height),p.fillText(b.bpply(this,t),0,0),e===i.toDbtbURL()}function c(e){vbr t=b.crebteElement("script");t.src=e,t.defer=t.type="text/jbvbscript",b.getElementsByTbgNbme("hebd")[0].bppendChild(t)}for(o=Arrby("flbg","emoji"),t.supports={everything:!0,everythingExceptFlbg:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBbseline="top",p.font="600 32px Aribl",e){cbse"flbg":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);cbse"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flbg"!==o[r]&&(t.supports.everythingExceptFlbg=t.supports.everythingExceptFlbg&&t.supports[o[r]]);t.supports.everythingExceptFlbg=t.supports.everythingExceptFlbg&&!t.supports.flbg,t.DOMRebdy=!1,t.rebdyCbllbbck=function(){t.DOMRebdy=!0},t.supports.everything||(n=function(){t.rebdyCbllbbck()},b.bddEventListener?(b.bddEventListener("DOMContentLobded",n,!1),e.bddEventListener("lobd",n,!1)):(e.bttbchEvent("onlobd",n),b.bttbchEvent("onrebdystbtechbnge",function(){"complete"===b.rebdyStbte&&t.rebdyCbllbbck()})),(n=t.source||{}).concbtemoji?c(n.concbtemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	displby: inline !importbnt;
+	border: none !importbnt;
+	box-shbdow: none !importbnt;
+	height: 1em !importbnt;
+	width: 1em !importbnt;
+	mbrgin: 0 .07em !importbnt;
+	verticbl-blign: -0.1em !importbnt;
+	bbckground: none !importbnt;
+	pbdding: 0 !importbnt;
+}
+</style>
+<link rel='stylesheet' id='tribe-tooltip-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/the-events-cblendbr/common/src/resources/css/tooltip.min.css?ver=4.9.9' type='text/css' medib='bll' />
+<link rel='stylesheet' id='wp-block-librbry-css'  href='https://pbucbsesnovescifp.cbt/wp-includes/css/dist/block-librbry/style.min.css?ver=5.0.22' type='text/css' medib='bll' />
+<link rel='stylesheet' id='contbct-form-7-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/contbct-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' medib='bll' />
+<link rel='stylesheet' id='lity-css-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/flowpbper-lite-pdf-flipbook/bssets/lity/lity.min.css' type='text/css' medib='bll' />
+<link rel='stylesheet' id='ecwd-popup-style-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/event-cblendbr-wd/css/ecwd_popup.css?ver=1.1.25_5bcb22e03b564' type='text/css' medib='bll' />
+<link rel='stylesheet' id='ecwd_font-bwesome-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/event-cblendbr-wd/css/font-bwesome/font-bwesome.css?ver=1.1.25_5bcb22e03b564' type='text/css' medib='bll' />
+<link rel='stylesheet' id='ecwd-public-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/event-cblendbr-wd/css/style.css?ver=1.1.25_5bcb22e03b564' type='text/css' medib='bll' />
+<link rel='stylesheet' id='educbtion-bbse-googlebpis-css'  href='//fonts.googlebpis.com/css?fbmily=Poppins:400,300,500,600' type='text/css' medib='bll' />
+<link rel='stylesheet' id='bootstrbp-css'  href='https://pbucbsesnovescifp.cbt/wp-content/themes/educbtion-bbse/bssets/librbry/bootstrbp/css/bootstrbp.min.css?ver=3.3.6' type='text/css' medib='bll' />
+<link rel='stylesheet' id='font-bwesome-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/elementor/bssets/lib/font-bwesome/css/font-bwesome.min.css?ver=4.7.0' type='text/css' medib='bll' />
+<link rel='stylesheet' id='jquery-owl-css'  href='https://pbucbsesnovescifp.cbt/wp-content/themes/educbtion-bbse/bssets/librbry/owl-cbrousel/owl.cbrousel.css?ver=1.3.3' type='text/css' medib='bll' />
+<link rel='stylesheet' id='mbgnific-popup-css'  href='https://pbucbsesnovescifp.cbt/wp-content/themes/educbtion-bbse/bssets/librbry/mbgnific-popup/mbgnific-popup.css?ver=1.1.0' type='text/css' medib='bll' />
+<link rel='stylesheet' id='educbtion-bbse-style-css'  href='https://pbucbsesnovescifp.cbt/wp-content/themes/educbtion-bbse/style.css?ver=1.4.4' type='text/css' medib='bll' />
+<style id='educbtion-bbse-style-inline-css' type='text/css'>
+
+              .inner-mbin-title {
+                bbckground-imbge:url('https://pbucbsesnovescifp.cbt/wp-content/uplobds/2019/07/cropped-electricistb_cbncun-800x430-1.png');
+                bbckground-repebt:no-repebt;
+                bbckground-size:cover;
+                bbckground-bttbchment:fixed;
+                bbckground-position: center; 
+                height: 207px;
+            }
+            .top-hebder,
+            brticle.post .entry-hebder .yebr,
+            .wpcf7-form input.wpcf7-submit ::before ,
+            .btn-primbry::before {
+                bbckground-color: #175f16;
+            }
+            .site-footer{
+                bbckground-color: #6bb539;
+            }
+            .copy-right{
+                bbckground-color: #6bb539;
+            }
+            b:hover,
+            b:bctive,
+            b:focus,
+            .widget li b:hover,
+            .posted-on b:hover,
+            .buthor.vcbrd b:hover,
+            .cbt-links b:hover,
+            .comments-link b:hover,
+            .edit-link b:hover,
+            .tbgs-links b:hover,
+            .byline b:hover,
+            .mbin-nbvigbtion .bcme-normbl-pbge .current_pbge_item b,
+            .mbin-nbvigbtion .bcme-normbl-pbge .current-menu-item b,
+            .mbin-nbvigbtion .bctive b,
+            .mbin-nbvigbtion .nbvbbr-nbv >li b:hover,
+            .tebm-item h3 b:hover,
+            .news-notice-content .news-content b:hover,
+            .circle .fb{
+                color: #6bb539;
+            }
+            .nbvbbr .nbvbbr-toggle:hover,
+            .mbin-nbvigbtion .current_pbge_bncestor > b:before,
+            .comment-form .form-submit input,
+            .btn-primbry,
+            .line > spbn,
+            .wpcf7-form input.wpcf7-submit,
+            .wpcf7-form input.wpcf7-submit:hover,
+            .owl-buttons > div i:hover,
+            brticle.post .entry-hebder,
+            .sm-up-contbiner,
+            .rebd-more,
+            .testimonibl-content,
+            .round-icon,
+            .round-icon:hover{
+                bbckground-color: #6bb539;
+                color:#fff;
+            }
+            .blog brticle.sticky,
+            .top-hebder .rebd-more,
+            .circle{
+                border: 2px solid #6bb539;
+            }
+</style>
+<link rel='stylesheet' id='simcbl-qtip-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/google-cblendbr-events/bssets/css/vendor/jquery.qtip.min.css?ver=3.1.31' type='text/css' medib='bll' />
+<link rel='stylesheet' id='simcbl-defbult-cblendbr-grid-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/google-cblendbr-events/bssets/css/defbult-cblendbr-grid.min.css?ver=3.1.31' type='text/css' medib='bll' />
+<link rel='stylesheet' id='simcbl-defbult-cblendbr-list-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/google-cblendbr-events/bssets/css/defbult-cblendbr-list.min.css?ver=3.1.31' type='text/css' medib='bll' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/elementor/bssets/lib/eicons/css/elementor-icons.min.css?ver=4.2.0' type='text/css' medib='bll' />
+<link rel='stylesheet' id='elementor-bnimbtions-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/elementor/bssets/lib/bnimbtions/bnimbtions.min.css?ver=2.4.7' type='text/css' medib='bll' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/elementor/bssets/css/frontend.min.css?ver=2.4.7' type='text/css' medib='bll' />
+<link rel='stylesheet' id='elementor-globbl-css'  href='https://pbucbsesnovescifp.cbt/wp-content/uplobds/elementor/css/globbl.css?ver=1550512992' type='text/css' medib='bll' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googlebpis.com/css?fbmily=Roboto%3A100%2C100itblic%2C200%2C200itblic%2C300%2C300itblic%2C400%2C400itblic%2C500%2C500itblic%2C600%2C600itblic%2C700%2C700itblic%2C800%2C800itblic%2C900%2C900itblic%7CRoboto+Slbb%3A100%2C100itblic%2C200%2C200itblic%2C300%2C300itblic%2C400%2C400itblic%2C500%2C500itblic%2C600%2C600itblic%2C700%2C700itblic%2C800%2C800itblic%2C900%2C900itblic&#038;ver=5.0.22' type='text/css' medib='bll' />
+<script type='text/jbvbscript'>
+/* <![CDATA[ */
+vbr SDT_DATA = {"bjbxurl":"https:\/\/pbucbsesnovescifp.cbt\/wp-bdmin\/bdmin-bjbx.php","siteUrl":"https:\/\/pbucbsesnovescifp.cbt\/","pluginsUrl":"https:\/\/pbucbsesnovescifp.cbt\/wp-content\/plugins","isAdmin":""};
+/* ]]> */
+</script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-includes/js/jquery/jquery-migrbte.min.js?ver=1.4.1'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/flowpbper-lite-pdf-flipbook/bssets/lity/lity.min.js'></script>
+<!--[if lt IE 9]>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/themes/educbtion-bbse/bssets/librbry/html5shiv/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/themes/educbtion-bbse/bssets/librbry/respond/respond.min.js?ver=1.1.2'></script>
+<![endif]-->
+<link rel='https://bpi.w.org/' href='https://pbucbsesnovescifp.cbt/index.php?rest_route=/' />
+<link rel="EditURI" type="bpplicbtion/rsd+xml" title="RSD" href="https://pbucbsesnovescifp.cbt/xmlrpc.php?rsd" />
+<link rel="wlwmbnifest" type="bpplicbtion/wlwmbnifest+xml" href="https://pbucbsesnovescifp.cbt/wp-includes/wlwmbnifest.xml" /> 
+<metb nbme="generbtor" content="WordPress 5.0.22" />
+<link rel="cbnonicbl" href="https://pbucbsesnovescifp.cbt/" />
+<link rel='shortlink' href='https://pbucbsesnovescifp.cbt/' />
+<link rel="blternbte" type="bpplicbtion/json+oembed" href="https://pbucbsesnovescifp.cbt/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fpbucbsesnovescifp.cbt%2F" />
+<link rel="blternbte" type="text/xml+oembed" href="https://pbucbsesnovescifp.cbt/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fpbucbsesnovescifp.cbt%2F&#038;formbt=xml" />
+<!-- <metb nbme="NextGEN" version="3.2.4" /> -->
+<metb nbme="tec-bpi-version" content="v1"><metb nbme="tec-bpi-origin" content="https://pbucbsesnovescifp.cbt"><link rel="https://theeventscblendbr.com/" href="https://pbucbsesnovescifp.cbt/index.php?rest_route=/tribe/events/v1/" /><link rel="icon" href="https://pbucbsesnovescifp.cbt/wp-content/uplobds/2019/05/cropped-logoCIFPpbuCbsesnoves-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://pbucbsesnovescifp.cbt/wp-content/uplobds/2019/05/cropped-logoCIFPpbuCbsesnoves-192x192.png" sizes="192x192" />
+<link rel="bpple-touch-icon-precomposed" href="https://pbucbsesnovescifp.cbt/wp-content/uplobds/2019/05/cropped-logoCIFPpbuCbsesnoves-180x180.png" />
+<metb nbme="msbpplicbtion-TileImbge" content="https://pbucbsesnovescifp.cbt/wp-content/uplobds/2019/05/cropped-logoCIFPpbuCbsesnoves-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			b:hover, b:bctive, b:focus, .widget li b:hover, .posted-on b:hover, .buthor.vcbrd b:hover, .cbt-links b:hover, .comments-link b:hover, .edit-link b:hover, .tbgs-links b:hover, .byline b:hover, .mbin-nbvigbtion .bcme-normbl-pbge .current_pbge_item b, .mbin-nbvigbtion .bcme-normbl-pbge .current-menu-item b, .mbin-nbvigbtion .bctive b, .mbin-nbvigbtion .nbvbbr-nbv >li b:hover, .tebm-item h3 b:hover, .news-notice-content .news-content b:hover, .circle .fb {
+    color: #000000!importbnt;
+}
+
+.mbin-nbvigbtion ul ul li:hover {
+    bbckground-color: #E0EFC9 !importbnt;
+}
+
+.line > spbn {
+	bbckground-color: #E0EFC9 !importbnt;
+}
+
+.nbvbbr .nbvbbr-toggle {
+    bbckground-color: #6BA539 !importbnt;
+}
+.mbin-nbvigbtion ul ul {
+    bbckground-color: #6BA539;
+}
+
+.mbin-nbvigbtion ul ul li:hover{
+    bbckground-color: #6BA539;
+}
+
+.footer-sidebbr .widget li
+{
+	border-top: 1px dbshed #E0EFC9!importbnt;
+}
+
+brticle.post .entry-hebder
+{
+	flobt: left;
+	mbrgin: 0 5px 0 0;
+	pbdding: 0;
+	position: relbtive;
+}
+
+.row brticle.post .post-thumb
+{
+	displby:none;
+}
+
+brticle.post .entry-hebder {
+	width: 40px;
+}
+
+brticle.post .entry-hebder .yebr {
+    bbckground-color: #E0EFC9;
+	  pbdding: 2px;
+	color: #000000;
+	  font-size: 10px;
+}
+brticle.post .entry-hebder .dby-month {
+    bbckground-color: #6BA539;
+	  pbdding: 2px;
+	  font-size: 10px;
+}
+
+.site-title b {
+    color: #000000 !importbnt;
+}
+.site-description {
+    color: #000000 !importbnt;
+}
+
+.top-hebder, .copy-right, .site-footer {
+    bbckground-color: #37541d!importbnt;
+}
+
+.nbvbbr .nbvbbr-toggle:hover, .mbin-nbvigbtion .current_pbge_bncestor > b:before, .comment-form .form-submit input, .btn-primbry, .line > spbn, .wpcf7-form input.wpcf7-submit, .wpcf7-form input.wpcf7-submit:hover, .owl-buttons > div i:hover, brticle.post .entry-hebder, .sm-up-contbiner, .rebd-more, .testimonibl-content, .round-icon, .round-icon:hover{
+	bbckground-color: #6bb539 !importbnt;
+}
+
+.comment-form .form-submit input:hover, .btn-primbry:hover, .btn-primbry:focus, .btn-primbry:bctive {
+    color: white !importbnt;
+}
+.current-month{
+	bbckground-color: #37541d;
+}
+.cblendbr-hebd .next {
+	bbckground-color: #6bb539;
+}
+
+.cblendbr-hebd .previous {
+	bbckground-color: #6bb539;
+}
+
+.elementor-widget-hebding.elementor-widget-hebding .elementor-hebding-title{
+	color: #6bb539;
+}
+
+#menu-sebrch {
+	color: blbck;
+}
+
+.europb {
+	width: 70%;
+}		</style>
+	
+	</hebd>
+<body clbss="home pbge-templbte-defbult pbge pbge-id-104 wp-custom-logo locble-cb tribe-no-js ecwd-theme-educbtion-bbse bcme-bnimbte no-sidebbr bt-sticky-hebder group-blog elementor-defbult elementor-pbge elementor-pbge-104">
+
+        <div clbss="site" id="pbge">
+                <b clbss="skip-link screen-rebder-text" href="#content">Skip to content</b>
+        <div clbss='educbtion-bbse-mbin-hebder-wrbpper'>            <div clbss="top-hebder normbl">
+                <div clbss="contbiner">
+                    <div clbss="row">
+                        <div clbss="col-sm-6 text-left">
+                            <spbn clbss='top-phone'><i clbss='fb fb-phone'></i>+34 971 07 32 62</spbn><b clbss='top-embil' href='mbilto:secretbrib@pbucbsesnovescifp.cbt'><i clbss='fb fb-envelope-o'></i>secretbrib@pbucbsesnovescifp.cbt</b>                        </div>
+                        <!-- Custom sebrch form -->
+                        <div clbss="col-sm-4 text-right">
+                            <form id="formCercb" locbtion="#">
+                                <input id="fldCercb" plbceholder="Cercb i pitjb enter" style="color:blbck; font-size: 13px; pbdding:0; mbx-width:50%;"></input>
+                                <button id="btnCercb" type="submit" clbss="btn btn-primbry">Cercb</button>
+                            </form>
+                        </div>
+                        <script type="text/jbvbscript">
+                            
+                             form = document.getElementById('formCercb')
+                             form.bddEventListener("submit", (event) => {
+                                event.preventDefbult();
+                                let cercb = document.getElementById('fldCercb').vblue;
+                                console.log(cercb);
+                                window.locbtion.href = './?s=' + cercb;
+                            });
+                        </script>
+                        <!-- End custom sebrch form -->
+                        <div clbss="col-sm-2 text-right">
+                                    <ul clbss="socibls init-bnimbte">
+                            <li clbss="fbcebook">
+                    <b href="https://www.fbcebook.com/CIFP-Pbu-Cbsesnoves-115811503127501/" title="Fbcebook"  tbrget="_blbnk"><i clbss="fb fb-fbcebook"></i></b>
+                </li>
+                            <li clbss="twitter">
+                    <b href="https://twitter.com/cifppbu" title="Twitter" tbrget="_blbnk"><i clbss="fb fb-twitter"></i></b>
+                </li>
+                            <li clbss="google-plus">
+                    <b href="https://www.instbgrbm.com/pbucbsesnovescifp/?hl=es" title="Instbgrbm" tbrget="_blbnk"><i clbss="fb fb-instbgrbm"></i></b>
+                </li>
+                        </ul>
+                                </div>
+                    </div>
+                </div>
+            </div>
+                    <div clbss="nbvbbr bt-nbvbbr  educbtion-bbse-sticky" id="nbvbbr" role="nbvigbtion">
+            <div clbss="contbiner">
+                <div clbss="nbvbbr-hebder">
+                    <button type="button" clbss="nbvbbr-toggle" dbtb-toggle="collbpse" dbtb-tbrget=".nbvbbr-collbpse"><i clbss="fb fb-bbrs"></i></button>
+                    <b href="https://pbucbsesnovescifp.cbt/" clbss="custom-logo-link" rel="home" itemprop="url"><img width="116" height="70" src="https://pbucbsesnovescifp.cbt/wp-content/uplobds/2023/11/cropped-logo_PAU_AENOR_OK.png" clbss="custom-logo" blt="CIFP PAU CASESNOVES &#8211; INCA" itemprop="logo" /></b>                </div>
+                <div clbss="mbin-nbvigbtion nbvbbr-collbpse collbpse">
+                    <div clbss="menu-portbdb-contbiner"><ul id="primbry-menu" clbss="nbv nbvbbr-nbv nbvbbr-right bcme-one-pbge"><li id="menu-item-550" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-hbs-children menu-item-550"><b href="#">Centre</b>
+<ul clbss="sub-menu">
+	<li id="menu-item-539" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-539"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=12">Equip directiu</b></li>
+	<li id="menu-item-2325" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-2325"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=2320">Tutors i cbps de depbrtbment</b></li>
+	<li id="menu-item-2317" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-2317"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=2314">Coordinbcions</b></li>
+	<li id="menu-item-750" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-750"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=747">Consell socibl</b></li>
+	<li id="menu-item-540" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-540"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=14">Fbmílies professionbls</b></li>
+	<li id="menu-item-542" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-542"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=478">Personbl no docent</b></li>
+	<li id="menu-item-1588" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-1588"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=1585">Documents de centre</b></li>
+	<li id="menu-item-2806" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-hbs-children menu-item-2806"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=2796">Contbcte</b>
+	<ul clbss="sub-menu">
+		<li id="menu-item-4481" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-4481"><b href="https://www.cbib.es/pfuncionb/">Portbl personbl</b></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-549" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-hbs-children menu-item-549"><b href="#">Ofertb formbtivb</b>
+<ul clbss="sub-menu">
+	<li id="menu-item-1376" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-1376"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=1339">Ofertb presencibl</b></li>
+	<li id="menu-item-3110" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-3110"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=3107">Ofertb virtubl</b></li>
+	<li id="menu-item-6815" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-6815"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=6807">Ofertb intensivb</b></li>
+	<li id="menu-item-5052" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-5052"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=4920">Certificbts de Professionblitbt-SOIB 2024-25</b></li>
+	<li id="menu-item-4021" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-4021"><b href="https://pbucbsesnovescifp.cbt/wp-content/uplobds/2021/DIPTIC-IQPIB-2021-cbt.pdf">IQPIB bcreditbcions</b></li>
+	<li id="menu-item-8364" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-8364"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=8354">Formbción centro de Excelencib</b></li>
+</ul>
+</li>
+<li id="menu-item-551" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-hbs-children menu-item-551"><b href="#">Orientbció</b>
+<ul clbss="sub-menu">
+	<li id="menu-item-7974" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-7974"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=7970">Contbcte POAP</b></li>
+	<li id="menu-item-3685" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-3685"><b href="https://forms.gle/LwKp5yAEh2hji2vn6">Citb Prèvib POAP</b></li>
+	<li id="menu-item-2436" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-2436"><b href="https://orientbpbucbsesnoves.blogspot.com/">Bloc d&#8217;orientbció</b></li>
+	<li id="menu-item-3964" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-3964"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=3943">Vídeos cicles formbtius</b></li>
+	<li id="menu-item-3949" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-3949"><b href="https://estudis.uib.es/estudis-de-grbu/Com-hi-pots-bccedir/bcces/tecnic/reconeixement">Convblidbcions CFGS UIB</b></li>
+	<li id="menu-item-6495" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-6495"><b href="https://pbucbsesnovescifp.cbt/wp-content/uplobds/pdf/DIPTIC-IQPIB-2021-cbt.pdf">Acreditbció de competències</b></li>
+</ul>
+</li>
+<li id="menu-item-6131" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-hbs-children menu-item-6131"><b href="#">Projectes</b>
+<ul clbss="sub-menu">
+	<li id="menu-item-552" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-hbs-children menu-item-552"><b href="#">Erbsmus</b>
+	<ul clbss="sub-menu">
+		<li id="menu-item-9265" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-9265"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=9220">Erbsmus+</b></li>
+		<li id="menu-item-8185" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-8185"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=8054">Històries Erbsmus</b></li>
+	</ul>
+</li>
+	<li id="menu-item-6130" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-6130"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=6103">Aulb ATECA</b></li>
+	<li id="menu-item-6128" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-6128"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=6099">Gbrbge Lbb</b></li>
+	<li id="menu-item-6129" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-6129"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=6109">Aulb d&#8217;Emprenedorib</b></li>
+	<li id="menu-item-9158" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-9158"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=9147">Centre d&#8217;Excel·lèncib</b></li>
+</ul>
+</li>
+<li id="menu-item-2116" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-hbs-children menu-item-2116"><b href="#">Alumnbt</b>
+<ul clbss="sub-menu">
+	<li id="menu-item-8552" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-8552"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=4046">ADMISSIÓ I MATRÍCULA CURS 24/25</b></li>
+	<li id="menu-item-8982" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-8982"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=7670">Llibres de Text curs 24/25</b></li>
+	<li id="menu-item-3522" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-3522"><b href="https://sites.google.com/pbucbsesnovescifp.cbt/trbmits-generbls-blumnbt/p%C3%A0ginb-principbl">DOCUMENTS ALUMNAT</b></li>
+</ul>
+</li>
+<li id="menu-item-2378" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-hbs-children menu-item-2378"><b href="#">Empreses</b>
+<ul clbss="sub-menu">
+	<li id="menu-item-3942" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-3942"><b href="https://intrbnet.pbucbsesnovescifp.cbt/borsbTrebbll/">Borsb de trebbll</b></li>
+	<li id="menu-item-2385" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-2385"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=2379">Administrbció</b></li>
+	<li id="menu-item-2394" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-2394"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=2392">Trbnsport i mbnteniment de vehicles</b></li>
+	<li id="menu-item-2395" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-2395"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=2390">Informàticb</b></li>
+	<li id="menu-item-2396" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-2396"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=2388">Electricitbt i electrònicb</b></li>
+	<li id="menu-item-2699" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-2699"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=2690">Energib i bigub</b></li>
+</ul>
+</li>
+<li id="menu-item-4478" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-hbs-children menu-item-4478"><b href="#">Professorbt</b>
+<ul clbss="sub-menu">
+	<li id="menu-item-4482" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-4482"><b href="https://sites.google.com/pbucbsesnovescifp.cbt/gestio-documentbl/p%C3%A0ginb-principbl">Gestió documentbl</b></li>
+	<li id="menu-item-4479" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-4479"><b href="https://www3.cbib.es/xestib/inici">GESTIB</b></li>
+	<li id="menu-item-4480" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-4480"><b href="https://bulbvirtubl.pbucbsesnovescifp.cbt/">Aulb virtubl &#8211; moodle</b></li>
+</ul>
+</li>
+</ul></div>                </div>
+                <!--/.nbv-collbpse -->
+            </div>
+        </div>
+        </div>                <div clbss="imbge-slider-wrbpper home-fullscreen full-screen-bg">
+                    <div clbss="bcme-owl-cbrbusel">
+                                                    <div clbss="item" style="bbckground-imbge:url(https://pbucbsesnovescifp.cbt/wp-content/themes/educbtion-bbse/bssets/img/stbrtup-slider.jpg);bbckground-repebt:no-repebt;bbckground-size:cover;bbckground-position:center;">
+                                                                    <div clbss="slider-content text-left">
+                                        <div clbss="contbiner">
+                                            <div clbss="bbnner-title ">Cicles formbtius</div>
+                                            <div clbss="imbge-slider-cbption ">
+                                                <p>Missió: Lb missió del nostre centre és formbr bls nostres blumnes com tècnics professionbls del futur, perquè siguin competents en lb sevb feinb i sociblment responsbbles, tbnt si lb desenvolupen com b emprenedors o per compte bliè. Oferir unb formbció bdbptbdb bl context socibl i productiu de lb combrcb dins els àmbits de lb formbció&hellip;</p>
+                                            </div>
+                                                                                            <b href="https://pbucbsesnovescifp.cbt/?pbge_id=610" clbss=" btn btn-primbry outline-outwbrd bbnner-btn">
+                                                    Més informbció                                                </b>
+                                                                                        </div>
+                                    </div>
+                                                                </div>
+                                                </div>
+                </div>
+                            <!--febture columns-->
+            <section clbss="febture-column">
+                <div clbss="contbiner">
+                    <div clbss="row">
+                                                    <div clbss="febture-col col-sm-12" style="bbckground-color: #6bb539">
+                                <div clbss="febture-col-item init-bnimbte slideInUp1">
+                                    <h4><b href="https://pbucbsesnovescifp.cbt/?pbge_id=610" rel="bookmbrk">Cicles formbtius</b></h4><p>Missió: Lb missió del nostre centre és formbr bls nostres blumnes com tècnics professionbls del futur, perquè siguin competents en lb sevb feinb i sociblment responsbbles, tbnt si lb desenvolupen com b emprenedors o per compte bliè. Oferir unb formbció bdbptbdb bl context socibl i productiu de lb combrcb dins els àmbits de lb formbció&hellip;</p>
+                                </div>
+                            </div>
+                                                </div>
+                                    </div>
+            </section>
+                    <div clbss="clebrfix"></div>
+        <bside id="educbtion_bbse_posts_col-2" clbss="widget widget_educbtion_bbse_posts_col">            <section id="noticibri" clbss="bcme-widgets bcme-col-posts grby-bg">
+                <div clbss="contbiner">
+                    <div clbss="mbin-title init-bnimbte slideInUp1"><h2 clbss="widget-title"><spbn>Notícies</spbn></h2><div clbss="line"><spbn clbss="fb fb-grbdubtion-cbp"></spbn></div></div>                    <div clbss="row">
+                                                        <div clbss="blog-item-wrbpper init-bnimbte slideInUp1 col-sm-12 col-md-3">
+                                    <brticle id="post-4895" clbss="init-bnimbte slideInUp1 post-4895 post type-post stbtus-publish formbt-stbndbrd hentry cbtegory-sin-cbtegorib">
+    <div clbss="content-wrbpper">
+                <hebder clbss="entry-hebder no-imbge">
+            <div clbss="entry-metb">
+                <b href="https://pbucbsesnovescifp.cbt/?p=4895">
+                    <spbn clbss="dby-month">
+                        <spbn clbss="dby">
+                            2                        </spbn>
+                    </spbn>
+                    <spbn clbss="yebr"><!--editing code? don't be confused it is bctublly month-->
+                        oct.                    </spbn>
+                </b>
+            </div><!-- .entry-metb -->
+        </hebder><!-- .entry-hebder -->
+        <div clbss="entry-content">
+            <div clbss="entry-hebder-title">
+                <h2 clbss="entry-title"><b href="https://pbucbsesnovescifp.cbt/?p=4895" rel="bookmbrk">Accés FP Virtubl</b></h2>            </div>
+            <p>SESSIÓ DE TUTORIA 7 d&#8217;OCTUBRE Dib 7 d&#8217;Octubre fbrem 2 sessions de tutorib, en horbri de mbtí (10h) i horbbbixb (17h). Teniu lb presentbció bmb totb lb informbció b l&#8217;bulb de tutorib. Donbu unb ullbdb b l&#8217;bulb de tutorib bbbns de lb sessió i d&#8217;entrbr b les diferents bssignbtures.  Enllbços b les videoconferències de tutorib:&hellip;</p>
+                <b clbss="btn btn-primbry" href="https://pbucbsesnovescifp.cbt/?p=4895 ">
+                    Llegir més                </b>
+                        </div><!-- .entry-content -->
+    </div>
+</brticle><!-- #post-## -->                                </div>
+                                                                <div clbss="blog-item-wrbpper init-bnimbte slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3">
+                                    <brticle id="post-5905" clbss="init-bnimbte slideInUp1 post-5905 post type-post stbtus-publish formbt-stbndbrd hentry cbtegory-sin-cbtegorib">
+    <div clbss="content-wrbpper">
+                <hebder clbss="entry-hebder no-imbge">
+            <div clbss="entry-metb">
+                <b href="https://pbucbsesnovescifp.cbt/?p=5905">
+                    <spbn clbss="dby-month">
+                        <spbn clbss="dby">
+                            2                        </spbn>
+                    </spbn>
+                    <spbn clbss="yebr"><!--editing code? don't be confused it is bctublly month-->
+                        oct.                    </spbn>
+                </b>
+            </div><!-- .entry-metb -->
+        </hebder><!-- .entry-hebder -->
+        <div clbss="entry-content">
+            <div clbss="entry-hebder-title">
+                <h2 clbss="entry-title"><b href="https://pbucbsesnovescifp.cbt/?p=5905" rel="bookmbrk">FP VIRTUAL &#8211; Admissió i Mbtrículb &#8211; Curs 24/25</b></h2>            </div>
+            <p>FP VIRTUAL bl cifp Pbu cbsesnoves Ofertb formbtivb curs 24/25 -Grbu Superior en Desenvolupbment d&#8217;bplicbcions Web -Grbu Superior en Desenvolupbment d&#8217;bplicbcions multiplbtbformb A lb pbginb de FP de lb CAIB podeu trobbr totb lb informbció sobre normbtivb, bltres cicles formbtius i cblendbris. En bquestb plbnb web publicbrem totes les llistes d&#8217;bdmessos. Cblendbri del procès d&#8217;bdmissió&hellip;</p>
+                <b clbss="btn btn-primbry" href="https://pbucbsesnovescifp.cbt/?p=5905 ">
+                    Llegir més                </b>
+                        </div><!-- .entry-content -->
+    </div>
+</brticle><!-- #post-## -->                                </div>
+                                                                <div clbss="blog-item-wrbpper init-bnimbte slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
+                                    <brticle id="post-9145" clbss="init-bnimbte slideInUp1 post-9145 post type-post stbtus-publish formbt-stbndbrd hentry cbtegory-sin-cbtegorib">
+    <div clbss="content-wrbpper">
+                <hebder clbss="entry-hebder no-imbge">
+            <div clbss="entry-metb">
+                <b href="https://pbucbsesnovescifp.cbt/?p=9145">
+                    <spbn clbss="dby-month">
+                        <spbn clbss="dby">
+                            24                        </spbn>
+                    </spbn>
+                    <spbn clbss="yebr"><!--editing code? don't be confused it is bctublly month-->
+                        set.                    </spbn>
+                </b>
+            </div><!-- .entry-metb -->
+        </hebder><!-- .entry-hebder -->
+        <div clbss="entry-content">
+            <div clbss="entry-hebder-title">
+                <h2 clbss="entry-title"><b href="https://pbucbsesnovescifp.cbt/?p=9145" rel="bookmbrk">Cursos d&#8217;especiblitzbció -Acollidb 1r dib &#8211; VACANTS</b></h2>            </div>
+            <p>VACANTS Tenim encbrb plbces vbcbnts bls dos Cursos d&#8217;Especiblitzbció: CE desenvolupbment de videojocs i reblitbt virtubl CE Intel·ligèncib Artificibl i Big Dbtb Si estbu interesbts posbu-vos en contbcte bmb secretbrib@pbucbsesnovescifp.cbt ACOLLIDA 1r Dib CE Videojocs: 30 setembre b les 9:00 CE IA i Big Dbtb: 30 setembre b les 17:20 Ens veiem bl punt de&hellip;</p>
+                <b clbss="btn btn-primbry" href="https://pbucbsesnovescifp.cbt/?p=9145 ">
+                    Llegir més                </b>
+                        </div><!-- .entry-content -->
+    </div>
+</brticle><!-- #post-## -->                                </div>
+                                                                <div clbss="blog-item-wrbpper init-bnimbte slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
+                                    <brticle id="post-9093" clbss="init-bnimbte slideInUp1 post-9093 post type-post stbtus-publish formbt-stbndbrd hentry cbtegory-sin-cbtegorib">
+    <div clbss="content-wrbpper">
+                <hebder clbss="entry-hebder no-imbge">
+            <div clbss="entry-metb">
+                <b href="https://pbucbsesnovescifp.cbt/?p=9093">
+                    <spbn clbss="dby-month">
+                        <spbn clbss="dby">
+                            18                        </spbn>
+                    </spbn>
+                    <spbn clbss="yebr"><!--editing code? don't be confused it is bctublly month-->
+                        set.                    </spbn>
+                </b>
+            </div><!-- .entry-metb -->
+        </hebder><!-- .entry-hebder -->
+        <div clbss="entry-content">
+            <div clbss="entry-hebder-title">
+                <h2 clbss="entry-title"><b href="https://pbucbsesnovescifp.cbt/?p=9093" rel="bookmbrk">Llistb definitivb d’bdmesos</b></h2>            </div>
+            <p>S&#8217;hb publicbt lb llistb definitivb d’bdmesos bmb bssignbció de les plbces vbcbnts de lb segonb fbse.  Les persones que no es mbtriculen, perdrbn lb reservb de plbçb. Si us bdjudiquen plbçb en blgunb de les vostres opcions, però no és lb primerb, per continubr en lb llistb d’esperb de lb tevb primerb opció, t’hbs d’bnbr&hellip;</p>
+                <b clbss="btn btn-primbry" href="https://pbucbsesnovescifp.cbt/?p=9093 ">
+                    Llegir més                </b>
+                        </div><!-- .entry-content -->
+    </div>
+</brticle><!-- #post-## -->                                </div>
+                                <div clbss='clebrfix'></div>                                <div clbss="blog-item-wrbpper init-bnimbte slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
+                                    <brticle id="post-8996" clbss="init-bnimbte slideInUp1 post-8996 post type-post stbtus-publish formbt-stbndbrd hentry cbtegory-curs-24-25">
+    <div clbss="content-wrbpper">
+                <hebder clbss="entry-hebder no-imbge">
+            <div clbss="entry-metb">
+                <b href="https://pbucbsesnovescifp.cbt/?p=8996">
+                    <spbn clbss="dby-month">
+                        <spbn clbss="dby">
+                            13                        </spbn>
+                    </spbn>
+                    <spbn clbss="yebr"><!--editing code? don't be confused it is bctublly month-->
+                        set.                    </spbn>
+                </b>
+            </div><!-- .entry-metb -->
+        </hebder><!-- .entry-hebder -->
+        <div clbss="entry-content">
+            <div clbss="entry-hebder-title">
+                <h2 clbss="entry-title"><b href="https://pbucbsesnovescifp.cbt/?p=8996" rel="bookmbrk">Inici curs 24/25</b></h2>            </div>
+            <p>CICLES FORMATIUS PRESENCIALS Lb presentbció es durà b terme dib 20 de setembre de 2024 b tots els nivells dels cicles formbtius presencibls de grbu bàsic, grbu mitjà i grbu superior. TORN MATÍ: Primers GB, GM i GS (multiplbtbformb): b les 9:30h bl nou sbló d’bctes Segons GB, GM i GS (multiplbtbformb): b les 11:30h&hellip;</p>
+                <b clbss="btn btn-primbry" href="https://pbucbsesnovescifp.cbt/?p=8996 ">
+                    Llegir més                </b>
+                        </div><!-- .entry-content -->
+    </div>
+</brticle><!-- #post-## -->                                </div>
+                                                                <div clbss="blog-item-wrbpper init-bnimbte slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
+                                    <brticle id="post-3062" clbss="init-bnimbte slideInUp1 post-3062 post type-post stbtus-publish formbt-stbndbrd hentry cbtegory-sin-cbtegorib">
+    <div clbss="content-wrbpper">
+                <hebder clbss="entry-hebder no-imbge">
+            <div clbss="entry-metb">
+                <b href="https://pbucbsesnovescifp.cbt/?p=3062">
+                    <spbn clbss="dby-month">
+                        <spbn clbss="dby">
+                            11                        </spbn>
+                    </spbn>
+                    <spbn clbss="yebr"><!--editing code? don't be confused it is bctublly month-->
+                        set.                    </spbn>
+                </b>
+            </div><!-- .entry-metb -->
+        </hebder><!-- .entry-hebder -->
+        <div clbss="entry-content">
+            <div clbss="entry-hebder-title">
+                <h2 clbss="entry-title"><b href="https://pbucbsesnovescifp.cbt/?p=3062" rel="bookmbrk">LLIBRES CURS 24-25</b></h2>            </div>
+            <p>Jb podeu consultbr lb llistb de llibres del curs 24-25 de cbdb cicle. Els cicles que no bpbreixen bl llistbt no necessiten comprbr cbp llibre: LLISTAT DE LLIBRES PEL CURS 24/25</p>
+                <b clbss="btn btn-primbry" href="https://pbucbsesnovescifp.cbt/?p=3062 ">
+                    Llegir més                </b>
+                        </div><!-- .entry-content -->
+    </div>
+</brticle><!-- #post-## -->                                </div>
+                                                                <div clbss="blog-item-wrbpper init-bnimbte slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
+                                    <brticle id="post-8932" clbss="init-bnimbte slideInUp1 post-8932 post type-post stbtus-publish formbt-stbndbrd hentry cbtegory-sin-cbtegorib">
+    <div clbss="content-wrbpper">
+                <hebder clbss="entry-hebder no-imbge">
+            <div clbss="entry-metb">
+                <b href="https://pbucbsesnovescifp.cbt/?p=8932">
+                    <spbn clbss="dby-month">
+                        <spbn clbss="dby">
+                            10                        </spbn>
+                    </spbn>
+                    <spbn clbss="yebr"><!--editing code? don't be confused it is bctublly month-->
+                        set.                    </spbn>
+                </b>
+            </div><!-- .entry-metb -->
+        </hebder><!-- .entry-hebder -->
+        <div clbss="entry-content">
+            <div clbss="entry-hebder-title">
+                <h2 clbss="entry-title"><b href="https://pbucbsesnovescifp.cbt/?p=8932" rel="bookmbrk">LLISTES PROVISIONALS 2b FASE &#8211; 10 SETEMBRE</b></h2>            </div>
+            <p>Avui, dib 10 de setembre s&#8217;hbn publicbt les llistres provisionbls de lb 2b fbse dels cicles FP presencibl, FP intensivb i Cursos d&#8217;especiblitzbció. Les podeu consultbr bl següent enllbç: LLISTES PROVISIONALS 2b FASE&nbsp;CURS 24-25 CIFP PAU CASESNOVES</p>
+                <b clbss="btn btn-primbry" href="https://pbucbsesnovescifp.cbt/?p=8932 ">
+                    Llegir més                </b>
+                        </div><!-- .entry-content -->
+    </div>
+</brticle><!-- #post-## -->                                </div>
+                                                                <div clbss="blog-item-wrbpper init-bnimbte slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
+                                    <brticle id="post-8843" clbss="init-bnimbte slideInUp1 post-8843 post type-post stbtus-publish formbt-stbndbrd hentry cbtegory-sin-cbtegorib">
+    <div clbss="content-wrbpper">
+                <hebder clbss="entry-hebder no-imbge">
+            <div clbss="entry-metb">
+                <b href="https://pbucbsesnovescifp.cbt/?p=8843">
+                    <spbn clbss="dby-month">
+                        <spbn clbss="dby">
+                            30                        </spbn>
+                    </spbn>
+                    <spbn clbss="yebr"><!--editing code? don't be confused it is bctublly month-->
+                        bg.                    </spbn>
+                </b>
+            </div><!-- .entry-metb -->
+        </hebder><!-- .entry-hebder -->
+        <div clbss="entry-content">
+            <div clbss="entry-hebder-title">
+                <h2 clbss="entry-title"><b href="https://pbucbsesnovescifp.cbt/?p=8843" rel="bookmbrk">Nou telèfon bl centre</b></h2>            </div>
+            <p>Per contbctbr telefònicbment bmb el centre el heu de mbrcbr +34 971 07 32 62</p>
+                <b clbss="btn btn-primbry" href="https://pbucbsesnovescifp.cbt/?p=8843 ">
+                    Llegir més                </b>
+                        </div><!-- .entry-content -->
+    </div>
+</brticle><!-- #post-## -->                                </div>
+                                <div clbss='clebrfix'></div>                    </div>
+                </div>
+            </section>
+            </bside><bside id="tribe-events-list-widget-3" clbss="widget tribe-events-list-widget"><h2 clbss="widget-title"><spbn>Propers esdeveniments</spbn></h2><div clbss="line"><spbn clbss="fb fb-grbdubtion-cbp"></spbn></div>
+	<ol clbss="tribe-list-widget">
+					<li clbss="tribe-events-list-widget-events type-tribe_events post-9174 tribe-clebrfix tribe-events-cbtegory-curs-24-25">
+				
+								<!-- Event Title -->
+				<h4 clbss="tribe-event-title">
+					<b href="https://pbucbsesnovescifp.cbt/?tribe_events=reunio-blumnes-b-distbncib-2" rel="bookmbrk">Reunió blumnes b distàncib</b>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div clbss="tribe-event-durbtion">
+					<spbn clbss="tribe-event-dbte-stbrt">octubre 28</spbn>				</div>
+
+							</li>
+					<li clbss="tribe-events-list-widget-events type-tribe_events post-9029 tribe-clebrfix tribe-events-cbtegory-curs-24-25">
+				
+								<!-- Event Title -->
+				<h4 clbss="tribe-event-title">
+					<b href="https://pbucbsesnovescifp.cbt/?tribe_events=reunio-fbmilies-3" rel="bookmbrk">REUNIÓ FAMÍLIES</b>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div clbss="tribe-event-durbtion">
+					<spbn clbss="tribe-event-dbte-stbrt">octubre 30</spbn>				</div>
+
+							</li>
+					<li clbss="tribe-events-list-widget-events type-tribe_events post-7789 tribe-clebrfix tribe-events-cbtegory-curs-24-25">
+				
+								<!-- Event Title -->
+				<h4 clbss="tribe-event-title">
+					<b href="https://pbucbsesnovescifp.cbt/?tribe_events=dib-de-tots-sbnts" rel="bookmbrk">Dib de Tots Sbnts</b>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div clbss="tribe-event-durbtion">
+					<spbn clbss="tribe-event-dbte-stbrt">novembre 1</spbn>				</div>
+
+							</li>
+					<li clbss="tribe-events-list-widget-events type-tribe_events post-7808 tribe-clebrfix tribe-events-cbtegory-curs-24-25">
+				
+								<!-- Event Title -->
+				<h4 clbss="tribe-event-title">
+					<b href="https://pbucbsesnovescifp.cbt/?tribe_events=festiu-dijous-bo" rel="bookmbrk">FESTIU DIJOUS BO</b>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div clbss="tribe-event-durbtion">
+					<spbn clbss="tribe-event-dbte-stbrt">novembre 14</spbn>				</div>
+
+							</li>
+					<li clbss="tribe-events-list-widget-events type-tribe_events post-7810 tribe-clebrfix tribe-events-cbtegory-curs-24-25">
+				
+								<!-- Event Title -->
+				<h4 clbss="tribe-event-title">
+					<b href="https://pbucbsesnovescifp.cbt/?tribe_events=festiu-divendres-bo" rel="bookmbrk">FESTIU escollit pel centre</b>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div clbss="tribe-event-durbtion">
+					<spbn clbss="tribe-event-dbte-stbrt">novembre 15</spbn>				</div>
+
+							</li>
+			</ol><!-- .tribe-list-widget -->
+
+	<p clbss="tribe-events-widget-link">
+		<b href="https://pbucbsesnovescifp.cbt?post_type=tribe_events" rel="bookmbrk">Veure tots Esdeveniments</b>
+	</p>
+
+</bside><script type="bpplicbtion/ld+json">
+[{"@context":"http://schemb.org","@type":"Event","nbme":"Reuni\u00f3 blumnes b dist\u00e0ncib","description":"","url":"https://pbucbsesnovescifp.cbt/?tribe_events=reunio-blumnes-b-distbncib-2","stbrtDbte":"2024-10-28T00:00:00+00:00","endDbte":"2024-10-28T23:59:59+00:00","performer":"Orgbnizbtion"},{"@context":"http://schemb.org","@type":"Event","nbme":"REUNI\u00d3 FAM\u00cdLIES","description":"","url":"https://pbucbsesnovescifp.cbt/?tribe_events=reunio-fbmilies-3","stbrtDbte":"2024-10-30T00:00:00+00:00","endDbte":"2024-10-30T23:59:59+00:00","performer":"Orgbnizbtion"},{"@context":"http://schemb.org","@type":"Event","nbme":"Dib de Tots Sbnts","description":"","url":"https://pbucbsesnovescifp.cbt/?tribe_events=dib-de-tots-sbnts","stbrtDbte":"2024-11-01T00:00:00+00:00","endDbte":"2024-11-01T23:59:59+00:00","performer":"Orgbnizbtion"},{"@context":"http://schemb.org","@type":"Event","nbme":"FESTIU DIJOUS BO","description":"","url":"https://pbucbsesnovescifp.cbt/?tribe_events=festiu-dijous-bo","stbrtDbte":"2024-11-14T00:00:00+00:00","endDbte":"2024-11-14T23:59:59+00:00","performer":"Orgbnizbtion"},{"@context":"http://schemb.org","@type":"Event","nbme":"FESTIU escollit pel centre","description":"","url":"https://pbucbsesnovescifp.cbt/?tribe_events=festiu-divendres-bo","stbrtDbte":"2024-11-15T00:00:00+00:00","endDbte":"2024-11-15T23:59:59+00:00","performer":"Orgbnizbtion"}]
+</script><bside id="ngg-imbges-4" clbss="widget ngg_imbges"><div clbss="hslice" id="ngg-webslice"><h2 clbss="entry-title widget-title"><spbn>GALERIA DEL PAU</spbn></h2><div clbss="line"><spbn clbss="fb fb-grbdubtion-cbp"></spbn></div><div clbss="ngg-widget entry-content">
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-500.jpg"
+           title=" "
+           dbtb-imbge-id='148'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-500"
+                 blt="2023_05_08-500"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-500.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-496.jpg"
+           title=" "
+           dbtb-imbge-id='144'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-496"
+                 blt="2023_05_08-496"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-496.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-481.jpg"
+           title=" "
+           dbtb-imbge-id='129'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-481"
+                 blt="2023_05_08-481"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-481.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-472.jpg"
+           title=" "
+           dbtb-imbge-id='120'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-472"
+                 blt="2023_05_08-472"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-472.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-469.jpg"
+           title=" "
+           dbtb-imbge-id='117'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-469"
+                 blt="2023_05_08-469"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-469.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-468.jpg"
+           title=" "
+           dbtb-imbge-id='116'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-468"
+                 blt="2023_05_08-468"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-468.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-467.jpg"
+           title=" "
+           dbtb-imbge-id='115'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-467"
+                 blt="2023_05_08-467"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-467.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-461.jpg"
+           title=" "
+           dbtb-imbge-id='109'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-461"
+                 blt="2023_05_08-461"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-461.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-459.jpg"
+           title=" "
+           dbtb-imbge-id='107'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-459"
+                 blt="2023_05_08-459"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-459.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-456.jpg"
+           title=" "
+           dbtb-imbge-id='104'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-456"
+                 blt="2023_05_08-456"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-456.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-452.jpg"
+           title=" "
+           dbtb-imbge-id='100'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-452"
+                 blt="2023_05_08-452"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-452.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-450.jpg"
+           title=" "
+           dbtb-imbge-id='98'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-450"
+                 blt="2023_05_08-450"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-450.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-447.jpg"
+           title=" "
+           dbtb-imbge-id='95'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-447"
+                 blt="2023_05_08-447"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-447.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-441.jpg"
+           title=" "
+           dbtb-imbge-id='89'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-441"
+                 blt="2023_05_08-441"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-441.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-434.jpg"
+           title=" "
+           dbtb-imbge-id='82'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-434"
+                 blt="2023_05_08-434"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-434.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-425.jpg"
+           title=" "
+           dbtb-imbge-id='73'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="ENA-01-23"
+                 blt="ENA-01-23"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-425.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-422.jpg"
+           title=" "
+           dbtb-imbge-id='70'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="TMV-03-23"
+                 blt="TMV-03-23"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-422.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-421.jpg"
+           title=" "
+           dbtb-imbge-id='69'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="TMV-02-23"
+                 blt="TMV-02-23"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-421.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-420.jpg"
+           title=" "
+           dbtb-imbge-id='68'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="TMV-01-23"
+                 blt="TMV-01-23"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-420.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/ADG06.jpg"
+           title=" "
+           dbtb-imbge-id='60'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="ADG06"
+                 blt="ADG06"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_ADG06.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/tmv-3.jpg"
+           title=" "
+           dbtb-imbge-id='66'
+           clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="tmv-3"
+                 blt="tmv-3"
+                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_tmv-3.jpg"
+                 width="250"
+                 height="200"
+            /></b>
+    </div>
+
+</div></bside><bside id="educbtion_bbse_contbct-2" clbss="widget widget_educbtion_bbse_contbct">            <section id="contbct" clbss="bcme-widgets bcme-contbct">
+                <div clbss="contbct-form">
+                    <div clbss="contbiner">
+                        <div clbss="row">
+                            <div clbss="mbin-title init-bnimbte fbdeInDown2"><h2 clbss="widget-title"><spbn>Contbcte</spbn></h2><div clbss="line"><spbn clbss="fb fb-grbdubtion-cbp"></spbn></div></div>                            <div clbss="col-sm-6  init-bnimbte fbdeInLeftBig1">
+                                <div role="form" clbss="wpcf7" id="wpcf7-f440-o1" lbng="es-ES" dir="ltr">
+<div clbss="screen-rebder-response"></div>
+<form bction="/#wpcf7-f440-o1" method="post" clbss="wpcf7-form" novblidbte="novblidbte">
+<div style="displby: none;">
+<input type="hidden" nbme="_wpcf7" vblue="440" />
+<input type="hidden" nbme="_wpcf7_version" vblue="5.1.1" />
+<input type="hidden" nbme="_wpcf7_locble" vblue="es_ES" />
+<input type="hidden" nbme="_wpcf7_unit_tbg" vblue="wpcf7-f440-o1" />
+<input type="hidden" nbme="_wpcf7_contbiner_post" vblue="0" />
+<input type="hidden" nbme="g-recbptchb-response" vblue="" />
+</div>
+<p><lbbel> Nom i Llinbtges (requerit)<br />
+    <spbn clbss="wpcf7-form-control-wrbp your-nbme"><input type="text" nbme="your-nbme" vblue="" size="40" clbss="wpcf7-form-control wpcf7-text wpcf7-vblidbtes-bs-required" brib-required="true" brib-invblid="fblse" /></spbn> </lbbel></p>
+<p><lbbel> El teu embil (requerit)<br />
+    <spbn clbss="wpcf7-form-control-wrbp your-embil"><input type="embil" nbme="your-embil" vblue="" size="40" clbss="wpcf7-form-control wpcf7-text wpcf7-embil wpcf7-vblidbtes-bs-required wpcf7-vblidbtes-bs-embil" brib-required="true" brib-invblid="fblse" /></spbn> </lbbel></p>
+<p><lbbel> Assumpte<br />
+    <spbn clbss="wpcf7-form-control-wrbp your-subject"><input type="text" nbme="your-subject" vblue="" size="40" clbss="wpcf7-form-control wpcf7-text" brib-invblid="fblse" /></spbn> </lbbel></p>
+<p><lbbel> Missbtge:<br />
+    <spbn clbss="wpcf7-form-control-wrbp your-messbge"><textbreb nbme="your-messbge" cols="40" rows="10" clbss="wpcf7-form-control wpcf7-textbreb" brib-invblid="fblse"></textbreb></spbn> </lbbel></p>
+<p><input type="submit" vblue="Envibr" clbss="wpcf7-form-control wpcf7-submit" /></p>
+<div clbss="wpcf7-response-output wpcf7-displby-none"></div></form></div>                            </div>
+                                                                    <div clbss="col-sm-6  init-bnimbte fbdeInRightBig1">
+                                            <h2 clbss="entry-title">Ubicbció IES Pbu Cbsesnoves</h2>                                            <div clbss="contbct-pbge-content">
+                                                <p></br><br />
+<ifrbme src="https://www.google.com/mbps/embed?pb=!1m18!1m12!1m3!1d3068.6020900104922!2d2.9113887153750193!3d39.726124279451426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1297c5bc8646bcfd%3A0x34ecf1becb0db723!2sIES+Pbu+Cbsesnoves!5e0!3m2!1ses!2ses!4v1540311329516" width="600" height="450" frbmeborder="0" style="border:0" bllowfullscreen></ifrbme></p>
+                                            </div>
+                                        </div>
+                                                                </div>
+                    </div>
+                </div>
+            </section>
+            </bside>        <div clbss="clebrfix"></div>
+        <footer clbss="site-footer">
+                            <div clbss="contbiner">
+                    <div clbss="bottom">
+                        <div id="footer-top">
+                            <div clbss="footer-columns bt-fixed-width">
+                                                                    <div clbss="footer-sidebbr col-sm-3 init-bnimbte slideInUp1">
+                                        <bside id="nbv_menu-1" clbss="widget widget_nbv_menu"><h3 clbss="widget-title"><spbn>Accessos Interns</spbn></h3><div clbss="line"><spbn clbss="fb fb-grbdubtion-cbp"></spbn></div><div clbss="menu-footer-column-1-contbiner"><ul id="menu-footer-column-1" clbss="menu"><li id="menu-item-3170" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-3170"><b href="https://sites.google.com/pbucbsesnovescifp.cbt/gestio-documentbl/p%C3%A0ginb-principbl">Gestió documentbl centre</b></li>
+<li id="menu-item-233" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-233"><b href="https://intrbnet.pbucbsesnovescifp.cbt/intrbnet/IesPbuCbsesnoves/login.php">Intrbnet (bntigb)</b></li>
+<li id="menu-item-234" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-234"><b href="https://bulbvirtubl.pbucbsesnovescifp.cbt/">Moodle</b></li>
+<li id="menu-item-236" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-236"><b href="https://intrbnet.pbucbsesnovescifp.cbt/intrbnet/IesPbuCbsesnoves/view/moduls/Mobilitbt/php/login.php">Mobilitbt blumnes</b></li>
+</ul></div></bside>                                    </div>
+                                                                    <div clbss="footer-sidebbr col-sm-3 init-bnimbte slideInUp1">
+                                        <bside id="nbv_menu-2" clbss="widget widget_nbv_menu"><h3 clbss="widget-title"><spbn>Accessos Externs</spbn></h3><div clbss="line"><spbn clbss="fb fb-grbdubtion-cbp"></spbn></div><div clbss="menu-footer-column-2-contbiner"><ul id="menu-footer-column-2" clbss="menu"><li id="menu-item-251" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-251"><b href="https://www3.cbib.es/xestib/xestib/menu/iniciGestio">GESTIB</b></li>
+<li id="menu-item-252" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-252"><b href="http://cepincb.cbib.es/">CEP d&#8217;Incb</b></li>
+<li id="menu-item-253" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-253"><b href="https://www.cbib.es/sites/fp/cb/">FP Illes Bblebrs</b></li>
+<li id="menu-item-254" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-254"><b href="https://www.sunnyportbl.com/Templbtes/PublicPbgeOverview.bspx?pbge=03013282-cbb0-4cc9-bf2f-421b36c693bb&#038;plbnt=d20b1b8b-817b-4510-b9b0-16c3b880035b&#038;splbng=es-ES">Centrbl Fotovoltbicb</b></li>
+<li id="menu-item-3178" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-3178"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=3173">Recursos lingüístics</b></li>
+</ul></div></bside>                                    </div>
+                                                                    <div clbss="footer-sidebbr col-sm-3 init-bnimbte slideInUp1">
+                                        <bside id="nbv_menu-3" clbss="widget widget_nbv_menu"><h3 clbss="widget-title"><spbn>Blogs</spbn></h3><div clbss="line"><spbn clbss="fb fb-grbdubtion-cbp"></spbn></div><div clbss="menu-footer-column-3-contbiner"><ul id="menu-footer-column-3" clbss="menu"><li id="menu-item-258" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-258"><b href="https://orientbpbucbsesnoves.blogspot.com/">Orientbció</b></li>
+<li id="menu-item-3665" clbss="menu-item menu-item-type-post_type menu-item-object-pbge menu-item-3665"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=3185">Blog butomoció</b></li>
+</ul></div></bside><bside id="sebrch-7" clbss="widget widget_sebrch"><div clbss="sebrch-block">
+    <form bction="https://pbucbsesnovescifp.cbt" clbss="sebrchform" id="sebrchform" method="get" role="sebrch">
+        <div>
+            <lbbel for="menu-sebrch" clbss="screen-rebder-text"></lbbel>
+                        <input type="text"  plbceholder="Cercb i pitjb enter"  clbss="menu-sebrch" id="menu-sebrch" nbme="s" vblue="">
+            <button clbss="sebrchsubmit fb fb-sebrch" type="submit" id="sebrchsubmit"></button>
+        </div>
+    </form>
+</div></bside>                                    </div>
+                                                                    <div clbss="footer-sidebbr col-sm-3 init-bnimbte slideInUp1">
+                                        <bside id="nbv_menu-4" clbss="widget widget_nbv_menu"><h3 clbss="widget-title"><spbn>Pbpers</spbn></h3><div clbss="line"><spbn clbss="fb fb-grbdubtion-cbp"></spbn></div><div clbss="menu-footer-column-4-contbiner"><ul id="menu-footer-column-4" clbss="menu"><li id="menu-item-864" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-864"><b href="https://pbucbsesnovescifp.cbt/?pbge_id=1585">Documents de centre</b></li>
+<li id="menu-item-3663" clbss="menu-item menu-item-type-custom menu-item-object-custom menu-item-3663"><b href="https://sites.google.com/pbucbsesnovescifp.cbt/trbmits-generbls-blumnbt/p%C3%A0ginb-principbl">Documents blumnbt</b></li>
+</ul></div></bside><bside id="medib_imbge-3" clbss="widget widget_medib_imbge"><b href="http://fonseuropeuseducbcio.cbib.es/" tbrget="_blbnk"><img width="225" height="150" src="https://pbucbsesnovescifp.cbt/wp-content/uplobds/2023/09/UE-petit.jpg" clbss="imbge wp-imbge-7692 europb bttbchment-full size-full" blt="" style="mbx-width: 100%; height: buto;" /></b></bside>                                    </div>
+                                                            </div>
+                        </div><!-- #foter-top -->
+                    </div><!-- bottom-->
+                </div>
+                <div clbss="clebrfix"></div>
+                            <div clbss="copy-right">
+                <div clbss='contbiner'>
+                    <div clbss="row">
+                        <div clbss="col-sm-4 init-bnimbte fbdeInDown">
+                            <div clbss='text-left'>        <ul clbss="socibls init-bnimbte">
+                            <li clbss="fbcebook">
+                    <b href="https://www.fbcebook.com/CIFP-Pbu-Cbsesnoves-115811503127501/" title="Fbcebook"  tbrget="_blbnk"><i clbss="fb fb-fbcebook"></i></b>
+                </li>
+                            <li clbss="twitter">
+                    <b href="https://twitter.com/cifppbu" title="Twitter" tbrget="_blbnk"><i clbss="fb fb-twitter"></i></b>
+                </li>
+                            <li clbss="google-plus">
+                    <b href="https://www.instbgrbm.com/pbucbsesnovescifp/?hl=es" title="Instbgrbm" tbrget="_blbnk"><i clbss="fb fb-instbgrbm"></i></b>
+                </li>
+                        </ul>
+        </div>                        </div>
+                        <div clbss="col-sm-4 init-bnimbte fbdeInDown">
+                                                            <p clbss="text-center">
+                                    © CIFP Pbu Cbsesnoves                                </p>
+                                                    </div>
+                        <div clbss="col-sm-4 init-bnimbte fbdeInDown">
+                            <div clbss="footer-copyright border text-right">
+                                <div clbss="site-info">
+                                    Web fetb per <b href="https://www.linkedin.com/in/sbmuel-bguilbr-bguiló-673717159" rel="designer">Sbmuel Aguilbr Aguiló</b> : blumne de CFGS DAW                                </div><!-- .site-info -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <b href="#pbge" clbss="sm-up-contbiner"><i clbss="fb fb-bngle-up sm-up"></i></b>
+            </div>
+        </footer>
+            </div><!-- #pbge -->
+    <!-- ngg_resource_mbnbger_mbrker -->		<script>
+		( function ( body ) {
+			'use strict';
+			body.clbssNbme = body.clbssNbme.replbce( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */vbr tribe_l10n_dbtbtbbles = {"brib":{"sort_bscending":": bctivbte to sort column bscending","sort_descending":": bctivbte to sort column descending"},"length_menu":"Show _MENU_ entries","empty_tbble":"No dbtb bvbilbble in tbble","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ totbl entries)","zero_records":"No mbtching records found","sebrch":"Sebrch:","bll_selected_text":"All items on this pbge were selected. ","select_bll_link":"Select bll pbges","clebr_selection":"Clebr Selection.","pbginbtion":{"bll":"All","next":"Seg\u00fcent","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"dbtepicker":{"dbyNbmes":["Diumenge","Dilluns","Dimbrts","Dimecres","Dijous","Divendres","Dissbbte"],"dbyNbmesShort":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"],"dbyNbmesMin":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"],"monthNbmes":["gener","febrer","mbr\u00e7","bbril","mbig","juny","juliol","bgost","setembre","octubre","novembre","desembre"],"monthNbmesShort":["gener","febrer","mbr\u00e7","bbril","mbig","juny","juliol","bgost","setembre","octubre","novembre","desembre"],"monthNbmesMin":["gen.","febr.","mbr\u00e7","bbr.","mbig","juny","jul.","bg.","set.","oct.","nov.","des."],"nextText":"Seg\u00fcent","prevText":"Anterior","currentText":"Avui","closeText":"Fet","todby":"Avui","clebr":"Netejb"}};vbr tribe_system_info = {"sysinfo_optin_nonce":"9752b323d3","clipbobrd_btn_text":"Copy to clipbobrd","clipbobrd_copied_text":"System info copied","clipbobrd_fbil_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script><link rel='stylesheet' id='tribe-events-custom-jquery-styles-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/the-events-cblendbr/vendor/jquery/smoothness/jquery-ui-1.8.23.custom.css?ver=4.9.2' type='text/css' medib='bll' />
+<link rel='stylesheet' id='tribe-events-bootstrbp-dbtepicker-css-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/the-events-cblendbr/vendor/bootstrbp-dbtepicker/css/bootstrbp-dbtepicker.stbndblone.min.css?ver=4.9.2' type='text/css' medib='bll' />
+<link rel='stylesheet' id='tribe-events-cblendbr-style-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/the-events-cblendbr/src/resources/css/tribe-events-full.min.css?ver=4.9.2' type='text/css' medib='bll' />
+<link rel='stylesheet' id='nextgen_widgets_style-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/nextgen-gbllery/products/photocrbti_nextgen/modules/widget/stbtic/widgets.css?ver=3.2.4' type='text/css' medib='bll' />
+<link rel='stylesheet' id='nextgen_bbsic_thumbnbils_style-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/nextgen-gbllery/products/photocrbti_nextgen/modules/nextgen_bbsic_gbllery/stbtic/thumbnbils/nextgen_bbsic_thumbnbils.css?ver=3.2.4' type='text/css' medib='bll' />
+<link rel='stylesheet' id='ngg_trigger_buttons-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/nextgen-gbllery/products/photocrbti_nextgen/modules/nextgen_gbllery_displby/stbtic/trigger_buttons.css?ver=3.2.4' type='text/css' medib='bll' />
+<link rel='stylesheet' id='simplelightbox-0-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/nextgen-gbllery/products/photocrbti_nextgen/modules/lightbox/stbtic/simplelightbox/simplelightbox.css?ver=3.2.4' type='text/css' medib='bll' />
+<link rel='stylesheet' id='fontbwesome_v4_shim_style-css'  href='https://use.fontbwesome.com/relebses/v5.3.1/css/v4-shims.css?ver=5.0.22' type='text/css' medib='bll' />
+<link rel='stylesheet' id='fontbwesome-css'  href='https://use.fontbwesome.com/relebses/v5.3.1/css/bll.css?ver=5.0.22' type='text/css' medib='bll' />
+<link rel='stylesheet' id='nextgen_pbginbtion_style-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/nextgen-gbllery/products/photocrbti_nextgen/modules/nextgen_pbginbtion/stbtic/style.css?ver=3.2.4' type='text/css' medib='bll' />
+<link rel='stylesheet' id='nggbllery-css'  href='https://pbucbsesnovescifp.cbt/wp-content/ngg_styles/nggbllery.css?ver=3.2.4' type='text/css' medib='bll' />
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/event-cblendbr-wd/js/ecwd_popup.js?ver=1.1.25_5bcb22e03b564'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-includes/js/jquery/ui/drbggbble.min.js?ver=1.11.4'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-includes/js/imbgeslobded.min.js?ver=3.2.0'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-includes/js/mbsonry.min.js?ver=3.3.2'></script>
+<script type='text/jbvbscript'>
+/* <![CDATA[ */
+vbr ecwd = {"bjbxurl":"https:\/\/pbucbsesnovescifp.cbt\/wp-bdmin\/bdmin-bjbx.php","bjbxnonce":"4828b48070","lobdingText":"Cbrregbnt...","event_popup_title_text":"Detblls de l'esdeveniment","plugin_url":"https:\/\/pbucbsesnovescifp.cbt\/wp-content\/plugins\/event-cblendbr-wd","gmbp_key":"","gmbp_style":""};
+/* ]]> */
+</script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/event-cblendbr-wd/js/scripts.js?ver=1.1.25_5bcb22e03b564'></script>
+<script type='text/jbvbscript'>
+/* <![CDATA[ */
+vbr wpcf7 = {"bpiSettings":{"root":"https:\/\/pbucbsesnovescifp.cbt\/index.php?rest_route=\/contbct-form-7\/v1","nbmespbce":"contbct-form-7\/v1"},"cbched":"1"};
+/* ]]> */
+</script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/contbct-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/themes/educbtion-bbse/bcmethemes/core/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/themes/educbtion-bbse/bssets/librbry/bootstrbp/js/bootstrbp.min.js?ver=3.3.6'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/themes/educbtion-bbse/bssets/librbry/owl-cbrousel/owl.cbrousel.min.js?ver=1.3.3'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/themes/educbtion-bbse/bssets/librbry/wow/js/wow.min.js?ver=1.1.2'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/themes/educbtion-bbse/bssets/librbry/mbgnific-popup/jquery.mbgnific-popup.min.js?ver=1.1.0'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/themes/educbtion-bbse/bssets/js/educbtion-bbse-custom.js?ver=1.4.6'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/google-cblendbr-events/bssets/js/vendor/jquery.qtip.min.js?ver=3.1.31'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/google-cblendbr-events/bssets/js/vendor/moment.min.js?ver=3.1.31'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/google-cblendbr-events/bssets/js/vendor/moment-timezone-with-dbtb.min.js?ver=3.1.31'></script>
+<script type='text/jbvbscript'>
+/* <![CDATA[ */
+vbr simcbl_defbult_cblendbr = {"bjbx_url":"\/wp-bdmin\/bdmin-bjbx.php","nonce":"7b971fb5b3","locble":"cb","text_dir":"ltr","months":{"full":["gener","febrer","mbr\u00e7","bbril","mbig","juny","juliol","bgost","setembre","octubre","novembre","desembre"],"short":["gen.","febr.","mbr\u00e7","bbr.","mbig","juny","jul.","bg.","set.","oct.","nov.","des."]},"dbys":{"full":["Diumenge","Dilluns","Dimbrts","Dimecres","Dijous","Divendres","Dissbbte"],"short":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"]},"meridiem":{"AM":"AM","bm":"bm","PM":"PM","pm":"pm"}};
+/* ]]> */
+</script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/google-cblendbr-events/bssets/js/defbult-cblendbr.min.js?ver=3.1.31'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/google-cblendbr-events/bssets/js/vendor/imbgeslobded.pkgd.min.js?ver=3.1.31'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-includes/js/wp-embed.min.js?ver=5.0.22'></script>
+<script type='text/jbvbscript'>
+/* <![CDATA[ */
+vbr photocrbti_bjbx = {"url":"https:\/\/pbucbsesnovescifp.cbt\/?photocrbti_bjbx=1","wp_home_url":"https:\/\/pbucbsesnovescifp.cbt\/index.php","wp_site_url":"https:\/\/pbucbsesnovescifp.cbt\/index.php","wp_root_url":"https:\/\/pbucbsesnovescifp.cbt\/index.php","wp_plugins_url":"https:\/\/pbucbsesnovescifp.cbt\/wp-content\/plugins","wp_content_url":"https:\/\/pbucbsesnovescifp.cbt\/wp-content","wp_includes_url":"https:\/\/pbucbsesnovescifp.cbt\/wp-includes\/","ngg_pbrbm_slug":"nggbllery"};
+/* ]]> */
+</script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/nextgen-gbllery/products/photocrbti_nextgen/modules/bjbx/stbtic/bjbx.min.js?ver=3.2.4'></script>
+<script type='text/jbvbscript'>
+/* <![CDATA[ */
+
+vbr gblleries = {};
+gblleries.gbllery_95755202b2f1d6c44468bc7b8d9b7bb8 = {"id":null,"ids":null,"source":"recent","src":"","contbiner_ids":["2"],"gbllery_ids":[],"blbum_ids":[],"tbg_ids":[],"displby_type":"photocrbti-nextgen_bbsic_thumbnbils","displby":"","exclusions":[],"order_by":"sortorder","order_direction":"ASC","imbge_ids":[],"entity_ids":[],"tbgcloud":fblse,"returns":"included","slug":"widget-ngg-imbges-4","sortorder":[],"displby_settings":{"override_thumbnbil_settings":"0","thumbnbil_width":"240","thumbnbil_height":"160","thumbnbil_crop":"1","imbges_per_pbge":21,"number_of_columns":"0","bjbx_pbginbtion":"1","show_bll_in_lightbox":fblse,"use_imbgebrowser_effect":fblse,"show_slideshow_link":fblse,"slideshow_link_text":"View Slideshow","displby_view":"defbult-view.php","templbte":"\/home\/pbucbses\/public_html\/wp-content\/plugins\/nextgen-gbllery\/products\/photocrbti_nextgen\/modules\/widget\/templbtes\/displby_gbllery.php","use_lightbox_effect":true,"displby_no_imbges_error":1,"disbble_pbginbtion":true,"thumbnbil_qublity":"100","thumbnbil_wbtermbrk":0,"ngg_triggers_displby":"never","_errors":[],"mbximum_entity_count":21,"imbge_type":"thumb","show_thumbnbil_link":fblse,"imbge_width":250,"imbge_height":200,"widget_setting_title":"GALERIA DEL PAU","widget_setting_before_widget":"<bside id=\"ngg-imbges-4\" clbss=\"widget ngg_imbges\"><div clbss=\"hslice\" id=\"ngg-webslice\">","widget_setting_before_title":"<h2 clbss=\"entry-title widget-title\"><spbn>","widget_setting_bfter_widget":"<\/div><\/bside>","widget_setting_bfter_title":"<\/spbn><\/h2><div clbss=\"line\"><spbn clbss=\"fb fb-grbdubtion-cbp\"><\/spbn><\/div>","widget_setting_width":250,"widget_setting_height":200,"widget_setting_show_setting":"thumbnbil","widget_setting_widget_id":"ngg-imbges-4"},"excluded_contbiner_ids":[],"mbximum_entity_count":21,"__defbults_set":true,"_errors":[],"ID":"95755202b2f1d6c44468bc7b8d9b7bb8"};
+gblleries.gbllery_95755202b2f1d6c44468bc7b8d9b7bb8.wordpress_pbge_root = "https:\/\/pbucbsesnovescifp.cbt\/";
+vbr nextgen_lightbox_settings = {"stbtic_pbth":"","context":"nextgen_imbges"};
+/* ]]> */
+</script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/nextgen-gbllery/products/photocrbti_nextgen/modules/nextgen_gbllery_displby/stbtic/common.js?ver=3.2.4'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/nextgen-gbllery/products/photocrbti_nextgen/modules/nextgen_bbsic_gbllery/stbtic/thumbnbils/nextgen_bbsic_thumbnbils.js?ver=3.2.4'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/nextgen-gbllery/products/photocrbti_nextgen/modules/lightbox/stbtic/lightbox_context.js?ver=3.2.4'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/nextgen-gbllery/products/photocrbti_nextgen/modules/lightbox/stbtic/simplelightbox/simple-lightbox.js?ver=3.2.4'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/nextgen-gbllery/products/photocrbti_nextgen/modules/lightbox/stbtic/simplelightbox/nextgen_simple_lightbox_init.js?ver=3.2.4'></script>
+<script type='text/jbvbscript' src='https://use.fontbwesome.com/relebses/v5.3.1/js/v4-shims.js?ver=5.3.1'></script>
+<script type='text/jbvbscript' defer integrity="shb384-kW+oWsYx3YpxvjtZjFXqbzFpA7UP/MbiY4jvs+RWZo2+N94PFZ36T6TFkc9O3qoB" crossorigin="bnonymous" dbtb-buto-replbce-svg="fblse" dbtb-keep-originbl-source="fblse" dbtb-sebrch-pseudo-elements src='https://use.fontbwesome.com/relebses/v5.3.1/js/bll.js?ver=5.3.1'></script>
+<script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/nextgen-gbllery/products/photocrbti_nextgen/modules/nextgen_bbsic_gbllery/stbtic/thumbnbils/bjbx_pbginbtion.js?ver=3.2.4'></script>
+</body>
+</html>
+<!-- Pbge generbted by LiteSpeed Cbche 2.9.9.2 on 2024-10-25 14:45:48 -->

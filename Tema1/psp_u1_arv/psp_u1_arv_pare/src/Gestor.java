@@ -96,6 +96,23 @@ public class Gestor {
                     System.out.println(resultado);
                 }
                 case 4 -> {
+                    String ruta = "C:\\Users\\alber\\Desktop\\GIT\\Programación\\ProgServ\\Tema1\\psp_u1_arv\\psp_u1_arv_pare\\src\\encrypted.txt";
+                    String[] command = {
+                            "java",
+                            "-cp",
+                            dirPath,
+                            "LeeTxt",
+                            ruta
+                    };
+                    System.out.println("iniciando");
+                    Process process = Procesos.ejecutaPrograma(command);
+                    System.out.println("enviado");
+
+                    System.out.println("leyendo");
+                    ArrayList<String> salida = Procesos.leer(process);
+                    for (String linea : salida) {
+                        System.out.println(linea);
+                    }
                 }
                 case 5 -> {
                 }

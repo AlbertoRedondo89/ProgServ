@@ -34,7 +34,7 @@ public class CambiaLetras {
     private static boolean cambiador(String texto, char letraACambiar, char nuevaLetra) {
         boolean fin;
 
-        String fileName = "Cambialetras_" + letraACambiar + "_" + nuevaLetra + ".txt";       // Crear el nombre del archivo
+        String fileName = "encrypted.txt";                                                   // Crear el nombre del archivo
         String currentDirPath = System.getProperty("user.dir");                              // Obtener el directorio actual
         String parentDirPath = currentDirPath.substring(0, currentDirPath.length() - 19);    // Eliminar las últimas 19 letras de la ruta
         // Construir la ruta completa al archivo
