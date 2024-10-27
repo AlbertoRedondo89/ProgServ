@@ -6,8 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Procesos {
-    public static final String dirPath = "C:\\Users\\alber\\Desktop\\GIT\\Programación\\ProgServ\\Tema1\\psp_u1_arv\\psp_u1_arv_fill\\src\\";
-
+    public static final String dirPath = System.getProperty("user.dir") + File.separator + ".." + File.separator + "psp_u1_arv_fill" + File.separator + "src";
     public static Process ejecutaPrograma(String[] command) {
 
         ProcessBuilder programa = new ProcessBuilder(command);

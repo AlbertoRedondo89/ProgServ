@@ -38,7 +38,7 @@ public class Gestor {
                     System.out.println("A tomar por culo la bicicleta");
                     pass();
                 }
-                case 1 -> {
+                case 1 -> { // CARGAR WEB
                     String[] command = {
                             "java",
                             "-cp",
@@ -60,7 +60,7 @@ public class Gestor {
                     }
 
                 }
-                case 2 -> {
+                case 2 -> { // CONTAR LETRAS
                     String buscador = "a";
                     String[] command = {
                             "java",
@@ -74,7 +74,7 @@ public class Gestor {
                     String resultado = Procesos.leer(process).toString();
                     System.out.println(resultado);
                 }
-                case 3 -> {
+                case 3 -> { // CAMBIAR LETRAS
                     String letraACambiar = "a";
                     String nuevaLetra = "b";
                     String[] command = {
@@ -87,6 +87,11 @@ public class Gestor {
                     };
                     Process process = Procesos.ejecutaPrograma(command);
                     Procesos.enviar(process, String.join("\n",textoWeb));
+                    try {
+                        process.waitFor();
+                    } catch (InterruptedException e) {
+                        throw new RuntimeException(e);
+                    }
                     String resultado = Procesos.leer(process).toString();
                     System.out.println(resultado);
                 }
