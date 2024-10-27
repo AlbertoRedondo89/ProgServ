@@ -96,7 +96,7 @@ public class Gestor {
                     System.out.println(resultado);
                 }
                 case 4 -> {
-                    String ruta = "C:\\Users\\alber\\Desktop\\GIT\\Programación\\ProgServ\\Tema1\\psp_u1_arv\\psp_u1_arv_pare\\src\\encrypted.txt";
+                    String ruta = System.getProperty("user.dir")+"\\src\\encrypted.txt\"";
                     String[] command = {
                             "java",
                             "-cp",
@@ -115,6 +115,23 @@ public class Gestor {
                     }
                 }
                 case 5 -> {
+                    String palabra = "copetinSagrao";
+                    String[] command = {
+                            "java",
+                            "-cp",
+                            dirPath,
+                            "BuscaPalabra",
+                            palabra
+                    };
+                    Process process = Procesos.ejecutaPrograma(command);
+                    Procesos.enviar(process, String.join("\n",textoWeb));
+                    try {
+                        process.waitFor();
+                    } catch (InterruptedException e) {
+                        throw new RuntimeException(e);
+                    }
+                    String resultado = Procesos.leer(process).toString();
+                    System.out.println(resultado);
                 }
                 case 6 -> {
                 }
