@@ -4,6 +4,7 @@ import tools.Menu;
 import java.awt.*;
 import java.io.File;
 import java.io.IOException;
+import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.regex.Matcher;
@@ -11,22 +12,23 @@ import java.util.regex.Pattern;
 
 import static procesos.Procesos.dirPath;
 
-public class Gestor {
+public class temporal {
 
+    Process process;
     private ArrayList<String> textoWeb = new ArrayList<>(); // HTML web de la web
     private String url;                                // URL web
     Scanner scan = new Scanner(System.in);
     String[] rutaGenerica = {
             "java",
             "-cp",
-            dirPath
+            dirPath,
     };
 
     boolean existeIndex = false;
     boolean existeStringWeb = false;
     boolean existeEncrypted = false;
 
-    public Gestor() {
+    public temporal() {
         System.out.println("Introduzca una url web");
         do {
             url = scan.nextLine();
@@ -80,7 +82,7 @@ public class Gestor {
         command[3] = "DescargaWeb";
         command[4] = url;// Pasar la URL como argumento
 
-        Process process = Procesos.ejecutaPrograma(command);
+        process = Procesos.ejecutaPrograma(command);
                     /* WAITFOR QUITADO POR FALLOS, PENDIENTE DE REVISION
                     try {
                         process.waitFor();
@@ -115,8 +117,8 @@ public class Gestor {
             letraACambiar = scan.nextLine();}
         while(letraACambiar.isEmpty());
         do {
-        System.out.println("¿Por qué letra quieres cambiarla?");
-        nuevaLetra = scan.nextLine();}
+            System.out.println("¿Por qué letra quieres cambiarla?");
+            nuevaLetra = scan.nextLine();}
         while (nuevaLetra.isEmpty());
         String[] command = new String[6];
         System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
@@ -132,12 +134,8 @@ public class Gestor {
         System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
         command[3] = "LeeTxt";
         command[4] = ruta;
-        File archivo = new File(ruta);
-        if (!archivo.exists()) {
-            System.out.println("El archivo no existe en la ruta: " + ruta);
-            return; // Salir del método si el archivo no existe
-        }
-        creaProcesoSinWait(command);
+
+        creaProceso(command);
     }
 
     private void buscaPalabra() {
@@ -178,22 +176,13 @@ public class Gestor {
     }
 
     private void creaProceso(String[] command) {
-        Process process = Procesos.ejecutaPrograma(command);
+        process = Procesos.ejecutaPrograma(command);
         Procesos.enviar(process, String.join("\n",textoWeb));
         try {
             process.waitFor();
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
-        ArrayList<String> salida = Procesos.leer(process);
-        for (String linea : salida) {
-            System.out.println(linea);
-        }
-    }
-    private void creaProcesoSinWait(String[] command) {
-        Process process = Procesos.ejecutaPrograma(command);
-        Procesos.enviar(process, String.join("\n",textoWeb));
-
         ArrayList<String> salida = Procesos.leer(process);
         for (String linea : salida) {
             System.out.println(linea);
