@@ -29,12 +29,27 @@ public class Procesos {
             bW.write(n);
             bW.newLine();
             bW.flush();
-            bW.close();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
     }
 
+    /*
+    *  private void leerTxt() {
+        String ruta = System.getProperty("user.dir")+"\\src\\encrypted.txt\"";
+        File archivo = new File("src\\encrypted.txt");
+        String[] command = new String[5];
+        System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
+        command[3] = "LeeTxt";
+        command[4] = ruta;
+        if (archivo.exists()) creaProceso(command);
+        else {
+            System.out.println("Paree que el archvio no existe.");
+            System.out.println("escribe 'SI' para crearlo");
+            String respuesta = scan.nextLine();
+            if (respuesta.equalsIgnoreCase("SI")) cambiarLetra();
+        }
+    }*/
     public static ArrayList<String> leer(Process proces) {
         ArrayList<String> toReturn = new ArrayList<>();
         // Leemos la salida estándar
@@ -66,3 +81,5 @@ public class Procesos {
         return toReturn;
     }
 }
+
+/**/
