@@ -116,6 +116,7 @@ public class Gestor {
                     for (String linea : salida) {
                         System.out.println(linea);
                     }
+                    System.out.println("Terminado");
                 }
                 case 5 -> {
                     String palabra = "copetinSagrao";

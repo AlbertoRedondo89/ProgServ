@@ -1,4 +1,4 @@
-Inicibndo descbrgb desde: https://pbucbsesnovescifp.cbt/
+Inicibndo descbrgb desde: https://pbucbsesnovescifp.cbt
 Código de respuestb: 200
 Contenido descbrgbdo:
         <!DOCTYPE html><html lbng="cb">
@@ -680,192 +680,192 @@ brticle.post .entry-hebder .dby-month {
 </bside><script type="bpplicbtion/ld+json">
 [{"@context":"http://schemb.org","@type":"Event","nbme":"Reuni\u00f3 blumnes b dist\u00e0ncib","description":"","url":"https://pbucbsesnovescifp.cbt/?tribe_events=reunio-blumnes-b-distbncib-2","stbrtDbte":"2024-10-28T00:00:00+00:00","endDbte":"2024-10-28T23:59:59+00:00","performer":"Orgbnizbtion"},{"@context":"http://schemb.org","@type":"Event","nbme":"REUNI\u00d3 FAM\u00cdLIES","description":"","url":"https://pbucbsesnovescifp.cbt/?tribe_events=reunio-fbmilies-3","stbrtDbte":"2024-10-30T00:00:00+00:00","endDbte":"2024-10-30T23:59:59+00:00","performer":"Orgbnizbtion"},{"@context":"http://schemb.org","@type":"Event","nbme":"Dib de Tots Sbnts","description":"","url":"https://pbucbsesnovescifp.cbt/?tribe_events=dib-de-tots-sbnts","stbrtDbte":"2024-11-01T00:00:00+00:00","endDbte":"2024-11-01T23:59:59+00:00","performer":"Orgbnizbtion"},{"@context":"http://schemb.org","@type":"Event","nbme":"FESTIU DIJOUS BO","description":"","url":"https://pbucbsesnovescifp.cbt/?tribe_events=festiu-dijous-bo","stbrtDbte":"2024-11-14T00:00:00+00:00","endDbte":"2024-11-14T23:59:59+00:00","performer":"Orgbnizbtion"},{"@context":"http://schemb.org","@type":"Event","nbme":"FESTIU escollit pel centre","description":"","url":"https://pbucbsesnovescifp.cbt/?tribe_events=festiu-divendres-bo","stbrtDbte":"2024-11-15T00:00:00+00:00","endDbte":"2024-11-15T23:59:59+00:00","performer":"Orgbnizbtion"}]
 </script><bside id="ngg-imbges-4" clbss="widget ngg_imbges"><div clbss="hslice" id="ngg-webslice"><h2 clbss="entry-title widget-title"><spbn>GALERIA DEL PAU</spbn></h2><div clbss="line"><spbn clbss="fb fb-grbdubtion-cbp"></spbn></div><div clbss="ngg-widget entry-content">
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-500.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-500.jpg"
            title=" "
            dbtb-imbge-id='148'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-500"
                  blt="2023_05_08-500"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-500.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-500.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-496.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-496.jpg"
            title=" "
            dbtb-imbge-id='144'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-496"
                  blt="2023_05_08-496"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-496.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-496.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-481.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-481.jpg"
            title=" "
            dbtb-imbge-id='129'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-481"
                  blt="2023_05_08-481"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-481.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-481.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-472.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-472.jpg"
            title=" "
            dbtb-imbge-id='120'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-472"
                  blt="2023_05_08-472"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-472.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-472.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-469.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-469.jpg"
            title=" "
            dbtb-imbge-id='117'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-469"
                  blt="2023_05_08-469"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-469.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-469.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-468.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-468.jpg"
            title=" "
            dbtb-imbge-id='116'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-468"
                  blt="2023_05_08-468"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-468.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-468.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-467.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-467.jpg"
            title=" "
            dbtb-imbge-id='115'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-467"
                  blt="2023_05_08-467"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-467.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-467.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-461.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-461.jpg"
            title=" "
            dbtb-imbge-id='109'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-461"
                  blt="2023_05_08-461"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-461.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-461.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-459.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-459.jpg"
            title=" "
            dbtb-imbge-id='107'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-459"
                  blt="2023_05_08-459"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-459.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-459.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-456.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-456.jpg"
            title=" "
            dbtb-imbge-id='104'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-456"
                  blt="2023_05_08-456"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-456.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-456.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-452.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-452.jpg"
            title=" "
            dbtb-imbge-id='100'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-452"
                  blt="2023_05_08-452"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-452.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-452.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-450.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-450.jpg"
            title=" "
            dbtb-imbge-id='98'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-450"
                  blt="2023_05_08-450"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-450.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-450.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-447.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-447.jpg"
            title=" "
            dbtb-imbge-id='95'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-447"
                  blt="2023_05_08-447"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-447.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-447.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-441.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-441.jpg"
            title=" "
            dbtb-imbge-id='89'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-441"
                  blt="2023_05_08-441"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-441.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-441.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-434.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-434.jpg"
            title=" "
            dbtb-imbge-id='82'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="2023_05_08-434"
                  blt="2023_05_08-434"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-434.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-434.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-425.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-425.jpg"
            title=" "
            dbtb-imbge-id='73'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="ENA-01-23"
                  blt="ENA-01-23"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-425.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-425.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-422.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-422.jpg"
            title=" "
            dbtb-imbge-id='70'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="TMV-03-23"
                  blt="TMV-03-23"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-422.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-422.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-421.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-421.jpg"
            title=" "
            dbtb-imbge-id='69'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="TMV-02-23"
                  blt="TMV-02-23"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-421.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-421.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-420.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/2023_05_08-420.jpg"
            title=" "
            dbtb-imbge-id='68'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="TMV-01-23"
                  blt="TMV-01-23"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-420.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_2023_05_08-420.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/ADG06.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/ADG06.jpg"
            title=" "
            dbtb-imbge-id='60'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="ADG06"
                  blt="ADG06"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_ADG06.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_ADG06.jpg"
                  width="250"
                  height="200"
             /></b>
-            <b href="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/tmv-3.jpg"
+            <b href="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/tmv-3.jpg"
            title=" "
            dbtb-imbge-id='66'
            clbss="ngg-simplelightbox" rel="95755202b2f1d6c44468bc7b8d9b7bb8"           ><img title="tmv-3"
                  blt="tmv-3"
-                 src="https://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_tmv-3.jpg"
+                 src="http://pbucbsesnovescifp.cbt/wp-content/gbllery/principbl/thumbs/thumbs_tmv-3.jpg"
                  width="250"
                  height="200"
             /></b>
@@ -985,7 +985,7 @@ brticle.post .entry-hebder .dby-month {
 			body.clbssNbme = body.clbssNbme.replbce( /\btribe-no-js\b/, 'tribe-js' );
 		} )( document.body );
 		</script>
-		<script> /* <![CDATA[ */vbr tribe_l10n_dbtbtbbles = {"brib":{"sort_bscending":": bctivbte to sort column bscending","sort_descending":": bctivbte to sort column descending"},"length_menu":"Show _MENU_ entries","empty_tbble":"No dbtb bvbilbble in tbble","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ totbl entries)","zero_records":"No mbtching records found","sebrch":"Sebrch:","bll_selected_text":"All items on this pbge were selected. ","select_bll_link":"Select bll pbges","clebr_selection":"Clebr Selection.","pbginbtion":{"bll":"All","next":"Seg\u00fcent","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"dbtepicker":{"dbyNbmes":["Diumenge","Dilluns","Dimbrts","Dimecres","Dijous","Divendres","Dissbbte"],"dbyNbmesShort":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"],"dbyNbmesMin":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"],"monthNbmes":["gener","febrer","mbr\u00e7","bbril","mbig","juny","juliol","bgost","setembre","octubre","novembre","desembre"],"monthNbmesShort":["gener","febrer","mbr\u00e7","bbril","mbig","juny","juliol","bgost","setembre","octubre","novembre","desembre"],"monthNbmesMin":["gen.","febr.","mbr\u00e7","bbr.","mbig","juny","jul.","bg.","set.","oct.","nov.","des."],"nextText":"Seg\u00fcent","prevText":"Anterior","currentText":"Avui","closeText":"Fet","todby":"Avui","clebr":"Netejb"}};vbr tribe_system_info = {"sysinfo_optin_nonce":"9752b323d3","clipbobrd_btn_text":"Copy to clipbobrd","clipbobrd_copied_text":"System info copied","clipbobrd_fbil_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script><link rel='stylesheet' id='tribe-events-custom-jquery-styles-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/the-events-cblendbr/vendor/jquery/smoothness/jquery-ui-1.8.23.custom.css?ver=4.9.2' type='text/css' medib='bll' />
+		<script> /* <![CDATA[ */vbr tribe_l10n_dbtbtbbles = {"brib":{"sort_bscending":": bctivbte to sort column bscending","sort_descending":": bctivbte to sort column descending"},"length_menu":"Show _MENU_ entries","empty_tbble":"No dbtb bvbilbble in tbble","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ totbl entries)","zero_records":"No mbtching records found","sebrch":"Sebrch:","bll_selected_text":"All items on this pbge were selected. ","select_bll_link":"Select bll pbges","clebr_selection":"Clebr Selection.","pbginbtion":{"bll":"All","next":"Seg\u00fcent","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"dbtepicker":{"dbyNbmes":["Diumenge","Dilluns","Dimbrts","Dimecres","Dijous","Divendres","Dissbbte"],"dbyNbmesShort":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"],"dbyNbmesMin":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"],"monthNbmes":["gener","febrer","mbr\u00e7","bbril","mbig","juny","juliol","bgost","setembre","octubre","novembre","desembre"],"monthNbmesShort":["gener","febrer","mbr\u00e7","bbril","mbig","juny","juliol","bgost","setembre","octubre","novembre","desembre"],"monthNbmesMin":["gen.","febr.","mbr\u00e7","bbr.","mbig","juny","jul.","bg.","set.","oct.","nov.","des."],"nextText":"Seg\u00fcent","prevText":"Anterior","currentText":"Avui","closeText":"Fet","todby":"Avui","clebr":"Netejb"}};vbr tribe_system_info = {"sysinfo_optin_nonce":"7c94d839e9","clipbobrd_btn_text":"Copy to clipbobrd","clipbobrd_copied_text":"System info copied","clipbobrd_fbil_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script><link rel='stylesheet' id='tribe-events-custom-jquery-styles-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/the-events-cblendbr/vendor/jquery/smoothness/jquery-ui-1.8.23.custom.css?ver=4.9.2' type='text/css' medib='bll' />
 <link rel='stylesheet' id='tribe-events-bootstrbp-dbtepicker-css-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/the-events-cblendbr/vendor/bootstrbp-dbtepicker/css/bootstrbp-dbtepicker.stbndblone.min.css?ver=4.9.2' type='text/css' medib='bll' />
 <link rel='stylesheet' id='tribe-events-cblendbr-style-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/the-events-cblendbr/src/resources/css/tribe-events-full.min.css?ver=4.9.2' type='text/css' medib='bll' />
 <link rel='stylesheet' id='nextgen_widgets_style-css'  href='https://pbucbsesnovescifp.cbt/wp-content/plugins/nextgen-gbllery/products/photocrbti_nextgen/modules/widget/stbtic/widgets.css?ver=3.2.4' type='text/css' medib='bll' />
@@ -1005,7 +1005,7 @@ brticle.post .entry-hebder .dby-month {
 <script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-includes/js/mbsonry.min.js?ver=3.3.2'></script>
 <script type='text/jbvbscript'>
 /* <![CDATA[ */
-vbr ecwd = {"bjbxurl":"https:\/\/pbucbsesnovescifp.cbt\/wp-bdmin\/bdmin-bjbx.php","bjbxnonce":"4828b48070","lobdingText":"Cbrregbnt...","event_popup_title_text":"Detblls de l'esdeveniment","plugin_url":"https:\/\/pbucbsesnovescifp.cbt\/wp-content\/plugins\/event-cblendbr-wd","gmbp_key":"","gmbp_style":""};
+vbr ecwd = {"bjbxurl":"https:\/\/pbucbsesnovescifp.cbt\/wp-bdmin\/bdmin-bjbx.php","bjbxnonce":"3d1b5bdbb1","lobdingText":"Cbrregbnt...","event_popup_title_text":"Detblls de l'esdeveniment","plugin_url":"https:\/\/pbucbsesnovescifp.cbt\/wp-content\/plugins\/event-cblendbr-wd","gmbp_key":"","gmbp_style":""};
 /* ]]> */
 </script>
 <script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/event-cblendbr-wd/js/scripts.js?ver=1.1.25_5bcb22e03b564'></script>
@@ -1026,7 +1026,7 @@ vbr wpcf7 = {"bpiSettings":{"root":"https:\/\/pbucbsesnovescifp.cbt\/index.php?r
 <script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/google-cblendbr-events/bssets/js/vendor/moment-timezone-with-dbtb.min.js?ver=3.1.31'></script>
 <script type='text/jbvbscript'>
 /* <![CDATA[ */
-vbr simcbl_defbult_cblendbr = {"bjbx_url":"\/wp-bdmin\/bdmin-bjbx.php","nonce":"7b971fb5b3","locble":"cb","text_dir":"ltr","months":{"full":["gener","febrer","mbr\u00e7","bbril","mbig","juny","juliol","bgost","setembre","octubre","novembre","desembre"],"short":["gen.","febr.","mbr\u00e7","bbr.","mbig","juny","jul.","bg.","set.","oct.","nov.","des."]},"dbys":{"full":["Diumenge","Dilluns","Dimbrts","Dimecres","Dijous","Divendres","Dissbbte"],"short":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"]},"meridiem":{"AM":"AM","bm":"bm","PM":"PM","pm":"pm"}};
+vbr simcbl_defbult_cblendbr = {"bjbx_url":"\/wp-bdmin\/bdmin-bjbx.php","nonce":"e6ef0f2bd3","locble":"cb","text_dir":"ltr","months":{"full":["gener","febrer","mbr\u00e7","bbril","mbig","juny","juliol","bgost","setembre","octubre","novembre","desembre"],"short":["gen.","febr.","mbr\u00e7","bbr.","mbig","juny","jul.","bg.","set.","oct.","nov.","des."]},"dbys":{"full":["Diumenge","Dilluns","Dimbrts","Dimecres","Dijous","Divendres","Dissbbte"],"short":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"]},"meridiem":{"AM":"AM","bm":"bm","PM":"PM","pm":"pm"}};
 /* ]]> */
 </script>
 <script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/google-cblendbr-events/bssets/js/defbult-cblendbr.min.js?ver=3.1.31'></script>
@@ -1057,4 +1057,4 @@ vbr nextgen_lightbox_settings = {"stbtic_pbth":"","context":"nextgen_imbges"};
 <script type='text/jbvbscript' src='https://pbucbsesnovescifp.cbt/wp-content/plugins/nextgen-gbllery/products/photocrbti_nextgen/modules/nextgen_bbsic_gbllery/stbtic/thumbnbils/bjbx_pbginbtion.js?ver=3.2.4'></script>
 </body>
 </html>
-<!-- Pbge generbted by LiteSpeed Cbche 2.9.9.2 on 2024-10-25 14:45:48 -->
+<!-- Pbge generbted by LiteSpeed Cbche 2.9.9.2 on 2024-10-28 12:50:44 -->
