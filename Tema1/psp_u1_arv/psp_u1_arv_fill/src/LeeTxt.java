@@ -26,6 +26,7 @@ public class LeeTxt {
             for (String linea : texto) {
                 out.println(linea);
             }
+            out.flush();
         }
     }
 }

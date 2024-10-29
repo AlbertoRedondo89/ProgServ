@@ -19,6 +19,7 @@ public class DescargaWeb {
         DataOutputStream ops = new DataOutputStream(new BufferedOutputStream(System.out));
         try {
             ops.write(contenido.getBytes());
+            ops.flush();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }

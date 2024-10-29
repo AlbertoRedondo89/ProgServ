@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Procesos {
-    public static final String dirPath = System.getProperty("user.dir") + File.separator + ".." + File.separator + "psp_u1_arv_fill" + File.separator + "src";
+    public static String dirPath = System.getProperty("user.dir") + File.separator + ".." + File.separator + "psp_u1_arv_fill" + File.separator + "src";
     public static Process ejecutaPrograma(String[] command) {
 
         ProcessBuilder programa = new ProcessBuilder(command);
@@ -29,6 +29,7 @@ public class Procesos {
             bW.write(n);
             bW.newLine();
             bW.flush();
+            bW.close();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }

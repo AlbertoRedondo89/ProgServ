@@ -80,18 +80,7 @@ public class Gestor {
         command[3] = "DescargaWeb";
         command[4] = url;// Pasar la URL como argumento
 
-        Process process = Procesos.ejecutaPrograma(command);
-                    /* WAITFOR QUITADO POR FALLOS, PENDIENTE DE REVISION
-                    try {
-                        process.waitFor();
-                    } catch (InterruptedException e) {
-                        throw new RuntimeException(e);
-                    }
-                     */
-        textoWeb = Procesos.leer(process);
-        for(String line : textoWeb) {
-            System.out.println(line);
-        }
+        creaProcesoSinWait(command);
     }
     private void contarLetras() {
         String buscador;
@@ -100,11 +89,12 @@ public class Gestor {
             buscador = scan.nextLine();
         }
         while (buscador.isEmpty());
+        System.out.println("ejecutando");
         String[] command = new String[5];
         System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
         command[3] = "CuentaCaracteres";
         command[4] = buscador;
-
+        System.out.println("Llamando al proceso");
         creaProceso(command);
     }
 
@@ -127,7 +117,7 @@ public class Gestor {
         creaProceso(command);
     }
     private void leerTxt() {
-        String ruta = System.getProperty("user.dir")+"\\src\\encrypted.txt\"";
+        String ruta = System.getProperty("user.dir")+"\\src\\encrypted.txt";
         String[] command = new String[5];
         System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
         command[3] = "LeeTxt";
@@ -135,6 +125,7 @@ public class Gestor {
         File archivo = new File(ruta);
         if (!archivo.exists()) {
             System.out.println("El archivo no existe en la ruta: " + ruta);
+            System.out.println("Seleccione la opción 3 para crearlo");
             return; // Salir del método si el archivo no existe
         }
         creaProcesoSinWait(command);
@@ -179,12 +170,15 @@ public class Gestor {
 
     private void creaProceso(String[] command) {
         Process process = Procesos.ejecutaPrograma(command);
+        System.out.println("Enviando");
         Procesos.enviar(process, String.join("\n",textoWeb));
         try {
+            System.out.println("Esperando");
             process.waitFor();
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
+        System.out.println("Recibiendo datos");
         ArrayList<String> salida = Procesos.leer(process);
         for (String linea : salida) {
             System.out.println(linea);
