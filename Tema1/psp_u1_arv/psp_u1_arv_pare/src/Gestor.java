@@ -80,7 +80,13 @@ public class Gestor {
         command[3] = "DescargaWeb";
         command[4] = url;// Pasar la URL como argumento
 
-        creaProcesoSinWait(command);
+        Process process = Procesos.ejecutaPrograma(command);
+        Procesos.enviar(process, String.join("\n",textoWeb));
+
+        textoWeb = Procesos.leer(process);
+        for (String linea : textoWeb) {
+            System.out.println(linea);
+        }
     }
     private void contarLetras() {
         String buscador;
@@ -132,6 +138,10 @@ public class Gestor {
     }
 
     private void buscaPalabra() {
+        if (textoWeb.isEmpty()) {
+            System.out.println("Todavía no has cargado la página, pulsa 1 para hacerlo");
+            return;
+        }
         String txt;
         do {
             System.out.println("¿Que texto quieres buscar en la web?");
