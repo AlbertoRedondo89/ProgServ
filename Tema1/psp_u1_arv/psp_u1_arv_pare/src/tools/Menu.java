@@ -33,7 +33,7 @@ public class Menu {
             return get.nextInt();
         }
         catch (InputMismatchException e) {
-            System.out.println("caca");
+            System.out.println("Opción incorrecta");
         }
         return -1;
     }

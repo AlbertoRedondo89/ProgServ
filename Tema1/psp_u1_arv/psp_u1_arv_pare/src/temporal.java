@@ -1,3 +1,4 @@
+/*
 import procesos.Procesos;
 import tools.Menu;
 
@@ -51,7 +52,9 @@ public class temporal {
                     System.out.println("A tomar por culo la bicicleta");
                     pass();
                 }
-                case 1 -> cargarweb();              /* CARGAR WEB */
+                case 1 -> cargarweb();              */
+/* CARGAR WEB *//*
+
                 case 2 -> contarLetras();           // CONTAR LETRAS
                 case 3 -> cambiarLetra();           // CAMBIAR LETRAS
                 case 4 -> leerTxt();                // LEE EL ARCHIVO TXT
@@ -83,13 +86,15 @@ public class temporal {
         command[4] = url;// Pasar la URL como argumento
 
         process = Procesos.ejecutaPrograma(command);
-                    /* WAITFOR QUITADO POR FALLOS, PENDIENTE DE REVISION
+                    */
+/* WAITFOR QUITADO POR FALLOS, PENDIENTE DE REVISION
                     try {
                         process.waitFor();
                     } catch (InterruptedException e) {
                         throw new RuntimeException(e);
                     }
-                     */
+                     *//*
+
         textoWeb = Procesos.leer(process);
         for(String line : textoWeb) {
             System.out.println(line);
@@ -189,3 +194,4 @@ public class temporal {
         }
     }
 }
+*/
