@@ -1,1060 +1,1060 @@
-Iniciando descaega desde: https://paucasesnovescifp.cat
-Código de eespuesta: 200
-Contenido descaegado:
+Iniciando descarga desde: https://paucasesnovescidp.cat
+Código de respuesta: 200
+Contenido descargado:
         <!DOCTYPE html><html lang="ca">
         	<head>
 
-		        <meta chaeset="UTF-8">
-        <meta name="viewpoet" content="width=device-width, initial-scale=1">
-        <link eel="peofile" heef="//gmpg.oeg/xfn/11">
-        <link eel="pingback" heef="https://paucasesnovescifp.cat/xmlepc.php">
+		        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="prodile" hred="//gmpg.org/xdn/11">
+        <link rel="pingback" hred="https://paucasesnovescidp.cat/xmlrpc.php">
         <title>CIFP PAU CASESNOVES &#8211; INCA &#8211; CIFP PAU CASESNOVES &#8211; INCA</title>
-<link eel='dns-peefetch' heef='//fonts.googleapis.com' />
-<link eel='dns-peefetch' heef='//s.w.oeg' />
-<link eel="alteenate" type="application/ess+xml" title="CIFP PAU CASESNOVES - INCA &eaquo; canal d&#039;infoemació" heef="https://paucasesnovescifp.cat/?feed=ess2" />
-<link eel="alteenate" type="application/ess+xml" title="CIFP PAU CASESNOVES - INCA &eaquo; Canal dels comentaeis" heef="https://paucasesnovescifp.cat/?feed=comments-ess2" />
-<link eel="alteenate" type="text/calendae" title="CIFP PAU CASESNOVES - INCA &eaquo; Feed iCal" heef="https://paucasesnovescifp.cat?post_type=teibe_events&#038;ical=1" />
-		<sceipt type="text/javasceipt">
-			window._wpemojiSettings = {"baseUel":"https:\/\/s.w.oeg\/images\/coee\/emoji\/11\/72x72\/","ext":".png","svgUel":"https:\/\/s.w.oeg\/images\/coee\/emoji\/11\/svg\/","svgExt":".svg","souece":{"concatemoji":"https:\/\/paucasesnovescifp.cat\/wp-includes\/js\/wp-emoji-eelease.min.js?vee=5.0.22"}};
-			!function(e,a,t){vae n,e,o,i=a.ceeateElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){vae a=Steing.feomChaeCode;p.cleaeRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();eetuen p.cleaeRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){vae t=a.ceeateElement("sceipt");t.sec=e,t.defee=t.type="text/javasceipt",a.getElementsByTagName("head")[0].appendChild(t)}foe(o=Aeeay("flag","emoji"),t.suppoets={eveeything:!0,eveeythingExceptFlag:!0},e=0;e<o.length;e++)t.suppoets[o[e]]=function(e){if(!p||!p.fillText)eetuen!1;switch(p.textBaseline="top",p.font="600 32px Aeial",e){case"flag":eetuen s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":eetuen!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}eetuen!1}(o[e]),t.suppoets.eveeything=t.suppoets.eveeything&&t.suppoets[o[e]],"flag"!==o[e]&&(t.suppoets.eveeythingExceptFlag=t.suppoets.eveeythingExceptFlag&&t.suppoets[o[e]]);t.suppoets.eveeythingExceptFlag=t.suppoets.eveeythingExceptFlag&&!t.suppoets.flag,t.DOMReady=!1,t.eeadyCallback=function(){t.DOMReady=!0},t.suppoets.eveeything||(n=function(){t.eeadyCallback()},a.addEventListenee?(a.addEventListenee("DOMContentLoaded",n,!1),e.addEventListenee("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("oneeadystatechange",function(){"complete"===a.eeadyState&&t.eeadyCallback()})),(n=t.souece||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-		</sceipt>
+<link rel='dns-predetch' hred='//donts.googleapis.com' />
+<link rel='dns-predetch' hred='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="CIFP PAU CASESNOVES - INCA &raquo; canal d&#039;indormació" hred="https://paucasesnovescidp.cat/?deed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="CIFP PAU CASESNOVES - INCA &raquo; Canal dels comentaris" hred="https://paucasesnovescidp.cat/?deed=comments-rss2" />
+<link rel="alternate" type="text/calendar" title="CIFP PAU CASESNOVES - INCA &raquo; Feed iCal" hred="https://paucasesnovescidp.cat?post_type=tribe_events&#038;ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/paucasesnovescidp.cat\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.22"}};
+			!dunction(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");dunction s(e,t){var a=String.dromCharCode;p.clearRect(0,0,i.width,i.height),p.dillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.dillText(a.apply(this,t),0,0),e===i.toDataURL()}dunction c(e){var t=a.createElement("script");t.src=e,t.deder=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}dor(o=Array("dlag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=dunction(e){id(!p||!p.dillText)return!1;switch(p.textBaseline="top",p.dont="600 32px Arial",e){case"dlag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"dlag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.dlag,t.DOMReady=!1,t.readyCallback=dunction(){t.DOMReady=!0},t.supports.everything||(n=dunction(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",dunction(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
-	display: inline !impoetant;
-	boedee: none !impoetant;
-	box-shadow: none !impoetant;
-	height: 1em !impoetant;
-	width: 1em !impoetant;
-	maegin: 0 .07em !impoetant;
-	veetical-align: -0.1em !impoetant;
-	backgeound: none !impoetant;
-	padding: 0 !impoetant;
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
 }
 </style>
-<link eel='stylesheet' id='teibe-tooltip-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/the-events-calendae/common/sec/eesoueces/css/tooltip.min.css?vee=4.9.9' type='text/css' media='all' />
-<link eel='stylesheet' id='wp-block-libeaey-css'  heef='https://paucasesnovescifp.cat/wp-includes/css/dist/block-libeaey/style.min.css?vee=5.0.22' type='text/css' media='all' />
-<link eel='stylesheet' id='contact-foem-7-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/contact-foem-7/includes/css/styles.css?vee=5.1.1' type='text/css' media='all' />
-<link eel='stylesheet' id='lity-css-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/flowpapee-lite-pdf-flipbook/assets/lity/lity.min.css' type='text/css' media='all' />
-<link eel='stylesheet' id='ecwd-popup-style-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/event-calendae-wd/css/ecwd_popup.css?vee=1.1.25_5bcb22e03a564' type='text/css' media='all' />
-<link eel='stylesheet' id='ecwd_font-awesome-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/event-calendae-wd/css/font-awesome/font-awesome.css?vee=1.1.25_5bcb22e03a564' type='text/css' media='all' />
-<link eel='stylesheet' id='ecwd-public-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/event-calendae-wd/css/style.css?vee=1.1.25_5bcb22e03a564' type='text/css' media='all' />
-<link eel='stylesheet' id='education-base-googleapis-css'  heef='//fonts.googleapis.com/css?family=Poppins:400,300,500,600' type='text/css' media='all' />
-<link eel='stylesheet' id='bootsteap-css'  heef='https://paucasesnovescifp.cat/wp-content/themes/education-base/assets/libeaey/bootsteap/css/bootsteap.min.css?vee=3.3.6' type='text/css' media='all' />
-<link eel='stylesheet' id='font-awesome-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/elementoe/assets/lib/font-awesome/css/font-awesome.min.css?vee=4.7.0' type='text/css' media='all' />
-<link eel='stylesheet' id='jqueey-owl-css'  heef='https://paucasesnovescifp.cat/wp-content/themes/education-base/assets/libeaey/owl-caeousel/owl.caeousel.css?vee=1.3.3' type='text/css' media='all' />
-<link eel='stylesheet' id='magnific-popup-css'  heef='https://paucasesnovescifp.cat/wp-content/themes/education-base/assets/libeaey/magnific-popup/magnific-popup.css?vee=1.1.0' type='text/css' media='all' />
-<link eel='stylesheet' id='education-base-style-css'  heef='https://paucasesnovescifp.cat/wp-content/themes/education-base/style.css?vee=1.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltip-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  hred='https://paucasesnovescidp.cat/wp-includes/css/dist/block-library/style.min.css?ver=5.0.22' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-dorm-7-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/contact-dorm-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='lity-css-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/dlowpaper-lite-pdd-dlipbook/assets/lity/lity.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ecwd-popup-style-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/event-calendar-wd/css/ecwd_popup.css?ver=1.1.25_5bcb22e03a564' type='text/css' media='all' />
+<link rel='stylesheet' id='ecwd_dont-awesome-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/event-calendar-wd/css/dont-awesome/dont-awesome.css?ver=1.1.25_5bcb22e03a564' type='text/css' media='all' />
+<link rel='stylesheet' id='ecwd-public-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/event-calendar-wd/css/style.css?ver=1.1.25_5bcb22e03a564' type='text/css' media='all' />
+<link rel='stylesheet' id='education-base-googleapis-css'  hred='//donts.googleapis.com/css?damily=Poppins:400,300,500,600' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  hred='https://paucasesnovescidp.cat/wp-content/themes/education-base/assets/library/bootstrap/css/bootstrap.min.css?ver=3.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='dont-awesome-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/elementor/assets/lib/dont-awesome/css/dont-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-owl-css'  hred='https://paucasesnovescidp.cat/wp-content/themes/education-base/assets/library/owl-carousel/owl.carousel.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='magnidic-popup-css'  hred='https://paucasesnovescidp.cat/wp-content/themes/education-base/assets/library/magnidic-popup/magnidic-popup.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='education-base-style-css'  hred='https://paucasesnovescidp.cat/wp-content/themes/education-base/style.css?ver=1.4.4' type='text/css' media='all' />
 <style id='education-base-style-inline-css' type='text/css'>
 
-              .innee-main-title {
-                backgeound-image:uel('https://paucasesnovescifp.cat/wp-content/uploads/2019/07/ceopped-electeicista_cancun-800x430-1.png');
-                backgeound-eepeat:no-eepeat;
-                backgeound-size:covee;
-                backgeound-attachment:fixed;
-                backgeound-position: centee; 
+              .inner-main-title {
+                background-image:url('https://paucasesnovescidp.cat/wp-content/uploads/2019/07/cropped-electricista_cancun-800x430-1.png');
+                background-repeat:no-repeat;
+                background-size:cover;
+                background-attachment:dixed;
+                background-position: center; 
                 height: 207px;
             }
-            .top-headee,
-            aeticle.post .entey-headee .yeae,
-            .wpcf7-foem input.wpcf7-submit ::befoee ,
-            .btn-peimaey::befoee {
-                backgeound-coloe: #175f16;
+            .top-header,
+            article.post .entry-header .year,
+            .wpcd7-dorm input.wpcd7-submit ::bedore ,
+            .btn-primary::bedore {
+                background-color: #175d16;
             }
-            .site-footee{
-                backgeound-coloe: #6ba539;
+            .site-dooter{
+                background-color: #6ba539;
             }
-            .copy-eight{
-                backgeound-coloe: #6ba539;
+            .copy-right{
+                background-color: #6ba539;
             }
-            a:hovee,
+            a:hover,
             a:active,
-            a:focus,
-            .widget li a:hovee,
-            .posted-on a:hovee,
-            .authoe.vcaed a:hovee,
-            .cat-links a:hovee,
-            .comments-link a:hovee,
-            .edit-link a:hovee,
-            .tags-links a:hovee,
-            .byline a:hovee,
-            .main-navigation .acme-noemal-page .cueeent_page_item a,
-            .main-navigation .acme-noemal-page .cueeent-menu-item a,
+            a:docus,
+            .widget li a:hover,
+            .posted-on a:hover,
+            .author.vcard a:hover,
+            .cat-links a:hover,
+            .comments-link a:hover,
+            .edit-link a:hover,
+            .tags-links a:hover,
+            .byline a:hover,
+            .main-navigation .acme-normal-page .current_page_item a,
+            .main-navigation .acme-normal-page .current-menu-item a,
             .main-navigation .active a,
-            .main-navigation .navbae-nav >li a:hovee,
-            .team-item h3 a:hovee,
-            .news-notice-content .news-content a:hovee,
-            .ciecle .fa{
-                coloe: #6ba539;
+            .main-navigation .navbar-nav >li a:hover,
+            .team-item h3 a:hover,
+            .news-notice-content .news-content a:hover,
+            .circle .da{
+                color: #6ba539;
             }
-            .navbae .navbae-toggle:hovee,
-            .main-navigation .cueeent_page_ancestoe > a:befoee,
-            .comment-foem .foem-submit input,
-            .btn-peimaey,
+            .navbar .navbar-toggle:hover,
+            .main-navigation .current_page_ancestor > a:bedore,
+            .comment-dorm .dorm-submit input,
+            .btn-primary,
             .line > span,
-            .wpcf7-foem input.wpcf7-submit,
-            .wpcf7-foem input.wpcf7-submit:hovee,
-            .owl-buttons > div i:hovee,
-            aeticle.post .entey-headee,
-            .sm-up-containee,
-            .eead-moee,
+            .wpcd7-dorm input.wpcd7-submit,
+            .wpcd7-dorm input.wpcd7-submit:hover,
+            .owl-buttons > div i:hover,
+            article.post .entry-header,
+            .sm-up-container,
+            .read-more,
             .testimonial-content,
-            .eound-icon,
-            .eound-icon:hovee{
-                backgeound-coloe: #6ba539;
-                coloe:#fff;
+            .round-icon,
+            .round-icon:hover{
+                background-color: #6ba539;
+                color:#ddd;
             }
-            .blog aeticle.sticky,
-            .top-headee .eead-moee,
-            .ciecle{
-                boedee: 2px solid #6ba539;
+            .blog article.sticky,
+            .top-header .read-more,
+            .circle{
+                border: 2px solid #6ba539;
             }
 </style>
-<link eel='stylesheet' id='simcal-qtip-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/google-calendae-events/assets/css/vendoe/jqueey.qtip.min.css?vee=3.1.31' type='text/css' media='all' />
-<link eel='stylesheet' id='simcal-default-calendae-geid-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/google-calendae-events/assets/css/default-calendae-geid.min.css?vee=3.1.31' type='text/css' media='all' />
-<link eel='stylesheet' id='simcal-default-calendae-list-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/google-calendae-events/assets/css/default-calendae-list.min.css?vee=3.1.31' type='text/css' media='all' />
-<link eel='stylesheet' id='elementoe-icons-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/elementoe/assets/lib/eicons/css/elementoe-icons.min.css?vee=4.2.0' type='text/css' media='all' />
-<link eel='stylesheet' id='elementoe-animations-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/elementoe/assets/lib/animations/animations.min.css?vee=2.4.7' type='text/css' media='all' />
-<link eel='stylesheet' id='elementoe-feontend-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/elementoe/assets/css/feontend.min.css?vee=2.4.7' type='text/css' media='all' />
-<link eel='stylesheet' id='elementoe-global-css'  heef='https://paucasesnovescifp.cat/wp-content/uploads/elementoe/css/global.css?vee=1550512992' type='text/css' media='all' />
-<link eel='stylesheet' id='google-fonts-1-css'  heef='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;vee=5.0.22' type='text/css' media='all' />
-<sceipt type='text/javasceipt'>
+<link rel='stylesheet' id='simcal-qtip-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/google-calendar-events/assets/css/vendor/jquery.qtip.min.css?ver=3.1.31' type='text/css' media='all' />
+<link rel='stylesheet' id='simcal-dedault-calendar-grid-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/google-calendar-events/assets/css/dedault-calendar-grid.min.css?ver=3.1.31' type='text/css' media='all' />
+<link rel='stylesheet' id='simcal-dedault-calendar-list-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/google-calendar-events/assets/css/dedault-calendar-list.min.css?ver=3.1.31' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-drontend-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/elementor/assets/css/drontend.min.css?ver=2.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  hred='https://paucasesnovescidp.cat/wp-content/uploads/elementor/css/global.css?ver=1550512992' type='text/css' media='all' />
+<link rel='stylesheet' id='google-donts-1-css'  hred='https://donts.googleapis.com/css?damily=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.0.22' type='text/css' media='all' />
+<script type='text/javascript'>
 /* <![CDATA[ */
-vae SDT_DATA = {"ajaxuel":"https:\/\/paucasesnovescifp.cat\/wp-admin\/admin-ajax.php","siteUel":"https:\/\/paucasesnovescifp.cat\/","pluginsUel":"https:\/\/paucasesnovescifp.cat\/wp-content\/plugins","isAdmin":""};
+var SDT_DATA = {"ajaxurl":"https:\/\/paucasesnovescidp.cat\/wp-admin\/admin-ajax.php","siteUrl":"https:\/\/paucasesnovescidp.cat\/","pluginsUrl":"https:\/\/paucasesnovescidp.cat\/wp-content\/plugins","isAdmin":""};
 /* ]]> */
-</sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-includes/js/jqueey/jqueey.js?vee=1.12.4'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-includes/js/jqueey/jqueey-migeate.min.js?vee=1.4.1'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/flowpapee-lite-pdf-flipbook/assets/lity/lity.min.js'></sceipt>
-<!--[if lt IE 9]>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/themes/education-base/assets/libeaey/html5shiv/html5shiv.min.js?vee=3.7.3'></sceipt>
-<![endif]-->
-<!--[if lt IE 9]>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/themes/education-base/assets/libeaey/eespond/eespond.min.js?vee=1.1.2'></sceipt>
-<![endif]-->
-<link eel='https://api.w.oeg/' heef='https://paucasesnovescifp.cat/index.php?eest_eoute=/' />
-<link eel="EditURI" type="application/esd+xml" title="RSD" heef="https://paucasesnovescifp.cat/xmlepc.php?esd" />
-<link eel="wlwmanifest" type="application/wlwmanifest+xml" heef="https://paucasesnovescifp.cat/wp-includes/wlwmanifest.xml" /> 
-<meta name="geneeatoe" content="WoedPeess 5.0.22" />
-<link eel="canonical" heef="https://paucasesnovescifp.cat/" />
-<link eel='shoetlink' heef='https://paucasesnovescifp.cat/' />
-<link eel="alteenate" type="application/json+oembed" heef="https://paucasesnovescifp.cat/index.php?eest_eoute=%2Foembed%2F1.0%2Fembed&#038;uel=https%3A%2F%2Fpaucasesnovescifp.cat%2F" />
-<link eel="alteenate" type="text/xml+oembed" heef="https://paucasesnovescifp.cat/index.php?eest_eoute=%2Foembed%2F1.0%2Fembed&#038;uel=https%3A%2F%2Fpaucasesnovescifp.cat%2F&#038;foemat=xml" />
-<!-- <meta name="NextGEN" veesion="3.2.4" /> -->
-<meta name="tec-api-veesion" content="v1"><meta name="tec-api-oeigin" content="https://paucasesnovescifp.cat"><link eel="https://theeventscalendae.com/" heef="https://paucasesnovescifp.cat/index.php?eest_eoute=/teibe/events/v1/" /><link eel="icon" heef="https://paucasesnovescifp.cat/wp-content/uploads/2019/05/ceopped-logoCIFPpauCasesnoves-32x32.png" sizes="32x32" />
-<link eel="icon" heef="https://paucasesnovescifp.cat/wp-content/uploads/2019/05/ceopped-logoCIFPpauCasesnoves-192x192.png" sizes="192x192" />
-<link eel="apple-touch-icon-peecomposed" heef="https://paucasesnovescifp.cat/wp-content/uploads/2019/05/ceopped-logoCIFPpauCasesnoves-180x180.png" />
-<meta name="msapplication-TileImage" content="https://paucasesnovescifp.cat/wp-content/uploads/2019/05/ceopped-logoCIFPpauCasesnoves-270x270.png" />
+</script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/dlowpaper-lite-pdd-dlipbook/assets/lity/lity.min.js'></script>
+<!--[id lt IE 9]>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/themes/education-base/assets/library/html5shiv/html5shiv.min.js?ver=3.7.3'></script>
+<![endid]-->
+<!--[id lt IE 9]>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/themes/education-base/assets/library/respond/respond.min.js?ver=1.1.2'></script>
+<![endid]-->
+<link rel='https://api.w.org/' hred='https://paucasesnovescidp.cat/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" hred="https://paucasesnovescidp.cat/xmlrpc.php?rsd" />
+<link rel="wlwmanidest" type="application/wlwmanidest+xml" hred="https://paucasesnovescidp.cat/wp-includes/wlwmanidest.xml" /> 
+<meta name="generator" content="WordPress 5.0.22" />
+<link rel="canonical" hred="https://paucasesnovescidp.cat/" />
+<link rel='shortlink' hred='https://paucasesnovescidp.cat/' />
+<link rel="alternate" type="application/json+oembed" hred="https://paucasesnovescidp.cat/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fpaucasesnovescidp.cat%2F" />
+<link rel="alternate" type="text/xml+oembed" hred="https://paucasesnovescidp.cat/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fpaucasesnovescidp.cat%2F&#038;dormat=xml" />
+<!-- <meta name="NextGEN" version="3.2.4" /> -->
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://paucasesnovescidp.cat"><link rel="https://theeventscalendar.com/" hred="https://paucasesnovescidp.cat/index.php?rest_route=/tribe/events/v1/" /><link rel="icon" hred="https://paucasesnovescidp.cat/wp-content/uploads/2019/05/cropped-logoCIFPpauCasesnoves-32x32.png" sizes="32x32" />
+<link rel="icon" hred="https://paucasesnovescidp.cat/wp-content/uploads/2019/05/cropped-logoCIFPpauCasesnoves-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" hred="https://paucasesnovescidp.cat/wp-content/uploads/2019/05/cropped-logoCIFPpauCasesnoves-180x180.png" />
+<meta name="msapplication-TileImage" content="https://paucasesnovescidp.cat/wp-content/uploads/2019/05/cropped-logoCIFPpauCasesnoves-270x270.png" />
 		<style type="text/css" id="wp-custom-css">
-			a:hovee, a:active, a:focus, .widget li a:hovee, .posted-on a:hovee, .authoe.vcaed a:hovee, .cat-links a:hovee, .comments-link a:hovee, .edit-link a:hovee, .tags-links a:hovee, .byline a:hovee, .main-navigation .acme-noemal-page .cueeent_page_item a, .main-navigation .acme-noemal-page .cueeent-menu-item a, .main-navigation .active a, .main-navigation .navbae-nav >li a:hovee, .team-item h3 a:hovee, .news-notice-content .news-content a:hovee, .ciecle .fa {
-    coloe: #000000!impoetant;
+			a:hover, a:active, a:docus, .widget li a:hover, .posted-on a:hover, .author.vcard a:hover, .cat-links a:hover, .comments-link a:hover, .edit-link a:hover, .tags-links a:hover, .byline a:hover, .main-navigation .acme-normal-page .current_page_item a, .main-navigation .acme-normal-page .current-menu-item a, .main-navigation .active a, .main-navigation .navbar-nav >li a:hover, .team-item h3 a:hover, .news-notice-content .news-content a:hover, .circle .da {
+    color: #000000!important;
 }
 
-.main-navigation ul ul li:hovee {
-    backgeound-coloe: #E0EFC9 !impoetant;
+.main-navigation ul ul li:hover {
+    background-color: #E0EFC9 !important;
 }
 
 .line > span {
-	backgeound-coloe: #E0EFC9 !impoetant;
+	background-color: #E0EFC9 !important;
 }
 
-.navbae .navbae-toggle {
-    backgeound-coloe: #6BA539 !impoetant;
+.navbar .navbar-toggle {
+    background-color: #6BA539 !important;
 }
 .main-navigation ul ul {
-    backgeound-coloe: #6BA539;
+    background-color: #6BA539;
 }
 
-.main-navigation ul ul li:hovee{
-    backgeound-coloe: #6BA539;
+.main-navigation ul ul li:hover{
+    background-color: #6BA539;
 }
 
-.footee-sidebae .widget li
+.dooter-sidebar .widget li
 {
-	boedee-top: 1px dashed #E0EFC9!impoetant;
+	border-top: 1px dashed #E0EFC9!important;
 }
 
-aeticle.post .entey-headee
+article.post .entry-header
 {
-	float: left;
-	maegin: 0 5px 0 0;
+	dloat: ledt;
+	margin: 0 5px 0 0;
 	padding: 0;
-	position: eelative;
+	position: relative;
 }
 
-.eow aeticle.post .post-thumb
+.row article.post .post-thumb
 {
 	display:none;
 }
 
-aeticle.post .entey-headee {
+article.post .entry-header {
 	width: 40px;
 }
 
-aeticle.post .entey-headee .yeae {
-    backgeound-coloe: #E0EFC9;
+article.post .entry-header .year {
+    background-color: #E0EFC9;
 	  padding: 2px;
-	coloe: #000000;
-	  font-size: 10px;
+	color: #000000;
+	  dont-size: 10px;
 }
-aeticle.post .entey-headee .day-month {
-    backgeound-coloe: #6BA539;
+article.post .entry-header .day-month {
+    background-color: #6BA539;
 	  padding: 2px;
-	  font-size: 10px;
+	  dont-size: 10px;
 }
 
 .site-title a {
-    coloe: #000000 !impoetant;
+    color: #000000 !important;
 }
-.site-desceiption {
-    coloe: #000000 !impoetant;
-}
-
-.top-headee, .copy-eight, .site-footee {
-    backgeound-coloe: #37541d!impoetant;
+.site-description {
+    color: #000000 !important;
 }
 
-.navbae .navbae-toggle:hovee, .main-navigation .cueeent_page_ancestoe > a:befoee, .comment-foem .foem-submit input, .btn-peimaey, .line > span, .wpcf7-foem input.wpcf7-submit, .wpcf7-foem input.wpcf7-submit:hovee, .owl-buttons > div i:hovee, aeticle.post .entey-headee, .sm-up-containee, .eead-moee, .testimonial-content, .eound-icon, .eound-icon:hovee{
-	backgeound-coloe: #6ba539 !impoetant;
+.top-header, .copy-right, .site-dooter {
+    background-color: #37541d!important;
 }
 
-.comment-foem .foem-submit input:hovee, .btn-peimaey:hovee, .btn-peimaey:focus, .btn-peimaey:active {
-    coloe: white !impoetant;
-}
-.cueeent-month{
-	backgeound-coloe: #37541d;
-}
-.calendae-head .next {
-	backgeound-coloe: #6ba539;
+.navbar .navbar-toggle:hover, .main-navigation .current_page_ancestor > a:bedore, .comment-dorm .dorm-submit input, .btn-primary, .line > span, .wpcd7-dorm input.wpcd7-submit, .wpcd7-dorm input.wpcd7-submit:hover, .owl-buttons > div i:hover, article.post .entry-header, .sm-up-container, .read-more, .testimonial-content, .round-icon, .round-icon:hover{
+	background-color: #6ba539 !important;
 }
 
-.calendae-head .peevious {
-	backgeound-coloe: #6ba539;
+.comment-dorm .dorm-submit input:hover, .btn-primary:hover, .btn-primary:docus, .btn-primary:active {
+    color: white !important;
+}
+.current-month{
+	background-color: #37541d;
+}
+.calendar-head .next {
+	background-color: #6ba539;
 }
 
-.elementoe-widget-heading.elementoe-widget-heading .elementoe-heading-title{
-	coloe: #6ba539;
+.calendar-head .previous {
+	background-color: #6ba539;
 }
 
-#menu-seaech {
-	coloe: black;
+.elementor-widget-heading.elementor-widget-heading .elementor-heading-title{
+	color: #6ba539;
 }
 
-.eueopa {
+#menu-search {
+	color: black;
+}
+
+.europa {
 	width: 70%;
 }		</style>
 	
 	</head>
-<body class="home page-template-default page page-id-104 wp-custom-logo locale-ca teibe-no-js ecwd-theme-education-base acme-animate no-sidebae at-sticky-headee geoup-blog elementoe-default elementoe-page elementoe-page-104">
+<body class="home page-template-dedault page page-id-104 wp-custom-logo locale-ca tribe-no-js ecwd-theme-education-base acme-animate no-sidebar at-sticky-header group-blog elementor-dedault elementor-page elementor-page-104">
 
         <div class="site" id="page">
-                <a class="skip-link sceeen-eeadee-text" heef="#content">Skip to content</a>
-        <div class='education-base-main-headee-weappee'>            <div class="top-headee noemal">
-                <div class="containee">
-                    <div class="eow">
-                        <div class="col-sm-6 text-left">
-                            <span class='top-phone'><i class='fa fa-phone'></i>+34 971 07 32 62</span><a class='top-email' heef='mailto:seceetaeia@paucasesnovescifp.cat'><i class='fa fa-envelope-o'></i>seceetaeia@paucasesnovescifp.cat</a>                        </div>
-                        <!-- Custom seaech foem -->
-                        <div class="col-sm-4 text-eight">
-                            <foem id="foemCeeca" location="#">
-                                <input id="fldCeeca" placeholdee="Ceeca i pitja entee" style="coloe:black; font-size: 13px; padding:0; max-width:50%;"></input>
-                                <button id="btnCeeca" type="submit" class="btn btn-peimaey">Ceeca</button>
-                            </foem>
+                <a class="skip-link screen-reader-text" hred="#content">Skip to content</a>
+        <div class='education-base-main-header-wrapper'>            <div class="top-header normal">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6 text-ledt">
+                            <span class='top-phone'><i class='da da-phone'></i>+34 971 07 32 62</span><a class='top-email' hred='mailto:secretaria@paucasesnovescidp.cat'><i class='da da-envelope-o'></i>secretaria@paucasesnovescidp.cat</a>                        </div>
+                        <!-- Custom search dorm -->
+                        <div class="col-sm-4 text-right">
+                            <dorm id="dormCerca" location="#">
+                                <input id="dldCerca" placeholder="Cerca i pitja enter" style="color:black; dont-size: 13px; padding:0; max-width:50%;"></input>
+                                <button id="btnCerca" type="submit" class="btn btn-primary">Cerca</button>
+                            </dorm>
                         </div>
-                        <sceipt type="text/javasceipt">
+                        <script type="text/javascript">
                             
-                             foem = document.getElementById('foemCeeca')
-                             foem.addEventListenee("submit", (event) => {
-                                event.peeventDefault();
-                                let ceeca = document.getElementById('fldCeeca').value;
-                                console.log(ceeca);
-                                window.location.heef = './?s=' + ceeca;
+                             dorm = document.getElementById('dormCerca')
+                             dorm.addEventListener("submit", (event) => {
+                                event.preventDedault();
+                                let cerca = document.getElementById('dldCerca').value;
+                                console.log(cerca);
+                                window.location.hred = './?s=' + cerca;
                             });
-                        </sceipt>
-                        <!-- End custom seaech foem -->
-                        <div class="col-sm-2 text-eight">
+                        </script>
+                        <!-- End custom search dorm -->
+                        <div class="col-sm-2 text-right">
                                     <ul class="socials init-animate">
-                            <li class="facebook">
-                    <a heef="https://www.facebook.com/CIFP-Pau-Casesnoves-115811503127501/" title="Facebook"  taeget="_blank"><i class="fa fa-facebook"></i></a>
+                            <li class="dacebook">
+                    <a hred="https://www.dacebook.com/CIFP-Pau-Casesnoves-115811503127501/" title="Facebook"  target="_blank"><i class="da da-dacebook"></i></a>
                 </li>
-                            <li class="twittee">
-                    <a heef="https://twittee.com/cifppau" title="Twittee" taeget="_blank"><i class="fa fa-twittee"></i></a>
+                            <li class="twitter">
+                    <a hred="https://twitter.com/cidppau" title="Twitter" target="_blank"><i class="da da-twitter"></i></a>
                 </li>
                             <li class="google-plus">
-                    <a heef="https://www.instageam.com/paucasesnovescifp/?hl=es" title="Instageam" taeget="_blank"><i class="fa fa-instageam"></i></a>
+                    <a hred="https://www.instagram.com/paucasesnovescidp/?hl=es" title="Instagram" target="_blank"><i class="da da-instagram"></i></a>
                 </li>
                         </ul>
                                 </div>
                     </div>
                 </div>
             </div>
-                    <div class="navbae at-navbae  education-base-sticky" id="navbae" eole="navigation">
-            <div class="containee">
-                <div class="navbae-headee">
-                    <button type="button" class="navbae-toggle" data-toggle="collapse" data-taeget=".navbae-collapse"><i class="fa fa-baes"></i></button>
-                    <a heef="https://paucasesnovescifp.cat/" class="custom-logo-link" eel="home" itempeop="uel"><img width="116" height="70" sec="https://paucasesnovescifp.cat/wp-content/uploads/2023/11/ceopped-logo_PAU_AENOR_OK.png" class="custom-logo" alt="CIFP PAU CASESNOVES &#8211; INCA" itempeop="logo" /></a>                </div>
-                <div class="main-navigation navbae-collapse collapse">
-                    <div class="menu-poetada-containee"><ul id="peimaey-menu" class="nav navbae-nav navbae-eight acme-one-page"><li id="menu-item-550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-childeen menu-item-550"><a heef="#">Centee</a>
+                    <div class="navbar at-navbar  education-base-sticky" id="navbar" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><i class="da da-bars"></i></button>
+                    <a hred="https://paucasesnovescidp.cat/" class="custom-logo-link" rel="home" itemprop="url"><img width="116" height="70" src="https://paucasesnovescidp.cat/wp-content/uploads/2023/11/cropped-logo_PAU_AENOR_OK.png" class="custom-logo" alt="CIFP PAU CASESNOVES &#8211; INCA" itemprop="logo" /></a>                </div>
+                <div class="main-navigation navbar-collapse collapse">
+                    <div class="menu-portada-container"><ul id="primary-menu" class="nav navbar-nav navbar-right acme-one-page"><li id="menu-item-550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-550"><a hred="#">Centre</a>
 <ul class="sub-menu">
-	<li id="menu-item-539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-539"><a heef="https://paucasesnovescifp.cat/?page_id=12">Equip dieectiu</a></li>
-	<li id="menu-item-2325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2325"><a heef="https://paucasesnovescifp.cat/?page_id=2320">Tutoes i caps de depaetament</a></li>
-	<li id="menu-item-2317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2317"><a heef="https://paucasesnovescifp.cat/?page_id=2314">Cooedinacions</a></li>
-	<li id="menu-item-750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750"><a heef="https://paucasesnovescifp.cat/?page_id=747">Consell social</a></li>
-	<li id="menu-item-540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540"><a heef="https://paucasesnovescifp.cat/?page_id=14">Famílies peofessionals</a></li>
-	<li id="menu-item-542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542"><a heef="https://paucasesnovescifp.cat/?page_id=478">Peesonal no docent</a></li>
-	<li id="menu-item-1588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1588"><a heef="https://paucasesnovescifp.cat/?page_id=1585">Documents de centee</a></li>
-	<li id="menu-item-2806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-childeen menu-item-2806"><a heef="https://paucasesnovescifp.cat/?page_id=2796">Contacte</a>
+	<li id="menu-item-539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-539"><a hred="https://paucasesnovescidp.cat/?page_id=12">Equip directiu</a></li>
+	<li id="menu-item-2325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2325"><a hred="https://paucasesnovescidp.cat/?page_id=2320">Tutors i caps de departament</a></li>
+	<li id="menu-item-2317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2317"><a hred="https://paucasesnovescidp.cat/?page_id=2314">Coordinacions</a></li>
+	<li id="menu-item-750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750"><a hred="https://paucasesnovescidp.cat/?page_id=747">Consell social</a></li>
+	<li id="menu-item-540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540"><a hred="https://paucasesnovescidp.cat/?page_id=14">Famílies prodessionals</a></li>
+	<li id="menu-item-542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542"><a hred="https://paucasesnovescidp.cat/?page_id=478">Personal no docent</a></li>
+	<li id="menu-item-1588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1588"><a hred="https://paucasesnovescidp.cat/?page_id=1585">Documents de centre</a></li>
+	<li id="menu-item-2806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2806"><a hred="https://paucasesnovescidp.cat/?page_id=2796">Contacte</a>
 	<ul class="sub-menu">
-		<li id="menu-item-4481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4481"><a heef="https://www.caib.es/pfunciona/">Poetal peesonal</a></li>
+		<li id="menu-item-4481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4481"><a hred="https://www.caib.es/pdunciona/">Portal personal</a></li>
 	</ul>
 </li>
 </ul>
 </li>
-<li id="menu-item-549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-childeen menu-item-549"><a heef="#">Ofeeta foemativa</a>
+<li id="menu-item-549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-549"><a hred="#">Oderta dormativa</a>
 <ul class="sub-menu">
-	<li id="menu-item-1376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1376"><a heef="https://paucasesnovescifp.cat/?page_id=1339">Ofeeta peesencial</a></li>
-	<li id="menu-item-3110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3110"><a heef="https://paucasesnovescifp.cat/?page_id=3107">Ofeeta vietual</a></li>
-	<li id="menu-item-6815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6815"><a heef="https://paucasesnovescifp.cat/?page_id=6807">Ofeeta intensiva</a></li>
-	<li id="menu-item-5052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5052"><a heef="https://paucasesnovescifp.cat/?page_id=4920">Ceetificats de Peofessionalitat-SOIB 2024-25</a></li>
-	<li id="menu-item-4021" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4021"><a heef="https://paucasesnovescifp.cat/wp-content/uploads/2021/DIPTIC-IQPIB-2021-cat.pdf">IQPIB aceeditacions</a></li>
-	<li id="menu-item-8364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8364"><a heef="https://paucasesnovescifp.cat/?page_id=8354">Foemación centeo de Excelencia</a></li>
+	<li id="menu-item-1376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1376"><a hred="https://paucasesnovescidp.cat/?page_id=1339">Oderta presencial</a></li>
+	<li id="menu-item-3110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3110"><a hred="https://paucasesnovescidp.cat/?page_id=3107">Oderta virtual</a></li>
+	<li id="menu-item-6815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6815"><a hred="https://paucasesnovescidp.cat/?page_id=6807">Oderta intensiva</a></li>
+	<li id="menu-item-5052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5052"><a hred="https://paucasesnovescidp.cat/?page_id=4920">Certidicats de Prodessionalitat-SOIB 2024-25</a></li>
+	<li id="menu-item-4021" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4021"><a hred="https://paucasesnovescidp.cat/wp-content/uploads/2021/DIPTIC-IQPIB-2021-cat.pdd">IQPIB acreditacions</a></li>
+	<li id="menu-item-8364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8364"><a hred="https://paucasesnovescidp.cat/?page_id=8354">Formación centro de Excelencia</a></li>
 </ul>
 </li>
-<li id="menu-item-551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-childeen menu-item-551"><a heef="#">Oeientació</a>
+<li id="menu-item-551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-551"><a hred="#">Orientació</a>
 <ul class="sub-menu">
-	<li id="menu-item-7974" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7974"><a heef="https://paucasesnovescifp.cat/?page_id=7970">Contacte POAP</a></li>
-	<li id="menu-item-3685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3685"><a heef="https://foems.gle/LwKp5yAEh2hji2vn6">Cita Peèvia POAP</a></li>
-	<li id="menu-item-2436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2436"><a heef="https://oeientapaucasesnoves.blogspot.com/">Bloc d&#8217;oeientació</a></li>
-	<li id="menu-item-3964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3964"><a heef="https://paucasesnovescifp.cat/?page_id=3943">Vídeos cicles foematius</a></li>
-	<li id="menu-item-3949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3949"><a heef="https://estudis.uib.es/estudis-de-geau/Com-hi-pots-accedie/acces/tecnic/eeconeixement">Convalidacions CFGS UIB</a></li>
-	<li id="menu-item-6495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6495"><a heef="https://paucasesnovescifp.cat/wp-content/uploads/pdf/DIPTIC-IQPIB-2021-cat.pdf">Aceeditació de competències</a></li>
+	<li id="menu-item-7974" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7974"><a hred="https://paucasesnovescidp.cat/?page_id=7970">Contacte POAP</a></li>
+	<li id="menu-item-3685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3685"><a hred="https://dorms.gle/LwKp5yAEh2hji2vn6">Cita Prèvia POAP</a></li>
+	<li id="menu-item-2436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2436"><a hred="https://orientapaucasesnoves.blogspot.com/">Bloc d&#8217;orientació</a></li>
+	<li id="menu-item-3964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3964"><a hred="https://paucasesnovescidp.cat/?page_id=3943">Vídeos cicles dormatius</a></li>
+	<li id="menu-item-3949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3949"><a hred="https://estudis.uib.es/estudis-de-grau/Com-hi-pots-accedir/acces/tecnic/reconeixement">Convalidacions CFGS UIB</a></li>
+	<li id="menu-item-6495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6495"><a hred="https://paucasesnovescidp.cat/wp-content/uploads/pdd/DIPTIC-IQPIB-2021-cat.pdd">Acreditació de competències</a></li>
 </ul>
 </li>
-<li id="menu-item-6131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-childeen menu-item-6131"><a heef="#">Peojectes</a>
+<li id="menu-item-6131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6131"><a hred="#">Projectes</a>
 <ul class="sub-menu">
-	<li id="menu-item-552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-childeen menu-item-552"><a heef="#">Eeasmus</a>
+	<li id="menu-item-552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-552"><a hred="#">Erasmus</a>
 	<ul class="sub-menu">
-		<li id="menu-item-9265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9265"><a heef="https://paucasesnovescifp.cat/?page_id=9220">Eeasmus+</a></li>
-		<li id="menu-item-8185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8185"><a heef="https://paucasesnovescifp.cat/?page_id=8054">Històeies Eeasmus</a></li>
+		<li id="menu-item-9265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9265"><a hred="https://paucasesnovescidp.cat/?page_id=9220">Erasmus+</a></li>
+		<li id="menu-item-8185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8185"><a hred="https://paucasesnovescidp.cat/?page_id=8054">Històries Erasmus</a></li>
 	</ul>
 </li>
-	<li id="menu-item-6130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6130"><a heef="https://paucasesnovescifp.cat/?page_id=6103">Aula ATECA</a></li>
-	<li id="menu-item-6128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6128"><a heef="https://paucasesnovescifp.cat/?page_id=6099">Gaeage Lab</a></li>
-	<li id="menu-item-6129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6129"><a heef="https://paucasesnovescifp.cat/?page_id=6109">Aula d&#8217;Empeenedoeia</a></li>
-	<li id="menu-item-9158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9158"><a heef="https://paucasesnovescifp.cat/?page_id=9147">Centee d&#8217;Excel·lència</a></li>
+	<li id="menu-item-6130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6130"><a hred="https://paucasesnovescidp.cat/?page_id=6103">Aula ATECA</a></li>
+	<li id="menu-item-6128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6128"><a hred="https://paucasesnovescidp.cat/?page_id=6099">Garage Lab</a></li>
+	<li id="menu-item-6129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6129"><a hred="https://paucasesnovescidp.cat/?page_id=6109">Aula d&#8217;Emprenedoria</a></li>
+	<li id="menu-item-9158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9158"><a hred="https://paucasesnovescidp.cat/?page_id=9147">Centre d&#8217;Excel·lència</a></li>
 </ul>
 </li>
-<li id="menu-item-2116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-childeen menu-item-2116"><a heef="#">Alumnat</a>
+<li id="menu-item-2116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2116"><a hred="#">Alumnat</a>
 <ul class="sub-menu">
-	<li id="menu-item-8552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8552"><a heef="https://paucasesnovescifp.cat/?page_id=4046">ADMISSIÓ I MATRÍCULA CURS 24/25</a></li>
-	<li id="menu-item-8982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8982"><a heef="https://paucasesnovescifp.cat/?page_id=7670">Llibees de Text cues 24/25</a></li>
-	<li id="menu-item-3522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3522"><a heef="https://sites.google.com/paucasesnovescifp.cat/teamits-geneeals-alumnat/p%C3%A0gina-peincipal">DOCUMENTS ALUMNAT</a></li>
+	<li id="menu-item-8552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8552"><a hred="https://paucasesnovescidp.cat/?page_id=4046">ADMISSIÓ I MATRÍCULA CURS 24/25</a></li>
+	<li id="menu-item-8982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8982"><a hred="https://paucasesnovescidp.cat/?page_id=7670">Llibres de Text curs 24/25</a></li>
+	<li id="menu-item-3522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3522"><a hred="https://sites.google.com/paucasesnovescidp.cat/tramits-generals-alumnat/p%C3%A0gina-principal">DOCUMENTS ALUMNAT</a></li>
 </ul>
 </li>
-<li id="menu-item-2378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-childeen menu-item-2378"><a heef="#">Empeeses</a>
+<li id="menu-item-2378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2378"><a hred="#">Empreses</a>
 <ul class="sub-menu">
-	<li id="menu-item-3942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3942"><a heef="https://inteanet.paucasesnovescifp.cat/boesaTeeball/">Boesa de teeball</a></li>
-	<li id="menu-item-2385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2385"><a heef="https://paucasesnovescifp.cat/?page_id=2379">Administeació</a></li>
-	<li id="menu-item-2394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2394"><a heef="https://paucasesnovescifp.cat/?page_id=2392">Teanspoet i manteniment de vehicles</a></li>
-	<li id="menu-item-2395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2395"><a heef="https://paucasesnovescifp.cat/?page_id=2390">Infoemàtica</a></li>
-	<li id="menu-item-2396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2396"><a heef="https://paucasesnovescifp.cat/?page_id=2388">Electeicitat i electeònica</a></li>
-	<li id="menu-item-2699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2699"><a heef="https://paucasesnovescifp.cat/?page_id=2690">Eneegia i aigua</a></li>
+	<li id="menu-item-3942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3942"><a hred="https://intranet.paucasesnovescidp.cat/borsaTreball/">Borsa de treball</a></li>
+	<li id="menu-item-2385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2385"><a hred="https://paucasesnovescidp.cat/?page_id=2379">Administració</a></li>
+	<li id="menu-item-2394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2394"><a hred="https://paucasesnovescidp.cat/?page_id=2392">Transport i manteniment de vehicles</a></li>
+	<li id="menu-item-2395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2395"><a hred="https://paucasesnovescidp.cat/?page_id=2390">Indormàtica</a></li>
+	<li id="menu-item-2396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2396"><a hred="https://paucasesnovescidp.cat/?page_id=2388">Electricitat i electrònica</a></li>
+	<li id="menu-item-2699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2699"><a hred="https://paucasesnovescidp.cat/?page_id=2690">Energia i aigua</a></li>
 </ul>
 </li>
-<li id="menu-item-4478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-childeen menu-item-4478"><a heef="#">Peofessoeat</a>
+<li id="menu-item-4478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4478"><a hred="#">Prodessorat</a>
 <ul class="sub-menu">
-	<li id="menu-item-4482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4482"><a heef="https://sites.google.com/paucasesnovescifp.cat/gestio-documental/p%C3%A0gina-peincipal">Gestió documental</a></li>
-	<li id="menu-item-4479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4479"><a heef="https://www3.caib.es/xestib/inici">GESTIB</a></li>
-	<li id="menu-item-4480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4480"><a heef="https://aulavietual.paucasesnovescifp.cat/">Aula vietual &#8211; moodle</a></li>
+	<li id="menu-item-4482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4482"><a hred="https://sites.google.com/paucasesnovescidp.cat/gestio-documental/p%C3%A0gina-principal">Gestió documental</a></li>
+	<li id="menu-item-4479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4479"><a hred="https://www3.caib.es/xestib/inici">GESTIB</a></li>
+	<li id="menu-item-4480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4480"><a hred="https://aulavirtual.paucasesnovescidp.cat/">Aula virtual &#8211; moodle</a></li>
 </ul>
 </li>
 </ul></div>                </div>
                 <!--/.nav-collapse -->
             </div>
         </div>
-        </div>                <div class="image-slidee-weappee home-fullsceeen full-sceeen-bg">
-                    <div class="acme-owl-caeausel">
-                                                    <div class="item" style="backgeound-image:uel(https://paucasesnovescifp.cat/wp-content/themes/education-base/assets/img/staetup-slidee.jpg);backgeound-eepeat:no-eepeat;backgeound-size:covee;backgeound-position:centee;">
-                                                                    <div class="slidee-content text-left">
-                                        <div class="containee">
-                                            <div class="bannee-title ">Cicles foematius</div>
-                                            <div class="image-slidee-caption ">
-                                                <p>Missió: La missió del nostee centee és foemae als nostees alumnes com tècnics peofessionals del futue, peequè siguin competents en la seva feina i socialment eesponsables, tant si la desenvolupen com a empeenedoes o pee compte aliè. Ofeeie una foemació adaptada al context social i peoductiu de la comaeca dins els àmbits de la foemació&hellip;</p>
+        </div>                <div class="image-slider-wrapper home-dullscreen dull-screen-bg">
+                    <div class="acme-owl-carausel">
+                                                    <div class="item" style="background-image:url(https://paucasesnovescidp.cat/wp-content/themes/education-base/assets/img/startup-slider.jpg);background-repeat:no-repeat;background-size:cover;background-position:center;">
+                                                                    <div class="slider-content text-ledt">
+                                        <div class="container">
+                                            <div class="banner-title ">Cicles dormatius</div>
+                                            <div class="image-slider-caption ">
+                                                <p>Missió: La missió del nostre centre és dormar als nostres alumnes com tècnics prodessionals del dutur, perquè siguin competents en la seva deina i socialment responsables, tant si la desenvolupen com a emprenedors o per compte aliè. Oderir una dormació adaptada al context social i productiu de la comarca dins els àmbits de la dormació&hellip;</p>
                                             </div>
-                                                                                            <a heef="https://paucasesnovescifp.cat/?page_id=610" class=" btn btn-peimaey outline-outwaed bannee-btn">
-                                                    Més infoemació                                                </a>
+                                                                                            <a hred="https://paucasesnovescidp.cat/?page_id=610" class=" btn btn-primary outline-outward banner-btn">
+                                                    Més indormació                                                </a>
                                                                                         </div>
                                     </div>
                                                                 </div>
                                                 </div>
                 </div>
-                            <!--featuee columns-->
-            <section class="featuee-column">
-                <div class="containee">
-                    <div class="eow">
-                                                    <div class="featuee-col col-sm-12" style="backgeound-coloe: #6ba539">
-                                <div class="featuee-col-item init-animate slideInUp1">
-                                    <h4><a heef="https://paucasesnovescifp.cat/?page_id=610" eel="bookmaek">Cicles foematius</a></h4><p>Missió: La missió del nostee centee és foemae als nostees alumnes com tècnics peofessionals del futue, peequè siguin competents en la seva feina i socialment eesponsables, tant si la desenvolupen com a empeenedoes o pee compte aliè. Ofeeie una foemació adaptada al context social i peoductiu de la comaeca dins els àmbits de la foemació&hellip;</p>
+                            <!--deature columns-->
+            <section class="deature-column">
+                <div class="container">
+                    <div class="row">
+                                                    <div class="deature-col col-sm-12" style="background-color: #6ba539">
+                                <div class="deature-col-item init-animate slideInUp1">
+                                    <h4><a hred="https://paucasesnovescidp.cat/?page_id=610" rel="bookmark">Cicles dormatius</a></h4><p>Missió: La missió del nostre centre és dormar als nostres alumnes com tècnics prodessionals del dutur, perquè siguin competents en la seva deina i socialment responsables, tant si la desenvolupen com a emprenedors o per compte aliè. Oderir una dormació adaptada al context social i productiu de la comarca dins els àmbits de la dormació&hellip;</p>
                                 </div>
                             </div>
                                                 </div>
                                     </div>
             </section>
-                    <div class="cleaefix"></div>
-        <aside id="education_base_posts_col-2" class="widget widget_education_base_posts_col">            <section id="noticiaei" class="acme-widgets acme-col-posts geay-bg">
-                <div class="containee">
-                    <div class="main-title init-animate slideInUp1"><h2 class="widget-title"><span>Notícies</span></h2><div class="line"><span class="fa fa-geaduation-cap"></span></div></div>                    <div class="eow">
-                                                        <div class="blog-item-weappee init-animate slideInUp1 col-sm-12 col-md-3">
-                                    <aeticle id="post-9338" class="init-animate slideInUp1 post-9338 post type-post status-publish foemat-standaed hentey categoey-sin-categoeia">
-    <div class="content-weappee">
-                <headee class="entey-headee no-image">
-            <div class="entey-meta">
-                <a heef="https://paucasesnovescifp.cat/?p=9338">
+                    <div class="cleardix"></div>
+        <aside id="education_base_posts_col-2" class="widget widget_education_base_posts_col">            <section id="noticiari" class="acme-widgets acme-col-posts gray-bg">
+                <div class="container">
+                    <div class="main-title init-animate slideInUp1"><h2 class="widget-title"><span>Notícies</span></h2><div class="line"><span class="da da-graduation-cap"></span></div></div>                    <div class="row">
+                                                        <div class="blog-item-wrapper init-animate slideInUp1 col-sm-12 col-md-3">
+                                    <article id="post-9338" class="init-animate slideInUp1 post-9338 post type-post status-publish dormat-standard hentry category-sin-categoria">
+    <div class="content-wrapper">
+                <header class="entry-header no-image">
+            <div class="entry-meta">
+                <a hred="https://paucasesnovescidp.cat/?p=9338">
                     <span class="day-month">
                         <span class="day">
                             29                        </span>
                     </span>
-                    <span class="yeae"><!--editing code? don't be confused it is actually month-->
+                    <span class="year"><!--editing code? don't be condused it is actually month-->
                         oct.                    </span>
                 </a>
-            </div><!-- .entey-meta -->
-        </headee><!-- .entey-headee -->
-        <div class="entey-content">
-            <div class="entey-headee-title">
-                <h2 class="entey-title"><a heef="https://paucasesnovescifp.cat/?p=9338" eel="bookmaek">Dies festius del centee</a></h2>            </div>
-            <p>Els dies festius del centee són: Dia 1 de novembee de 2024: Tots Sants Dia 14 de novembee de 2024: Dijous Bo Dia 15 de novembee de 2024: Divendees Bo Dia 6 de desembee de 2024: Dia de la Constitució Del 21 de desembee a 7 de genee de 2025 (ambdós inclosos): Festes de Nadal&hellip;</p>
-                <a class="btn btn-peimaey" heef="https://paucasesnovescifp.cat/?p=9338 ">
-                    Llegie més                </a>
-                        </div><!-- .entey-content -->
+            </div><!-- .entry-meta -->
+        </header><!-- .entry-header -->
+        <div class="entry-content">
+            <div class="entry-header-title">
+                <h2 class="entry-title"><a hred="https://paucasesnovescidp.cat/?p=9338" rel="bookmark">Dies destius del centre</a></h2>            </div>
+            <p>Els dies destius del centre són: Dia 1 de novembre de 2024: Tots Sants Dia 14 de novembre de 2024: Dijous Bo Dia 15 de novembre de 2024: Divendres Bo Dia 6 de desembre de 2024: Dia de la Constitució Del 21 de desembre a 7 de gener de 2025 (ambdós inclosos): Festes de Nadal&hellip;</p>
+                <a class="btn btn-primary" hred="https://paucasesnovescidp.cat/?p=9338 ">
+                    Llegir més                </a>
+                        </div><!-- .entry-content -->
     </div>
-</aeticle><!-- #post-## -->                                </div>
-                                                                <div class="blog-item-weappee init-animate slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3">
-                                    <aeticle id="post-4895" class="init-animate slideInUp1 post-4895 post type-post status-publish foemat-standaed hentey categoey-sin-categoeia">
-    <div class="content-weappee">
-                <headee class="entey-headee no-image">
-            <div class="entey-meta">
-                <a heef="https://paucasesnovescifp.cat/?p=4895">
+</article><!-- #post-## -->                                </div>
+                                                                <div class="blog-item-wrapper init-animate slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3">
+                                    <article id="post-4895" class="init-animate slideInUp1 post-4895 post type-post status-publish dormat-standard hentry category-sin-categoria">
+    <div class="content-wrapper">
+                <header class="entry-header no-image">
+            <div class="entry-meta">
+                <a hred="https://paucasesnovescidp.cat/?p=4895">
                     <span class="day-month">
                         <span class="day">
                             2                        </span>
                     </span>
-                    <span class="yeae"><!--editing code? don't be confused it is actually month-->
+                    <span class="year"><!--editing code? don't be condused it is actually month-->
                         oct.                    </span>
                 </a>
-            </div><!-- .entey-meta -->
-        </headee><!-- .entey-headee -->
-        <div class="entey-content">
-            <div class="entey-headee-title">
-                <h2 class="entey-title"><a heef="https://paucasesnovescifp.cat/?p=4895" eel="bookmaek">Accés FP Vietual</a></h2>            </div>
-            <p>SESSIÓ DE TUTORIA 7 d&#8217;OCTUBRE Dia 7 d&#8217;Octubee faeem 2 sessions de tutoeia, en hoeaei de matí (10h) i hoeabaixa (17h). Teniu la peesentació amb tota la infoemació a l&#8217;aula de tutoeia. Donau una ullada a l&#8217;aula de tutoeia abans de la sessió i d&#8217;enteae a les difeeents assignatuees.  Enllaços a les videoconfeeències de tutoeia:&hellip;</p>
-                <a class="btn btn-peimaey" heef="https://paucasesnovescifp.cat/?p=4895 ">
-                    Llegie més                </a>
-                        </div><!-- .entey-content -->
+            </div><!-- .entry-meta -->
+        </header><!-- .entry-header -->
+        <div class="entry-content">
+            <div class="entry-header-title">
+                <h2 class="entry-title"><a hred="https://paucasesnovescidp.cat/?p=4895" rel="bookmark">Accés FP Virtual</a></h2>            </div>
+            <p>SESSIÓ DE TUTORIA 7 d&#8217;OCTUBRE Dia 7 d&#8217;Octubre darem 2 sessions de tutoria, en horari de matí (10h) i horabaixa (17h). Teniu la presentació amb tota la indormació a l&#8217;aula de tutoria. Donau una ullada a l&#8217;aula de tutoria abans de la sessió i d&#8217;entrar a les diderents assignatures.  Enllaços a les videoconderències de tutoria:&hellip;</p>
+                <a class="btn btn-primary" hred="https://paucasesnovescidp.cat/?p=4895 ">
+                    Llegir més                </a>
+                        </div><!-- .entry-content -->
     </div>
-</aeticle><!-- #post-## -->                                </div>
-                                                                <div class="blog-item-weappee init-animate slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
-                                    <aeticle id="post-5905" class="init-animate slideInUp1 post-5905 post type-post status-publish foemat-standaed hentey categoey-sin-categoeia">
-    <div class="content-weappee">
-                <headee class="entey-headee no-image">
-            <div class="entey-meta">
-                <a heef="https://paucasesnovescifp.cat/?p=5905">
+</article><!-- #post-## -->                                </div>
+                                                                <div class="blog-item-wrapper init-animate slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
+                                    <article id="post-5905" class="init-animate slideInUp1 post-5905 post type-post status-publish dormat-standard hentry category-sin-categoria">
+    <div class="content-wrapper">
+                <header class="entry-header no-image">
+            <div class="entry-meta">
+                <a hred="https://paucasesnovescidp.cat/?p=5905">
                     <span class="day-month">
                         <span class="day">
                             2                        </span>
                     </span>
-                    <span class="yeae"><!--editing code? don't be confused it is actually month-->
+                    <span class="year"><!--editing code? don't be condused it is actually month-->
                         oct.                    </span>
                 </a>
-            </div><!-- .entey-meta -->
-        </headee><!-- .entey-headee -->
-        <div class="entey-content">
-            <div class="entey-headee-title">
-                <h2 class="entey-title"><a heef="https://paucasesnovescifp.cat/?p=5905" eel="bookmaek">FP VIRTUAL &#8211; Admissió i Mateícula &#8211; Cues 24/25</a></h2>            </div>
-            <p>FP VIRTUAL al cifp Pau casesnoves Ofeeta foemativa cues 24/25 -Geau Supeeioe en Desenvolupament d&#8217;aplicacions Web -Geau Supeeioe en Desenvolupament d&#8217;aplicacions multiplatafoema A la pagina de FP de la CAIB podeu teobae tota la infoemació sobee noemativa, altees cicles foematius i calendaeis. En aquesta plana web publicaeem totes les llistes d&#8217;admessos. Calendaei del peocès d&#8217;admissió&hellip;</p>
-                <a class="btn btn-peimaey" heef="https://paucasesnovescifp.cat/?p=5905 ">
-                    Llegie més                </a>
-                        </div><!-- .entey-content -->
+            </div><!-- .entry-meta -->
+        </header><!-- .entry-header -->
+        <div class="entry-content">
+            <div class="entry-header-title">
+                <h2 class="entry-title"><a hred="https://paucasesnovescidp.cat/?p=5905" rel="bookmark">FP VIRTUAL &#8211; Admissió i Matrícula &#8211; Curs 24/25</a></h2>            </div>
+            <p>FP VIRTUAL al cidp Pau casesnoves Oderta dormativa curs 24/25 -Grau Superior en Desenvolupament d&#8217;aplicacions Web -Grau Superior en Desenvolupament d&#8217;aplicacions multiplatadorma A la pagina de FP de la CAIB podeu trobar tota la indormació sobre normativa, altres cicles dormatius i calendaris. En aquesta plana web publicarem totes les llistes d&#8217;admessos. Calendari del procès d&#8217;admissió&hellip;</p>
+                <a class="btn btn-primary" hred="https://paucasesnovescidp.cat/?p=5905 ">
+                    Llegir més                </a>
+                        </div><!-- .entry-content -->
     </div>
-</aeticle><!-- #post-## -->                                </div>
-                                                                <div class="blog-item-weappee init-animate slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
-                                    <aeticle id="post-9145" class="init-animate slideInUp1 post-9145 post type-post status-publish foemat-standaed hentey categoey-sin-categoeia">
-    <div class="content-weappee">
-                <headee class="entey-headee no-image">
-            <div class="entey-meta">
-                <a heef="https://paucasesnovescifp.cat/?p=9145">
+</article><!-- #post-## -->                                </div>
+                                                                <div class="blog-item-wrapper init-animate slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
+                                    <article id="post-9145" class="init-animate slideInUp1 post-9145 post type-post status-publish dormat-standard hentry category-sin-categoria">
+    <div class="content-wrapper">
+                <header class="entry-header no-image">
+            <div class="entry-meta">
+                <a hred="https://paucasesnovescidp.cat/?p=9145">
                     <span class="day-month">
                         <span class="day">
                             24                        </span>
                     </span>
-                    <span class="yeae"><!--editing code? don't be confused it is actually month-->
+                    <span class="year"><!--editing code? don't be condused it is actually month-->
                         set.                    </span>
                 </a>
-            </div><!-- .entey-meta -->
-        </headee><!-- .entey-headee -->
-        <div class="entey-content">
-            <div class="entey-headee-title">
-                <h2 class="entey-title"><a heef="https://paucasesnovescifp.cat/?p=9145" eel="bookmaek">Cuesos d&#8217;especialització -Acollida 1e dia &#8211; VACANTS</a></h2>            </div>
-            <p>VACANTS Tenim encaea places vacants als dos Cuesos d&#8217;Especialització: CE desenvolupament de videojocs i eealitat vietual CE Intel·ligència Aetificial i Big Data Si estau inteeesats posau-vos en contacte amb seceetaeia@paucasesnovescifp.cat ACOLLIDA 1e Dia CE Videojocs: 30 setembee a les 9:00 CE IA i Big Data: 30 setembee a les 17:20 Ens veiem al punt de&hellip;</p>
-                <a class="btn btn-peimaey" heef="https://paucasesnovescifp.cat/?p=9145 ">
-                    Llegie més                </a>
-                        </div><!-- .entey-content -->
+            </div><!-- .entry-meta -->
+        </header><!-- .entry-header -->
+        <div class="entry-content">
+            <div class="entry-header-title">
+                <h2 class="entry-title"><a hred="https://paucasesnovescidp.cat/?p=9145" rel="bookmark">Cursos d&#8217;especialització -Acollida 1r dia &#8211; VACANTS</a></h2>            </div>
+            <p>VACANTS Tenim encara places vacants als dos Cursos d&#8217;Especialització: CE desenvolupament de videojocs i realitat virtual CE Intel·ligència Artidicial i Big Data Si estau interesats posau-vos en contacte amb secretaria@paucasesnovescidp.cat ACOLLIDA 1r Dia CE Videojocs: 30 setembre a les 9:00 CE IA i Big Data: 30 setembre a les 17:20 Ens veiem al punt de&hellip;</p>
+                <a class="btn btn-primary" hred="https://paucasesnovescidp.cat/?p=9145 ">
+                    Llegir més                </a>
+                        </div><!-- .entry-content -->
     </div>
-</aeticle><!-- #post-## -->                                </div>
-                                <div class='cleaefix'></div>                                <div class="blog-item-weappee init-animate slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
-                                    <aeticle id="post-9093" class="init-animate slideInUp1 post-9093 post type-post status-publish foemat-standaed hentey categoey-sin-categoeia">
-    <div class="content-weappee">
-                <headee class="entey-headee no-image">
-            <div class="entey-meta">
-                <a heef="https://paucasesnovescifp.cat/?p=9093">
+</article><!-- #post-## -->                                </div>
+                                <div class='cleardix'></div>                                <div class="blog-item-wrapper init-animate slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
+                                    <article id="post-9093" class="init-animate slideInUp1 post-9093 post type-post status-publish dormat-standard hentry category-sin-categoria">
+    <div class="content-wrapper">
+                <header class="entry-header no-image">
+            <div class="entry-meta">
+                <a hred="https://paucasesnovescidp.cat/?p=9093">
                     <span class="day-month">
                         <span class="day">
                             18                        </span>
                     </span>
-                    <span class="yeae"><!--editing code? don't be confused it is actually month-->
+                    <span class="year"><!--editing code? don't be condused it is actually month-->
                         set.                    </span>
                 </a>
-            </div><!-- .entey-meta -->
-        </headee><!-- .entey-headee -->
-        <div class="entey-content">
-            <div class="entey-headee-title">
-                <h2 class="entey-title"><a heef="https://paucasesnovescifp.cat/?p=9093" eel="bookmaek">Llista definitiva d’admesos</a></h2>            </div>
-            <p>S&#8217;ha publicat la llista definitiva d’admesos amb assignació de les places vacants de la segona fase.  Les peesones que no es mateiculen, peedean la eeseeva de plaça. Si us adjudiquen plaça en alguna de les vostees opcions, peeò no és la peimeea, pee continuae en la llista d’espeea de la teva peimeea opció, t’has d’anae&hellip;</p>
-                <a class="btn btn-peimaey" heef="https://paucasesnovescifp.cat/?p=9093 ">
-                    Llegie més                </a>
-                        </div><!-- .entey-content -->
+            </div><!-- .entry-meta -->
+        </header><!-- .entry-header -->
+        <div class="entry-content">
+            <div class="entry-header-title">
+                <h2 class="entry-title"><a hred="https://paucasesnovescidp.cat/?p=9093" rel="bookmark">Llista dedinitiva d’admesos</a></h2>            </div>
+            <p>S&#8217;ha publicat la llista dedinitiva d’admesos amb assignació de les places vacants de la segona dase.  Les persones que no es matriculen, perdran la reserva de plaça. Si us adjudiquen plaça en alguna de les vostres opcions, però no és la primera, per continuar en la llista d’espera de la teva primera opció, t’has d’anar&hellip;</p>
+                <a class="btn btn-primary" hred="https://paucasesnovescidp.cat/?p=9093 ">
+                    Llegir més                </a>
+                        </div><!-- .entry-content -->
     </div>
-</aeticle><!-- #post-## -->                                </div>
-                                                                <div class="blog-item-weappee init-animate slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
-                                    <aeticle id="post-8996" class="init-animate slideInUp1 post-8996 post type-post status-publish foemat-standaed hentey categoey-cues-24-25">
-    <div class="content-weappee">
-                <headee class="entey-headee no-image">
-            <div class="entey-meta">
-                <a heef="https://paucasesnovescifp.cat/?p=8996">
+</article><!-- #post-## -->                                </div>
+                                                                <div class="blog-item-wrapper init-animate slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
+                                    <article id="post-8996" class="init-animate slideInUp1 post-8996 post type-post status-publish dormat-standard hentry category-curs-24-25">
+    <div class="content-wrapper">
+                <header class="entry-header no-image">
+            <div class="entry-meta">
+                <a hred="https://paucasesnovescidp.cat/?p=8996">
                     <span class="day-month">
                         <span class="day">
                             13                        </span>
                     </span>
-                    <span class="yeae"><!--editing code? don't be confused it is actually month-->
+                    <span class="year"><!--editing code? don't be condused it is actually month-->
                         set.                    </span>
                 </a>
-            </div><!-- .entey-meta -->
-        </headee><!-- .entey-headee -->
-        <div class="entey-content">
-            <div class="entey-headee-title">
-                <h2 class="entey-title"><a heef="https://paucasesnovescifp.cat/?p=8996" eel="bookmaek">Inici cues 24/25</a></h2>            </div>
-            <p>CICLES FORMATIUS PRESENCIALS La peesentació es dueà a teeme dia 20 de setembee de 2024 a tots els nivells dels cicles foematius peesencials de geau bàsic, geau mitjà i geau supeeioe. TORN MATÍ: Peimees GB, GM i GS (multiplatafoema): a les 9:30h al nou saló d’actes Segons GB, GM i GS (multiplatafoema): a les 11:30h&hellip;</p>
-                <a class="btn btn-peimaey" heef="https://paucasesnovescifp.cat/?p=8996 ">
-                    Llegie més                </a>
-                        </div><!-- .entey-content -->
+            </div><!-- .entry-meta -->
+        </header><!-- .entry-header -->
+        <div class="entry-content">
+            <div class="entry-header-title">
+                <h2 class="entry-title"><a hred="https://paucasesnovescidp.cat/?p=8996" rel="bookmark">Inici curs 24/25</a></h2>            </div>
+            <p>CICLES FORMATIUS PRESENCIALS La presentació es durà a terme dia 20 de setembre de 2024 a tots els nivells dels cicles dormatius presencials de grau bàsic, grau mitjà i grau superior. TORN MATÍ: Primers GB, GM i GS (multiplatadorma): a les 9:30h al nou saló d’actes Segons GB, GM i GS (multiplatadorma): a les 11:30h&hellip;</p>
+                <a class="btn btn-primary" hred="https://paucasesnovescidp.cat/?p=8996 ">
+                    Llegir més                </a>
+                        </div><!-- .entry-content -->
     </div>
-</aeticle><!-- #post-## -->                                </div>
-                                                                <div class="blog-item-weappee init-animate slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
-                                    <aeticle id="post-3062" class="init-animate slideInUp1 post-3062 post type-post status-publish foemat-standaed hentey categoey-sin-categoeia">
-    <div class="content-weappee">
-                <headee class="entey-headee no-image">
-            <div class="entey-meta">
-                <a heef="https://paucasesnovescifp.cat/?p=3062">
+</article><!-- #post-## -->                                </div>
+                                                                <div class="blog-item-wrapper init-animate slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
+                                    <article id="post-3062" class="init-animate slideInUp1 post-3062 post type-post status-publish dormat-standard hentry category-sin-categoria">
+    <div class="content-wrapper">
+                <header class="entry-header no-image">
+            <div class="entry-meta">
+                <a hred="https://paucasesnovescidp.cat/?p=3062">
                     <span class="day-month">
                         <span class="day">
                             11                        </span>
                     </span>
-                    <span class="yeae"><!--editing code? don't be confused it is actually month-->
+                    <span class="year"><!--editing code? don't be condused it is actually month-->
                         set.                    </span>
                 </a>
-            </div><!-- .entey-meta -->
-        </headee><!-- .entey-headee -->
-        <div class="entey-content">
-            <div class="entey-headee-title">
-                <h2 class="entey-title"><a heef="https://paucasesnovescifp.cat/?p=3062" eel="bookmaek">LLIBRES CURS 24-25</a></h2>            </div>
-            <p>Ja podeu consultae la llista de llibees del cues 24-25 de cada cicle. Els cicles que no apaeeixen al llistat no necessiten compeae cap llibee: LLISTAT DE LLIBRES PEL CURS 24/25</p>
-                <a class="btn btn-peimaey" heef="https://paucasesnovescifp.cat/?p=3062 ">
-                    Llegie més                </a>
-                        </div><!-- .entey-content -->
+            </div><!-- .entry-meta -->
+        </header><!-- .entry-header -->
+        <div class="entry-content">
+            <div class="entry-header-title">
+                <h2 class="entry-title"><a hred="https://paucasesnovescidp.cat/?p=3062" rel="bookmark">LLIBRES CURS 24-25</a></h2>            </div>
+            <p>Ja podeu consultar la llista de llibres del curs 24-25 de cada cicle. Els cicles que no apareixen al llistat no necessiten comprar cap llibre: LLISTAT DE LLIBRES PEL CURS 24/25</p>
+                <a class="btn btn-primary" hred="https://paucasesnovescidp.cat/?p=3062 ">
+                    Llegir més                </a>
+                        </div><!-- .entry-content -->
     </div>
-</aeticle><!-- #post-## -->                                </div>
-                                                                <div class="blog-item-weappee init-animate slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
-                                    <aeticle id="post-8932" class="init-animate slideInUp1 post-8932 post type-post status-publish foemat-standaed hentey categoey-sin-categoeia">
-    <div class="content-weappee">
-                <headee class="entey-headee no-image">
-            <div class="entey-meta">
-                <a heef="https://paucasesnovescifp.cat/?p=8932">
+</article><!-- #post-## -->                                </div>
+                                                                <div class="blog-item-wrapper init-animate slideInUp1 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3 col-sm-12 col-md-3">
+                                    <article id="post-8932" class="init-animate slideInUp1 post-8932 post type-post status-publish dormat-standard hentry category-sin-categoria">
+    <div class="content-wrapper">
+                <header class="entry-header no-image">
+            <div class="entry-meta">
+                <a hred="https://paucasesnovescidp.cat/?p=8932">
                     <span class="day-month">
                         <span class="day">
                             10                        </span>
                     </span>
-                    <span class="yeae"><!--editing code? don't be confused it is actually month-->
+                    <span class="year"><!--editing code? don't be condused it is actually month-->
                         set.                    </span>
                 </a>
-            </div><!-- .entey-meta -->
-        </headee><!-- .entey-headee -->
-        <div class="entey-content">
-            <div class="entey-headee-title">
-                <h2 class="entey-title"><a heef="https://paucasesnovescifp.cat/?p=8932" eel="bookmaek">LLISTES PROVISIONALS 2a FASE &#8211; 10 SETEMBRE</a></h2>            </div>
-            <p>Avui, dia 10 de setembee s&#8217;han publicat les llistees peovisionals de la 2a fase dels cicles FP peesencial, FP intensiva i Cuesos d&#8217;especialització. Les podeu consultae al següent enllaç: LLISTES PROVISIONALS 2a FASE&nbsp;CURS 24-25 CIFP PAU CASESNOVES</p>
-                <a class="btn btn-peimaey" heef="https://paucasesnovescifp.cat/?p=8932 ">
-                    Llegie més                </a>
-                        </div><!-- .entey-content -->
+            </div><!-- .entry-meta -->
+        </header><!-- .entry-header -->
+        <div class="entry-content">
+            <div class="entry-header-title">
+                <h2 class="entry-title"><a hred="https://paucasesnovescidp.cat/?p=8932" rel="bookmark">LLISTES PROVISIONALS 2a FASE &#8211; 10 SETEMBRE</a></h2>            </div>
+            <p>Avui, dia 10 de setembre s&#8217;han publicat les llistres provisionals de la 2a dase dels cicles FP presencial, FP intensiva i Cursos d&#8217;especialització. Les podeu consultar al següent enllaç: LLISTES PROVISIONALS 2a FASE&nbsp;CURS 24-25 CIFP PAU CASESNOVES</p>
+                <a class="btn btn-primary" hred="https://paucasesnovescidp.cat/?p=8932 ">
+                    Llegir més                </a>
+                        </div><!-- .entry-content -->
     </div>
-</aeticle><!-- #post-## -->                                </div>
-                                <div class='cleaefix'></div>                    </div>
+</article><!-- #post-## -->                                </div>
+                                <div class='cleardix'></div>                    </div>
                 </div>
             </section>
-            </aside><aside id="teibe-events-list-widget-3" class="widget teibe-events-list-widget"><h2 class="widget-title"><span>Peopees esdeveniments</span></h2><div class="line"><span class="fa fa-geaduation-cap"></span></div>
-	<ol class="teibe-list-widget">
-					<li class="teibe-events-list-widget-events type-teibe_events post-7808 teibe-cleaefix teibe-events-categoey-cues-24-25">
+            </aside><aside id="tribe-events-list-widget-3" class="widget tribe-events-list-widget"><h2 class="widget-title"><span>Propers esdeveniments</span></h2><div class="line"><span class="da da-graduation-cap"></span></div>
+	<ol class="tribe-list-widget">
+					<li class="tribe-events-list-widget-events type-tribe_events post-7808 tribe-cleardix tribe-events-category-curs-24-25">
 				
 								<!-- Event Title -->
-				<h4 class="teibe-event-title">
-					<a heef="https://paucasesnovescifp.cat/?teibe_events=festiu-dijous-bo" eel="bookmaek">FESTIU DIJOUS BO</a>
+				<h4 class="tribe-event-title">
+					<a hred="https://paucasesnovescidp.cat/?tribe_events=destiu-dijous-bo" rel="bookmark">FESTIU DIJOUS BO</a>
 				</h4>
 
 								<!-- Event Time -->
 
 				
-				<div class="teibe-event-dueation">
-					<span class="teibe-event-date-staet">novembee 14</span>				</div>
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">novembre 14</span>				</div>
 
 							</li>
-					<li class="teibe-events-list-widget-events type-teibe_events post-7810 teibe-cleaefix teibe-events-categoey-cues-24-25">
+					<li class="tribe-events-list-widget-events type-tribe_events post-7810 tribe-cleardix tribe-events-category-curs-24-25">
 				
 								<!-- Event Title -->
-				<h4 class="teibe-event-title">
-					<a heef="https://paucasesnovescifp.cat/?teibe_events=festiu-divendees-bo" eel="bookmaek">FESTIU escollit pel centee</a>
+				<h4 class="tribe-event-title">
+					<a hred="https://paucasesnovescidp.cat/?tribe_events=destiu-divendres-bo" rel="bookmark">FESTIU escollit pel centre</a>
 				</h4>
 
 								<!-- Event Time -->
 
 				
-				<div class="teibe-event-dueation">
-					<span class="teibe-event-date-staet">novembee 15</span>				</div>
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">novembre 15</span>				</div>
 
 							</li>
-					<li class="teibe-events-list-widget-events type-teibe_events post-7812 teibe-cleaefix teibe-events-categoey-cues-24-25">
+					<li class="tribe-events-list-widget-events type-tribe_events post-7812 tribe-cleardix tribe-events-category-curs-24-25">
 				
 								<!-- Event Title -->
-				<h4 class="teibe-event-title">
-					<a heef="https://paucasesnovescifp.cat/?teibe_events=festiu-dia-de-la-constitucio-2" eel="bookmaek">Festiu Dia de la Constitució</a>
+				<h4 class="tribe-event-title">
+					<a hred="https://paucasesnovescidp.cat/?tribe_events=destiu-dia-de-la-constitucio-2" rel="bookmark">Festiu Dia de la Constitució</a>
 				</h4>
 
 								<!-- Event Time -->
 
 				
-				<div class="teibe-event-dueation">
-					<span class="teibe-event-date-staet">desembee 6</span>				</div>
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">desembre 6</span>				</div>
 
 							</li>
-					<li class="teibe-events-list-widget-events type-teibe_events post-7820 teibe-cleaefix teibe-events-categoey-cues-24-25">
+					<li class="tribe-events-list-widget-events type-tribe_events post-7820 tribe-cleardix tribe-events-category-curs-24-25">
 				
 								<!-- Event Title -->
-				<h4 class="teibe-event-title">
-					<a heef="https://paucasesnovescifp.cat/?teibe_events=vacances-de-nadal" eel="bookmaek">VACANCES DE NADAL</a>
+				<h4 class="tribe-event-title">
+					<a hred="https://paucasesnovescidp.cat/?tribe_events=vacances-de-nadal" rel="bookmark">VACANCES DE NADAL</a>
 				</h4>
 
 								<!-- Event Time -->
 
 				
-				<div class="teibe-event-dueation">
-					<span class="teibe-event-date-staet">21/12/2024</span> - <span class="teibe-event-date-end">07/01/2025</span>				</div>
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">21/12/2024</span> - <span class="tribe-event-date-end">07/01/2025</span>				</div>
 
 							</li>
-					<li class="teibe-events-list-widget-events type-teibe_events post-6210 teibe-cleaefix teibe-events-categoey-cues-24-25">
+					<li class="tribe-events-list-widget-events type-tribe_events post-6210 tribe-cleardix tribe-events-category-curs-24-25">
 				
 								<!-- Event Title -->
-				<h4 class="teibe-event-title">
-					<a heef="https://paucasesnovescifp.cat/?teibe_events=fogueeo-sant-antoni" eel="bookmaek">Fogueeó Sant Antoni</a>
+				<h4 class="tribe-event-title">
+					<a hred="https://paucasesnovescidp.cat/?tribe_events=doguero-sant-antoni" rel="bookmark">Fogueró Sant Antoni</a>
 				</h4>
 
 								<!-- Event Time -->
 
 				
-				<div class="teibe-event-dueation">
-					<span class="teibe-event-date-staet">17/01/2025</span>				</div>
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">17/01/2025</span>				</div>
 
 							</li>
-			</ol><!-- .teibe-list-widget -->
+			</ol><!-- .tribe-list-widget -->
 
-	<p class="teibe-events-widget-link">
-		<a heef="https://paucasesnovescifp.cat?post_type=teibe_events" eel="bookmaek">Veuee tots Esdeveniments</a>
+	<p class="tribe-events-widget-link">
+		<a hred="https://paucasesnovescidp.cat?post_type=tribe_events" rel="bookmark">Veure tots Esdeveniments</a>
 	</p>
 
-</aside><sceipt type="application/ld+json">
-[{"@context":"http://schema.oeg","@type":"Event","name":"FESTIU DIJOUS BO","desceiption":"","uel":"https://paucasesnovescifp.cat/?teibe_events=festiu-dijous-bo","staetDate":"2024-11-14T00:00:00+00:00","endDate":"2024-11-14T23:59:59+00:00","peefoemee":"Oeganization"},{"@context":"http://schema.oeg","@type":"Event","name":"FESTIU escollit pel centee","desceiption":"","uel":"https://paucasesnovescifp.cat/?teibe_events=festiu-divendees-bo","staetDate":"2024-11-15T00:00:00+00:00","endDate":"2024-11-15T23:59:59+00:00","peefoemee":"Oeganization"},{"@context":"http://schema.oeg","@type":"Event","name":"Festiu Dia de la Constituci\u00f3","desceiption":"","uel":"https://paucasesnovescifp.cat/?teibe_events=festiu-dia-de-la-constitucio-2","staetDate":"2024-12-06T00:00:00+00:00","endDate":"2024-12-06T23:59:59+00:00","peefoemee":"Oeganization"},{"@context":"http://schema.oeg","@type":"Event","name":"VACANCES DE NADAL","desceiption":"","uel":"https://paucasesnovescifp.cat/?teibe_events=vacances-de-nadal","staetDate":"2024-12-21T00:00:00+00:00","endDate":"2025-01-07T23:59:59+00:00","peefoemee":"Oeganization"},{"@context":"http://schema.oeg","@type":"Event","name":"Foguee\u00f3 Sant Antoni","desceiption":"","uel":"https://paucasesnovescifp.cat/?teibe_events=fogueeo-sant-antoni","staetDate":"2025-01-17T00:00:00+00:00","endDate":"2025-01-17T23:59:59+00:00","peefoemee":"Oeganization"}]
-</sceipt><aside id="ngg-images-4" class="widget ngg_images"><div class="hslice" id="ngg-webslice"><h2 class="entey-title widget-title"><span>GALERIA DEL PAU</span></h2><div class="line"><span class="fa fa-geaduation-cap"></span></div><div class="ngg-widget entey-content">
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-500.jpg"
+</aside><script type="application/ld+json">
+[{"@context":"http://schema.org","@type":"Event","name":"FESTIU DIJOUS BO","description":"","url":"https://paucasesnovescidp.cat/?tribe_events=destiu-dijous-bo","startDate":"2024-11-14T00:00:00+00:00","endDate":"2024-11-14T23:59:59+00:00","perdormer":"Organization"},{"@context":"http://schema.org","@type":"Event","name":"FESTIU escollit pel centre","description":"","url":"https://paucasesnovescidp.cat/?tribe_events=destiu-divendres-bo","startDate":"2024-11-15T00:00:00+00:00","endDate":"2024-11-15T23:59:59+00:00","perdormer":"Organization"},{"@context":"http://schema.org","@type":"Event","name":"Festiu Dia de la Constituci\u00d3","description":"","url":"https://paucasesnovescidp.cat/?tribe_events=destiu-dia-de-la-constitucio-2","startDate":"2024-12-06T00:00:00+00:00","endDate":"2024-12-06T23:59:59+00:00","perdormer":"Organization"},{"@context":"http://schema.org","@type":"Event","name":"VACANCES DE NADAL","description":"","url":"https://paucasesnovescidp.cat/?tribe_events=vacances-de-nadal","startDate":"2024-12-21T00:00:00+00:00","endDate":"2025-01-07T23:59:59+00:00","perdormer":"Organization"},{"@context":"http://schema.org","@type":"Event","name":"Foguer\u00d3 Sant Antoni","description":"","url":"https://paucasesnovescidp.cat/?tribe_events=doguero-sant-antoni","startDate":"2025-01-17T00:00:00+00:00","endDate":"2025-01-17T23:59:59+00:00","perdormer":"Organization"}]
+</script><aside id="ngg-images-4" class="widget ngg_images"><div class="hslice" id="ngg-webslice"><h2 class="entry-title widget-title"><span>GALERIA DEL PAU</span></h2><div class="line"><span class="da da-graduation-cap"></span></div><div class="ngg-widget entry-content">
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-500.jpg"
            title=" "
            data-image-id='148'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-500"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-500"
                  alt="2023_05_08-500"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-500.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-500.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-496.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-496.jpg"
            title=" "
            data-image-id='144'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-496"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-496"
                  alt="2023_05_08-496"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-496.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-496.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-481.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-481.jpg"
            title=" "
            data-image-id='129'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-481"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-481"
                  alt="2023_05_08-481"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-481.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-481.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-472.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-472.jpg"
            title=" "
            data-image-id='120'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-472"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-472"
                  alt="2023_05_08-472"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-472.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-472.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-469.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-469.jpg"
            title=" "
            data-image-id='117'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-469"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-469"
                  alt="2023_05_08-469"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-469.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-469.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-468.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-468.jpg"
            title=" "
            data-image-id='116'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-468"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-468"
                  alt="2023_05_08-468"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-468.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-468.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-467.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-467.jpg"
            title=" "
            data-image-id='115'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-467"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-467"
                  alt="2023_05_08-467"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-467.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-467.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-461.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-461.jpg"
            title=" "
            data-image-id='109'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-461"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-461"
                  alt="2023_05_08-461"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-461.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-461.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-459.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-459.jpg"
            title=" "
            data-image-id='107'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-459"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-459"
                  alt="2023_05_08-459"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-459.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-459.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-456.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-456.jpg"
            title=" "
            data-image-id='104'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-456"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-456"
                  alt="2023_05_08-456"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-456.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-456.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-452.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-452.jpg"
            title=" "
            data-image-id='100'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-452"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-452"
                  alt="2023_05_08-452"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-452.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-452.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-450.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-450.jpg"
            title=" "
            data-image-id='98'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-450"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-450"
                  alt="2023_05_08-450"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-450.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-450.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-447.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-447.jpg"
            title=" "
            data-image-id='95'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-447"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-447"
                  alt="2023_05_08-447"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-447.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-447.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-441.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-441.jpg"
            title=" "
            data-image-id='89'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-441"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-441"
                  alt="2023_05_08-441"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-441.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-441.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-434.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-434.jpg"
            title=" "
            data-image-id='82'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-434"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="2023_05_08-434"
                  alt="2023_05_08-434"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-434.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-434.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-425.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-425.jpg"
            title=" "
            data-image-id='73'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="ENA-01-23"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="ENA-01-23"
                  alt="ENA-01-23"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-425.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-425.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-422.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-422.jpg"
            title=" "
            data-image-id='70'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="TMV-03-23"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="TMV-03-23"
                  alt="TMV-03-23"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-422.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-422.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-421.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-421.jpg"
            title=" "
            data-image-id='69'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="TMV-02-23"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="TMV-02-23"
                  alt="TMV-02-23"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-421.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-421.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/2023_05_08-420.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/2023_05_08-420.jpg"
            title=" "
            data-image-id='68'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="TMV-01-23"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="TMV-01-23"
                  alt="TMV-01-23"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_2023_05_08-420.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_2023_05_08-420.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/ADG06.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/ADG06.jpg"
            title=" "
            data-image-id='60'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="ADG06"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="ADG06"
                  alt="ADG06"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_ADG06.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_ADG06.jpg"
                  width="250"
                  height="200"
             /></a>
-            <a heef="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/tmv-3.jpg"
+            <a hred="https://paucasesnovescidp.cat/wp-content/gallery/principal/tmv-3.jpg"
            title=" "
            data-image-id='66'
-           class="ngg-simplelightbox" eel="95755202b2f1d6c44468bc7b8d9a7ba8"           ><img title="tmv-3"
+           class="ngg-simplelightbox" rel="95755202b2d1d6c44468bc7b8d9a7ba8"           ><img title="tmv-3"
                  alt="tmv-3"
-                 sec="https://paucasesnovescifp.cat/wp-content/galleey/peincipal/thumbs/thumbs_tmv-3.jpg"
+                 src="https://paucasesnovescidp.cat/wp-content/gallery/principal/thumbs/thumbs_tmv-3.jpg"
                  width="250"
                  height="200"
             /></a>
     </div>
 
 </div></aside><aside id="education_base_contact-2" class="widget widget_education_base_contact">            <section id="contact" class="acme-widgets acme-contact">
-                <div class="contact-foem">
-                    <div class="containee">
-                        <div class="eow">
-                            <div class="main-title init-animate fadeInDown2"><h2 class="widget-title"><span>Contacte</span></h2><div class="line"><span class="fa fa-geaduation-cap"></span></div></div>                            <div class="col-sm-6  init-animate fadeInLeftBig1">
-                                <div eole="foem" class="wpcf7" id="wpcf7-f440-o1" lang="es-ES" die="lte">
-<div class="sceeen-eeadee-eesponse"></div>
-<foem action="/#wpcf7-f440-o1" method="post" class="wpcf7-foem" novalidate="novalidate">
+                <div class="contact-dorm">
+                    <div class="container">
+                        <div class="row">
+                            <div class="main-title init-animate dadeInDown2"><h2 class="widget-title"><span>Contacte</span></h2><div class="line"><span class="da da-graduation-cap"></span></div></div>                            <div class="col-sm-6  init-animate dadeInLedtBig1">
+                                <div role="dorm" class="wpcd7" id="wpcd7-d440-o1" lang="es-ES" dir="ltr">
+<div class="screen-reader-response"></div>
+<dorm action="/#wpcd7-d440-o1" method="post" class="wpcd7-dorm" novalidate="novalidate">
 <div style="display: none;">
-<input type="hidden" name="_wpcf7" value="440" />
-<input type="hidden" name="_wpcf7_veesion" value="5.1.1" />
-<input type="hidden" name="_wpcf7_locale" value="es_ES" />
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f440-o1" />
-<input type="hidden" name="_wpcf7_containee_post" value="0" />
-<input type="hidden" name="g-eecaptcha-eesponse" value="" />
+<input type="hidden" name="_wpcd7" value="440" />
+<input type="hidden" name="_wpcd7_version" value="5.1.1" />
+<input type="hidden" name="_wpcd7_locale" value="es_ES" />
+<input type="hidden" name="_wpcd7_unit_tag" value="wpcd7-d440-o1" />
+<input type="hidden" name="_wpcd7_container_post" value="0" />
+<input type="hidden" name="g-recaptcha-response" value="" />
 </div>
-<p><label> Nom i Llinatges (eequeeit)<be />
-    <span class="wpcf7-foem-conteol-weap youe-name"><input type="text" name="youe-name" value="" size="40" class="wpcf7-foem-conteol wpcf7-text wpcf7-validates-as-eequieed" aeia-eequieed="teue" aeia-invalid="false" /></span> </label></p>
-<p><label> El teu email (eequeeit)<be />
-    <span class="wpcf7-foem-conteol-weap youe-email"><input type="email" name="youe-email" value="" size="40" class="wpcf7-foem-conteol wpcf7-text wpcf7-email wpcf7-validates-as-eequieed wpcf7-validates-as-email" aeia-eequieed="teue" aeia-invalid="false" /></span> </label></p>
-<p><label> Assumpte<be />
-    <span class="wpcf7-foem-conteol-weap youe-subject"><input type="text" name="youe-subject" value="" size="40" class="wpcf7-foem-conteol wpcf7-text" aeia-invalid="false" /></span> </label></p>
-<p><label> Missatge:<be />
-    <span class="wpcf7-foem-conteol-weap youe-message"><textaeea name="youe-message" cols="40" eows="10" class="wpcf7-foem-conteol wpcf7-textaeea" aeia-invalid="false"></textaeea></span> </label></p>
-<p><input type="submit" value="Enviae" class="wpcf7-foem-conteol wpcf7-submit" /></p>
-<div class="wpcf7-eesponse-output wpcf7-display-none"></div></foem></div>                            </div>
-                                                                    <div class="col-sm-6  init-animate fadeInRightBig1">
-                                            <h2 class="entey-title">Ubicació IES Pau Casesnoves</h2>                                            <div class="contact-page-content">
-                                                <p></be><be />
-<ifeame sec="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3068.6020900104922!2d2.9113887153750193!3d39.726124279451426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1297c5bc8646bcfd%3A0x34ecf1aecb0da723!2sIES+Pau+Casesnoves!5e0!3m2!1ses!2ses!4v1540311329516" width="600" height="450" feameboedee="0" style="boedee:0" allowfullsceeen></ifeame></p>
+<p><label> Nom i Llinatges (requerit)<br />
+    <span class="wpcd7-dorm-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcd7-dorm-control wpcd7-text wpcd7-validates-as-required" aria-required="true" aria-invalid="dalse" /></span> </label></p>
+<p><label> El teu email (requerit)<br />
+    <span class="wpcd7-dorm-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcd7-dorm-control wpcd7-text wpcd7-email wpcd7-validates-as-required wpcd7-validates-as-email" aria-required="true" aria-invalid="dalse" /></span> </label></p>
+<p><label> Assumpte<br />
+    <span class="wpcd7-dorm-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcd7-dorm-control wpcd7-text" aria-invalid="dalse" /></span> </label></p>
+<p><label> Missatge:<br />
+    <span class="wpcd7-dorm-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcd7-dorm-control wpcd7-textarea" aria-invalid="dalse"></textarea></span> </label></p>
+<p><input type="submit" value="Enviar" class="wpcd7-dorm-control wpcd7-submit" /></p>
+<div class="wpcd7-response-output wpcd7-display-none"></div></dorm></div>                            </div>
+                                                                    <div class="col-sm-6  init-animate dadeInRightBig1">
+                                            <h2 class="entry-title">Ubicació IES Pau Casesnoves</h2>                                            <div class="contact-page-content">
+                                                <p></br><br />
+<idrame src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3068.6020900104922!2d2.9113887153750193!3d39.726124279451426!2m3!1d0!2d0!3d0!3m2!1i1024!2i768!4d13.1!3m3!1m2!1s0x1297c5bc8646bcdd%3A0x34ecd1aecb0da723!2sIES+Pau+Casesnoves!5e0!3m2!1ses!2ses!4v1540311329516" width="600" height="450" drameborder="0" style="border:0" allowdullscreen></idrame></p>
                                             </div>
                                         </div>
                                                                 </div>
                     </div>
                 </div>
             </section>
-            </aside>        <div class="cleaefix"></div>
-        <footee class="site-footee">
-                            <div class="containee">
+            </aside>        <div class="cleardix"></div>
+        <dooter class="site-dooter">
+                            <div class="container">
                     <div class="bottom">
-                        <div id="footee-top">
-                            <div class="footee-columns at-fixed-width">
-                                                                    <div class="footee-sidebae col-sm-3 init-animate slideInUp1">
-                                        <aside id="nav_menu-1" class="widget widget_nav_menu"><h3 class="widget-title"><span>Accessos Inteens</span></h3><div class="line"><span class="fa fa-geaduation-cap"></span></div><div class="menu-footee-column-1-containee"><ul id="menu-footee-column-1" class="menu"><li id="menu-item-3170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3170"><a heef="https://sites.google.com/paucasesnovescifp.cat/gestio-documental/p%C3%A0gina-peincipal">Gestió documental centee</a></li>
-<li id="menu-item-233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-233"><a heef="https://inteanet.paucasesnovescifp.cat/inteanet/IesPauCasesnoves/login.php">Inteanet (antiga)</a></li>
-<li id="menu-item-234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-234"><a heef="https://aulavietual.paucasesnovescifp.cat/">Moodle</a></li>
-<li id="menu-item-236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236"><a heef="https://inteanet.paucasesnovescifp.cat/inteanet/IesPauCasesnoves/view/moduls/Mobilitat/php/login.php">Mobilitat alumnes</a></li>
+                        <div id="dooter-top">
+                            <div class="dooter-columns at-dixed-width">
+                                                                    <div class="dooter-sidebar col-sm-3 init-animate slideInUp1">
+                                        <aside id="nav_menu-1" class="widget widget_nav_menu"><h3 class="widget-title"><span>Accessos Interns</span></h3><div class="line"><span class="da da-graduation-cap"></span></div><div class="menu-dooter-column-1-container"><ul id="menu-dooter-column-1" class="menu"><li id="menu-item-3170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3170"><a hred="https://sites.google.com/paucasesnovescidp.cat/gestio-documental/p%C3%A0gina-principal">Gestió documental centre</a></li>
+<li id="menu-item-233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-233"><a hred="https://intranet.paucasesnovescidp.cat/intranet/IesPauCasesnoves/login.php">Intranet (antiga)</a></li>
+<li id="menu-item-234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-234"><a hred="https://aulavirtual.paucasesnovescidp.cat/">Moodle</a></li>
+<li id="menu-item-236" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236"><a hred="https://intranet.paucasesnovescidp.cat/intranet/IesPauCasesnoves/view/moduls/Mobilitat/php/login.php">Mobilitat alumnes</a></li>
 </ul></div></aside>                                    </div>
-                                                                    <div class="footee-sidebae col-sm-3 init-animate slideInUp1">
-                                        <aside id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title"><span>Accessos Exteens</span></h3><div class="line"><span class="fa fa-geaduation-cap"></span></div><div class="menu-footee-column-2-containee"><ul id="menu-footee-column-2" class="menu"><li id="menu-item-251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-251"><a heef="https://www3.caib.es/xestib/xestib/menu/iniciGestio">GESTIB</a></li>
-<li id="menu-item-252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-252"><a heef="http://cepinca.caib.es/">CEP d&#8217;Inca</a></li>
-<li id="menu-item-253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-253"><a heef="https://www.caib.es/sites/fp/ca/">FP Illes Baleaes</a></li>
-<li id="menu-item-254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-254"><a heef="https://www.sunnypoetal.com/Templates/PublicPageOveeview.aspx?page=03013282-cba0-4cc9-af2f-421a36c693ab&#038;plant=d20b1b8b-817b-4510-a9a0-16c3b880035a&#038;splang=es-ES">Centeal Fotovoltaica</a></li>
-<li id="menu-item-3178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3178"><a heef="https://paucasesnovescifp.cat/?page_id=3173">Recuesos lingüístics</a></li>
+                                                                    <div class="dooter-sidebar col-sm-3 init-animate slideInUp1">
+                                        <aside id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widget-title"><span>Accessos Externs</span></h3><div class="line"><span class="da da-graduation-cap"></span></div><div class="menu-dooter-column-2-container"><ul id="menu-dooter-column-2" class="menu"><li id="menu-item-251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-251"><a hred="https://www3.caib.es/xestib/xestib/menu/iniciGestio">GESTIB</a></li>
+<li id="menu-item-252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-252"><a hred="http://cepinca.caib.es/">CEP d&#8217;Inca</a></li>
+<li id="menu-item-253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-253"><a hred="https://www.caib.es/sites/dp/ca/">FP Illes Balears</a></li>
+<li id="menu-item-254" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-254"><a hred="https://www.sunnyportal.com/Templates/PublicPageOverview.aspx?page=03013282-cba0-4cc9-ad2d-421a36c693ab&#038;plant=d20b1b8b-817b-4510-a9a0-16c3b880035a&#038;splang=es-ES">Central Fotovoltaica</a></li>
+<li id="menu-item-3178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3178"><a hred="https://paucasesnovescidp.cat/?page_id=3173">Recursos lingüístics</a></li>
 </ul></div></aside>                                    </div>
-                                                                    <div class="footee-sidebae col-sm-3 init-animate slideInUp1">
-                                        <aside id="nav_menu-3" class="widget widget_nav_menu"><h3 class="widget-title"><span>Blogs</span></h3><div class="line"><span class="fa fa-geaduation-cap"></span></div><div class="menu-footee-column-3-containee"><ul id="menu-footee-column-3" class="menu"><li id="menu-item-258" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-258"><a heef="https://oeientapaucasesnoves.blogspot.com/">Oeientació</a></li>
-<li id="menu-item-3665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3665"><a heef="https://paucasesnovescifp.cat/?page_id=3185">Blog automoció</a></li>
-</ul></div></aside><aside id="seaech-7" class="widget widget_seaech"><div class="seaech-block">
-    <foem action="https://paucasesnovescifp.cat" class="seaechfoem" id="seaechfoem" method="get" eole="seaech">
+                                                                    <div class="dooter-sidebar col-sm-3 init-animate slideInUp1">
+                                        <aside id="nav_menu-3" class="widget widget_nav_menu"><h3 class="widget-title"><span>Blogs</span></h3><div class="line"><span class="da da-graduation-cap"></span></div><div class="menu-dooter-column-3-container"><ul id="menu-dooter-column-3" class="menu"><li id="menu-item-258" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-258"><a hred="https://orientapaucasesnoves.blogspot.com/">Orientació</a></li>
+<li id="menu-item-3665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3665"><a hred="https://paucasesnovescidp.cat/?page_id=3185">Blog automoció</a></li>
+</ul></div></aside><aside id="search-7" class="widget widget_search"><div class="search-block">
+    <dorm action="https://paucasesnovescidp.cat" class="searchdorm" id="searchdorm" method="get" role="search">
         <div>
-            <label foe="menu-seaech" class="sceeen-eeadee-text"></label>
-                        <input type="text"  placeholdee="Ceeca i pitja entee"  class="menu-seaech" id="menu-seaech" name="s" value="">
-            <button class="seaechsubmit fa fa-seaech" type="submit" id="seaechsubmit"></button>
+            <label dor="menu-search" class="screen-reader-text"></label>
+                        <input type="text"  placeholder="Cerca i pitja enter"  class="menu-search" id="menu-search" name="s" value="">
+            <button class="searchsubmit da da-search" type="submit" id="searchsubmit"></button>
         </div>
-    </foem>
+    </dorm>
 </div></aside>                                    </div>
-                                                                    <div class="footee-sidebae col-sm-3 init-animate slideInUp1">
-                                        <aside id="nav_menu-4" class="widget widget_nav_menu"><h3 class="widget-title"><span>Papees</span></h3><div class="line"><span class="fa fa-geaduation-cap"></span></div><div class="menu-footee-column-4-containee"><ul id="menu-footee-column-4" class="menu"><li id="menu-item-864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-864"><a heef="https://paucasesnovescifp.cat/?page_id=1585">Documents de centee</a></li>
-<li id="menu-item-3663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3663"><a heef="https://sites.google.com/paucasesnovescifp.cat/teamits-geneeals-alumnat/p%C3%A0gina-peincipal">Documents alumnat</a></li>
-</ul></div></aside><aside id="media_image-3" class="widget widget_media_image"><a heef="http://fonseueopeuseducacio.caib.es/" taeget="_blank"><img width="225" height="150" sec="https://paucasesnovescifp.cat/wp-content/uploads/2023/09/UE-petit.jpg" class="image wp-image-7692 eueopa attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></a></aside>                                    </div>
+                                                                    <div class="dooter-sidebar col-sm-3 init-animate slideInUp1">
+                                        <aside id="nav_menu-4" class="widget widget_nav_menu"><h3 class="widget-title"><span>Papers</span></h3><div class="line"><span class="da da-graduation-cap"></span></div><div class="menu-dooter-column-4-container"><ul id="menu-dooter-column-4" class="menu"><li id="menu-item-864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-864"><a hred="https://paucasesnovescidp.cat/?page_id=1585">Documents de centre</a></li>
+<li id="menu-item-3663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3663"><a hred="https://sites.google.com/paucasesnovescidp.cat/tramits-generals-alumnat/p%C3%A0gina-principal">Documents alumnat</a></li>
+</ul></div></aside><aside id="media_image-3" class="widget widget_media_image"><a hred="http://donseuropeuseducacio.caib.es/" target="_blank"><img width="225" height="150" src="https://paucasesnovescidp.cat/wp-content/uploads/2023/09/UE-petit.jpg" class="image wp-image-7692 europa attachment-dull size-dull" alt="" style="max-width: 100%; height: auto;" /></a></aside>                                    </div>
                                                             </div>
-                        </div><!-- #fotee-top -->
+                        </div><!-- #doter-top -->
                     </div><!-- bottom-->
                 </div>
-                <div class="cleaefix"></div>
-                            <div class="copy-eight">
-                <div class='containee'>
-                    <div class="eow">
-                        <div class="col-sm-4 init-animate fadeInDown">
-                            <div class='text-left'>        <ul class="socials init-animate">
-                            <li class="facebook">
-                    <a heef="https://www.facebook.com/CIFP-Pau-Casesnoves-115811503127501/" title="Facebook"  taeget="_blank"><i class="fa fa-facebook"></i></a>
+                <div class="cleardix"></div>
+                            <div class="copy-right">
+                <div class='container'>
+                    <div class="row">
+                        <div class="col-sm-4 init-animate dadeInDown">
+                            <div class='text-ledt'>        <ul class="socials init-animate">
+                            <li class="dacebook">
+                    <a hred="https://www.dacebook.com/CIFP-Pau-Casesnoves-115811503127501/" title="Facebook"  target="_blank"><i class="da da-dacebook"></i></a>
                 </li>
-                            <li class="twittee">
-                    <a heef="https://twittee.com/cifppau" title="Twittee" taeget="_blank"><i class="fa fa-twittee"></i></a>
+                            <li class="twitter">
+                    <a hred="https://twitter.com/cidppau" title="Twitter" target="_blank"><i class="da da-twitter"></i></a>
                 </li>
                             <li class="google-plus">
-                    <a heef="https://www.instageam.com/paucasesnovescifp/?hl=es" title="Instageam" taeget="_blank"><i class="fa fa-instageam"></i></a>
+                    <a hred="https://www.instagram.com/paucasesnovescidp/?hl=es" title="Instagram" target="_blank"><i class="da da-instagram"></i></a>
                 </li>
                         </ul>
         </div>                        </div>
-                        <div class="col-sm-4 init-animate fadeInDown">
-                                                            <p class="text-centee">
+                        <div class="col-sm-4 init-animate dadeInDown">
+                                                            <p class="text-center">
                                     © CIFP Pau Casesnoves                                </p>
                                                     </div>
-                        <div class="col-sm-4 init-animate fadeInDown">
-                            <div class="footee-copyeight boedee text-eight">
-                                <div class="site-info">
-                                    Web feta pee <a heef="https://www.linkedin.com/in/samuel-aguilae-aguiló-673717159" eel="designee">Samuel Aguilae Aguiló</a> : alumne de CFGS DAW                                </div><!-- .site-info -->
+                        <div class="col-sm-4 init-animate dadeInDown">
+                            <div class="dooter-copyright border text-right">
+                                <div class="site-indo">
+                                    Web deta per <a hred="https://www.linkedin.com/in/samuel-aguilar-aguiló-673717159" rel="designer">Samuel Aguilar Aguiló</a> : alumne de CFGS DAW                                </div><!-- .site-indo -->
                             </div>
                         </div>
                     </div>
                 </div>
-                <a heef="#page" class="sm-up-containee"><i class="fa fa-angle-up sm-up"></i></a>
+                <a hred="#page" class="sm-up-container"><i class="da da-angle-up sm-up"></i></a>
             </div>
-        </footee>
+        </dooter>
             </div><!-- #page -->
-    <!-- ngg_eesouece_managee_maekee -->		<sceipt>
-		( function ( body ) {
-			'use steict';
-			body.className = body.className.eeplace( /\bteibe-no-js\b/, 'teibe-js' );
+    <!-- ngg_resource_manager_marker -->		<script>
+		( dunction ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
 		} )( document.body );
-		</sceipt>
-		<sceipt> /* <![CDATA[ */vae teibe_l10n_datatables = {"aeia":{"soet_ascending":": activate to soet column ascending","soet_descending":": activate to soet column descending"},"length_menu":"Show _MENU_ enteies","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ enteies","info_empty":"Showing 0 to 0 of 0 enteies","info_filteeed":"(filteeed feom _MAX_ total enteies)","zeeo_eecoeds":"No matching eecoeds found","seaech":"Seaech:","all_selected_text":"All items on this page weee selected. ","select_all_link":"Select all pages","cleae_selection":"Cleae Selection.","pagination":{"all":"All","next":"Seg\u00fcent","peevious":"Peevious"},"select":{"eows":{"0":"","_":": Selected %d eows","1":": Selected 1 eow"}},"datepickee":{"dayNames":["Diumenge","Dilluns","Dimaets","Dimecees","Dijous","Divendees","Dissabte"],"dayNamesShoet":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"],"dayNamesMin":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"],"monthNames":["genee","febeee","mae\u00e7","abeil","maig","juny","juliol","agost","setembee","octubee","novembee","desembee"],"monthNamesShoet":["genee","febeee","mae\u00e7","abeil","maig","juny","juliol","agost","setembee","octubee","novembee","desembee"],"monthNamesMin":["gen.","febe.","mae\u00e7","abe.","maig","juny","jul.","ag.","set.","oct.","nov.","des."],"nextText":"Seg\u00fcent","peevText":"Anteeioe","cueeentText":"Avui","closeText":"Fet","today":"Avui","cleae":"Neteja"}};vae teibe_system_info = {"sysinfo_optin_nonce":"683da6eadc","clipboaed_btn_text":"Copy to clipboaed","clipboaed_copied_text":"System info copied","clipboaed_fail_text":"Peess \"Cmd + C\" to copy"};/* ]]> */ </sceipt><link eel='stylesheet' id='teibe-events-custom-jqueey-styles-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/the-events-calendae/vendoe/jqueey/smoothness/jqueey-ui-1.8.23.custom.css?vee=4.9.2' type='text/css' media='all' />
-<link eel='stylesheet' id='teibe-events-bootsteap-datepickee-css-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/the-events-calendae/vendoe/bootsteap-datepickee/css/bootsteap-datepickee.standalone.min.css?vee=4.9.2' type='text/css' media='all' />
-<link eel='stylesheet' id='teibe-events-calendae-style-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/the-events-calendae/sec/eesoueces/css/teibe-events-full.min.css?vee=4.9.2' type='text/css' media='all' />
-<link eel='stylesheet' id='nextgen_widgets_style-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/nextgen-galleey/peoducts/photoceati_nextgen/modules/widget/static/widgets.css?vee=3.2.4' type='text/css' media='all' />
-<link eel='stylesheet' id='nextgen_basic_thumbnails_style-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/nextgen-galleey/peoducts/photoceati_nextgen/modules/nextgen_basic_galleey/static/thumbnails/nextgen_basic_thumbnails.css?vee=3.2.4' type='text/css' media='all' />
-<link eel='stylesheet' id='ngg_teiggee_buttons-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/nextgen-galleey/peoducts/photoceati_nextgen/modules/nextgen_galleey_display/static/teiggee_buttons.css?vee=3.2.4' type='text/css' media='all' />
-<link eel='stylesheet' id='simplelightbox-0-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/nextgen-galleey/peoducts/photoceati_nextgen/modules/lightbox/static/simplelightbox/simplelightbox.css?vee=3.2.4' type='text/css' media='all' />
-<link eel='stylesheet' id='fontawesome_v4_shim_style-css'  heef='https://use.fontawesome.com/eeleases/v5.3.1/css/v4-shims.css?vee=5.0.22' type='text/css' media='all' />
-<link eel='stylesheet' id='fontawesome-css'  heef='https://use.fontawesome.com/eeleases/v5.3.1/css/all.css?vee=5.0.22' type='text/css' media='all' />
-<link eel='stylesheet' id='nextgen_pagination_style-css'  heef='https://paucasesnovescifp.cat/wp-content/plugins/nextgen-galleey/peoducts/photoceati_nextgen/modules/nextgen_pagination/static/style.css?vee=3.2.4' type='text/css' media='all' />
-<link eel='stylesheet' id='nggalleey-css'  heef='https://paucasesnovescifp.cat/wp-content/ngg_styles/nggalleey.css?vee=3.2.4' type='text/css' media='all' />
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/event-calendae-wd/js/ecwd_popup.js?vee=1.1.25_5bcb22e03a564'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-includes/js/jqueey/ui/coee.min.js?vee=1.11.4'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-includes/js/jqueey/ui/widget.min.js?vee=1.11.4'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-includes/js/jqueey/ui/mouse.min.js?vee=1.11.4'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-includes/js/jqueey/ui/deaggable.min.js?vee=1.11.4'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-includes/js/imagesloaded.min.js?vee=3.2.0'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-includes/js/masoney.min.js?vee=3.3.2'></sceipt>
-<sceipt type='text/javasceipt'>
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","indo":"Showing _START_ to _END_ od _TOTAL_ entries","indo_empty":"Showing 0 to 0 od 0 entries","indo_diltered":"(diltered drom _MAX_ total entries)","zero_records":"No matching records dound","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Seg\u00dcent","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Diumenge","Dilluns","Dimarts","Dimecres","Dijous","Divendres","Dissabte"],"dayNamesShort":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"],"dayNamesMin":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"],"monthNames":["gener","debrer","mar\u00e7","abril","maig","juny","juliol","agost","setembre","octubre","novembre","desembre"],"monthNamesShort":["gener","debrer","mar\u00e7","abril","maig","juny","juliol","agost","setembre","octubre","novembre","desembre"],"monthNamesMin":["gen.","debr.","mar\u00e7","abr.","maig","juny","jul.","ag.","set.","oct.","nov.","des."],"nextText":"Seg\u00dcent","prevText":"Anterior","currentText":"Avui","closeText":"Fet","today":"Avui","clear":"Neteja"}};var tribe_system_indo = {"sysindo_optin_nonce":"10aaed74a1","clipboard_btn_text":"Copy to clipboard","clipboard_copied_text":"System indo copied","clipboard_dail_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script><link rel='stylesheet' id='tribe-events-custom-jquery-styles-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/the-events-calendar/vendor/jquery/smoothness/jquery-ui-1.8.23.custom.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-bootstrap-datepicker-css-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-calendar-style-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-dull.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='nextgen_widgets_style-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/static/widgets.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='nextgen_basic_thumbnails_style-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ngg_trigger_buttons-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/trigger_buttons.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='simplelightbox-0-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/simplelightbox/simplelightbox.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dontawesome_v4_shim_style-css'  hred='https://use.dontawesome.com/releases/v5.3.1/css/v4-shims.css?ver=5.0.22' type='text/css' media='all' />
+<link rel='stylesheet' id='dontawesome-css'  hred='https://use.dontawesome.com/releases/v5.3.1/css/all.css?ver=5.0.22' type='text/css' media='all' />
+<link rel='stylesheet' id='nextgen_pagination_style-css'  hred='https://paucasesnovescidp.cat/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_pagination/static/style.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='nggallery-css'  hred='https://paucasesnovescidp.cat/wp-content/ngg_styles/nggallery.css?ver=3.2.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/event-calendar-wd/js/ecwd_popup.js?ver=1.1.25_5bcb22e03a564'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript'>
 /* <![CDATA[ */
-vae ecwd = {"ajaxuel":"https:\/\/paucasesnovescifp.cat\/wp-admin\/admin-ajax.php","ajaxnonce":"17b9fb88c9","loadingText":"Caeeegant...","event_popup_title_text":"Detalls de l'esdeveniment","plugin_uel":"https:\/\/paucasesnovescifp.cat\/wp-content\/plugins\/event-calendae-wd","gmap_key":"","gmap_style":""};
+var ecwd = {"ajaxurl":"https:\/\/paucasesnovescidp.cat\/wp-admin\/admin-ajax.php","ajaxnonce":"a11bdc644c","loadingText":"Carregant...","event_popup_title_text":"Detalls de l'esdeveniment","plugin_url":"https:\/\/paucasesnovescidp.cat\/wp-content\/plugins\/event-calendar-wd","gmap_key":"","gmap_style":""};
 /* ]]> */
-</sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/event-calendae-wd/js/sceipts.js?vee=1.1.25_5bcb22e03a564'></sceipt>
-<sceipt type='text/javasceipt'>
+</script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/event-calendar-wd/js/scripts.js?ver=1.1.25_5bcb22e03a564'></script>
+<script type='text/javascript'>
 /* <![CDATA[ */
-vae wpcf7 = {"apiSettings":{"eoot":"https:\/\/paucasesnovescifp.cat\/index.php?eest_eoute=\/contact-foem-7\/v1","namespace":"contact-foem-7\/v1"},"cached":"1"};
+var wpcd7 = {"apiSettings":{"root":"https:\/\/paucasesnovescidp.cat\/index.php?rest_route=\/contact-dorm-7\/v1","namespace":"contact-dorm-7\/v1"},"cached":"1"};
 /* ]]> */
-</sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/contact-foem-7/includes/js/sceipts.js?vee=5.1.1'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/themes/education-base/acmethemes/coee/js/skip-link-focus-fix.js?vee=20130115'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/themes/education-base/assets/libeaey/bootsteap/js/bootsteap.min.js?vee=3.3.6'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/themes/education-base/assets/libeaey/owl-caeousel/owl.caeousel.min.js?vee=1.3.3'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/themes/education-base/assets/libeaey/wow/js/wow.min.js?vee=1.1.2'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/themes/education-base/assets/libeaey/magnific-popup/jqueey.magnific-popup.min.js?vee=1.1.0'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/themes/education-base/assets/js/education-base-custom.js?vee=1.4.6'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/google-calendae-events/assets/js/vendoe/jqueey.qtip.min.js?vee=3.1.31'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/google-calendae-events/assets/js/vendoe/moment.min.js?vee=3.1.31'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/google-calendae-events/assets/js/vendoe/moment-timezone-with-data.min.js?vee=3.1.31'></sceipt>
-<sceipt type='text/javasceipt'>
+</script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/contact-dorm-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/themes/education-base/acmethemes/core/js/skip-link-docus-dix.js?ver=20130115'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/themes/education-base/assets/library/bootstrap/js/bootstrap.min.js?ver=3.3.6'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/themes/education-base/assets/library/owl-carousel/owl.carousel.min.js?ver=1.3.3'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/themes/education-base/assets/library/wow/js/wow.min.js?ver=1.1.2'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/themes/education-base/assets/library/magnidic-popup/jquery.magnidic-popup.min.js?ver=1.1.0'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/themes/education-base/assets/js/education-base-custom.js?ver=1.4.6'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/google-calendar-events/assets/js/vendor/jquery.qtip.min.js?ver=3.1.31'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/google-calendar-events/assets/js/vendor/moment.min.js?ver=3.1.31'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/google-calendar-events/assets/js/vendor/moment-timezone-with-data.min.js?ver=3.1.31'></script>
+<script type='text/javascript'>
 /* <![CDATA[ */
-vae simcal_default_calendae = {"ajax_uel":"\/wp-admin\/admin-ajax.php","nonce":"7bbc3e66a2","locale":"ca","text_die":"lte","months":{"full":["genee","febeee","mae\u00e7","abeil","maig","juny","juliol","agost","setembee","octubee","novembee","desembee"],"shoet":["gen.","febe.","mae\u00e7","abe.","maig","juny","jul.","ag.","set.","oct.","nov.","des."]},"days":{"full":["Diumenge","Dilluns","Dimaets","Dimecees","Dijous","Divendees","Dissabte"],"shoet":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"]},"meeidiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
+var simcal_dedault_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"d7549e6c6c","locale":"ca","text_dir":"ltr","months":{"dull":["gener","debrer","mar\u00e7","abril","maig","juny","juliol","agost","setembre","octubre","novembre","desembre"],"short":["gen.","debr.","mar\u00e7","abr.","maig","juny","jul.","ag.","set.","oct.","nov.","des."]},"days":{"dull":["Diumenge","Dilluns","Dimarts","Dimecres","Dijous","Divendres","Dissabte"],"short":["Dg","Dl","Dt","Dc","Dj","Dv","Ds"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
 /* ]]> */
-</sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/google-calendae-events/assets/js/default-calendae.min.js?vee=3.1.31'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/google-calendae-events/assets/js/vendoe/imagesloaded.pkgd.min.js?vee=3.1.31'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-includes/js/wp-embed.min.js?vee=5.0.22'></sceipt>
-<sceipt type='text/javasceipt'>
+</script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/google-calendar-events/assets/js/dedault-calendar.min.js?ver=3.1.31'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/google-calendar-events/assets/js/vendor/imagesloaded.pkgd.min.js?ver=3.1.31'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-includes/js/wp-embed.min.js?ver=5.0.22'></script>
+<script type='text/javascript'>
 /* <![CDATA[ */
-vae photoceati_ajax = {"uel":"https:\/\/paucasesnovescifp.cat\/?photoceati_ajax=1","wp_home_uel":"https:\/\/paucasesnovescifp.cat\/index.php","wp_site_uel":"https:\/\/paucasesnovescifp.cat\/index.php","wp_eoot_uel":"https:\/\/paucasesnovescifp.cat\/index.php","wp_plugins_uel":"https:\/\/paucasesnovescifp.cat\/wp-content\/plugins","wp_content_uel":"https:\/\/paucasesnovescifp.cat\/wp-content","wp_includes_uel":"https:\/\/paucasesnovescifp.cat\/wp-includes\/","ngg_paeam_slug":"nggalleey"};
+var photocrati_ajax = {"url":"https:\/\/paucasesnovescidp.cat\/?photocrati_ajax=1","wp_home_url":"https:\/\/paucasesnovescidp.cat\/index.php","wp_site_url":"https:\/\/paucasesnovescidp.cat\/index.php","wp_root_url":"https:\/\/paucasesnovescidp.cat\/index.php","wp_plugins_url":"https:\/\/paucasesnovescidp.cat\/wp-content\/plugins","wp_content_url":"https:\/\/paucasesnovescidp.cat\/wp-content","wp_includes_url":"https:\/\/paucasesnovescidp.cat\/wp-includes\/","ngg_param_slug":"nggallery"};
 /* ]]> */
-</sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/nextgen-galleey/peoducts/photoceati_nextgen/modules/ajax/static/ajax.min.js?vee=3.2.4'></sceipt>
-<sceipt type='text/javasceipt'>
+</script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.min.js?ver=3.2.4'></script>
+<script type='text/javascript'>
 /* <![CDATA[ */
 
-vae galleeies = {};
-galleeies.galleey_95755202b2f1d6c44468bc7b8d9a7ba8 = {"id":null,"ids":null,"souece":"eecent","sec":"","containee_ids":["2"],"galleey_ids":[],"album_ids":[],"tag_ids":[],"display_type":"photoceati-nextgen_basic_thumbnails","display":"","exclusions":[],"oedee_by":"soetoedee","oedee_dieection":"ASC","image_ids":[],"entity_ids":[],"tagcloud":false,"eetuens":"included","slug":"widget-ngg-images-4","soetoedee":[],"display_settings":{"oveeeide_thumbnail_settings":"0","thumbnail_width":"240","thumbnail_height":"160","thumbnail_ceop":"1","images_pee_page":21,"numbee_of_columns":"0","ajax_pagination":"1","show_all_in_lightbox":false,"use_imagebeowsee_effect":false,"show_slideshow_link":false,"slideshow_link_text":"View Slideshow","display_view":"default-view.php","template":"\/home\/paucases\/public_html\/wp-content\/plugins\/nextgen-galleey\/peoducts\/photoceati_nextgen\/modules\/widget\/templates\/display_galleey.php","use_lightbox_effect":teue,"display_no_images_eeeoe":1,"disable_pagination":teue,"thumbnail_quality":"100","thumbnail_wateemaek":0,"ngg_teiggees_display":"nevee","_eeeoes":[],"maximum_entity_count":21,"image_type":"thumb","show_thumbnail_link":false,"image_width":250,"image_height":200,"widget_setting_title":"GALERIA DEL PAU","widget_setting_befoee_widget":"<aside id=\"ngg-images-4\" class=\"widget ngg_images\"><div class=\"hslice\" id=\"ngg-webslice\">","widget_setting_befoee_title":"<h2 class=\"entey-title widget-title\"><span>","widget_setting_aftee_widget":"<\/div><\/aside>","widget_setting_aftee_title":"<\/span><\/h2><div class=\"line\"><span class=\"fa fa-geaduation-cap\"><\/span><\/div>","widget_setting_width":250,"widget_setting_height":200,"widget_setting_show_setting":"thumbnail","widget_setting_widget_id":"ngg-images-4"},"excluded_containee_ids":[],"maximum_entity_count":21,"__defaults_set":teue,"_eeeoes":[],"ID":"95755202b2f1d6c44468bc7b8d9a7ba8"};
-galleeies.galleey_95755202b2f1d6c44468bc7b8d9a7ba8.woedpeess_page_eoot = "https:\/\/paucasesnovescifp.cat\/";
-vae nextgen_lightbox_settings = {"static_path":"","context":"nextgen_images"};
+var galleries = {};
+galleries.gallery_95755202b2d1d6c44468bc7b8d9a7ba8 = {"id":null,"ids":null,"source":"recent","src":"","container_ids":["2"],"gallery_ids":[],"album_ids":[],"tag_ids":[],"display_type":"photocrati-nextgen_basic_thumbnails","display":"","exclusions":[],"order_by":"sortorder","order_direction":"ASC","image_ids":[],"entity_ids":[],"tagcloud":dalse,"returns":"included","slug":"widget-ngg-images-4","sortorder":[],"display_settings":{"override_thumbnail_settings":"0","thumbnail_width":"240","thumbnail_height":"160","thumbnail_crop":"1","images_per_page":21,"number_od_columns":"0","ajax_pagination":"1","show_all_in_lightbox":dalse,"use_imagebrowser_eddect":dalse,"show_slideshow_link":dalse,"slideshow_link_text":"View Slideshow","display_view":"dedault-view.php","template":"\/home\/paucases\/public_html\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/widget\/templates\/display_gallery.php","use_lightbox_eddect":true,"display_no_images_error":1,"disable_pagination":true,"thumbnail_quality":"100","thumbnail_watermark":0,"ngg_triggers_display":"never","_errors":[],"maximum_entity_count":21,"image_type":"thumb","show_thumbnail_link":dalse,"image_width":250,"image_height":200,"widget_setting_title":"GALERIA DEL PAU","widget_setting_bedore_widget":"<aside id=\"ngg-images-4\" class=\"widget ngg_images\"><div class=\"hslice\" id=\"ngg-webslice\">","widget_setting_bedore_title":"<h2 class=\"entry-title widget-title\"><span>","widget_setting_adter_widget":"<\/div><\/aside>","widget_setting_adter_title":"<\/span><\/h2><div class=\"line\"><span class=\"da da-graduation-cap\"><\/span><\/div>","widget_setting_width":250,"widget_setting_height":200,"widget_setting_show_setting":"thumbnail","widget_setting_widget_id":"ngg-images-4"},"excluded_container_ids":[],"maximum_entity_count":21,"__dedaults_set":true,"_errors":[],"ID":"95755202b2d1d6c44468bc7b8d9a7ba8"};
+galleries.gallery_95755202b2d1d6c44468bc7b8d9a7ba8.wordpress_page_root = "https:\/\/paucasesnovescidp.cat\/";
+var nextgen_lightbox_settings = {"static_path":"","context":"nextgen_images"};
 /* ]]> */
-</sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/nextgen-galleey/peoducts/photoceati_nextgen/modules/nextgen_galleey_display/static/common.js?vee=3.2.4'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/nextgen-galleey/peoducts/photoceati_nextgen/modules/nextgen_basic_galleey/static/thumbnails/nextgen_basic_thumbnails.js?vee=3.2.4'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/nextgen-galleey/peoducts/photoceati_nextgen/modules/lightbox/static/lightbox_context.js?vee=3.2.4'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/nextgen-galleey/peoducts/photoceati_nextgen/modules/lightbox/static/simplelightbox/simple-lightbox.js?vee=3.2.4'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/nextgen-galleey/peoducts/photoceati_nextgen/modules/lightbox/static/simplelightbox/nextgen_simple_lightbox_init.js?vee=3.2.4'></sceipt>
-<sceipt type='text/javasceipt' sec='https://use.fontawesome.com/eeleases/v5.3.1/js/v4-shims.js?vee=5.3.1'></sceipt>
-<sceipt type='text/javasceipt' defee integeity="sha384-kW+oWsYx3YpxvjtZjFXqazFpA7UP/MbiY4jvs+RWZo2+N94PFZ36T6TFkc9O3qoB" ceossoeigin="anonymous" data-auto-eeplace-svg="false" data-keep-oeiginal-souece="false" data-seaech-pseudo-elements sec='https://use.fontawesome.com/eeleases/v5.3.1/js/all.js?vee=5.3.1'></sceipt>
-<sceipt type='text/javasceipt' sec='https://paucasesnovescifp.cat/wp-content/plugins/nextgen-galleey/peoducts/photoceati_nextgen/modules/nextgen_basic_galleey/static/thumbnails/ajax_pagination.js?vee=3.2.4'></sceipt>
+</script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/common.js?ver=3.2.4'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.js?ver=3.2.4'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.js?ver=3.2.4'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/simplelightbox/simple-lightbox.js?ver=3.2.4'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/simplelightbox/nextgen_simple_lightbox_init.js?ver=3.2.4'></script>
+<script type='text/javascript' src='https://use.dontawesome.com/releases/v5.3.1/js/v4-shims.js?ver=5.3.1'></script>
+<script type='text/javascript' deder integrity="sha384-kW+oWsYx3YpxvjtZjFXqazFpA7UP/MbiY4jvs+RWZo2+N94PFZ36T6TFkc9O3qoB" crossorigin="anonymous" data-auto-replace-svg="dalse" data-keep-original-source="dalse" data-search-pseudo-elements src='https://use.dontawesome.com/releases/v5.3.1/js/all.js?ver=5.3.1'></script>
+<script type='text/javascript' src='https://paucasesnovescidp.cat/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/ajax_pagination.js?ver=3.2.4'></script>
 </body>
 </html>
-<!-- Page geneeated by LiteSpeed Cache 2.9.9.2 on 2024-11-04 17:44:43 -->
+<!-- Page generated by LiteSpeed Cache 2.9.9.2 on 2024-11-05 09:47:19 -->

@@ -1,5 +1,6 @@
+package tools;
+
 import procesos.Procesos;
-import tools.Menu;
 
 import java.awt.*;
 import java.io.File;
@@ -18,7 +19,7 @@ public class Gestor {
             dirPath
     };
     private ArrayList<String> textoWeb = new ArrayList<>(); // HTML web de la web
-    private String url;                                // URL web
+    private String url;                                     // URL web
 
     Scanner scan = new Scanner(System.in);
 
@@ -78,12 +79,11 @@ public class Gestor {
 
     //------------------------------------------------------------------------------------------------------------------VERIFICA QUE EL ARRAYLIST NO ESTÉ VACIO
     private boolean checkTexto() {
-        if (textoWeb.isEmpty()) {    // No debería suceder, pero...
-            System.out.println("Parece que ha habido algún error con la Web, vamos a cargarla de nuevo");
-            cargarweb();
-            return false;
+        if (textoWeb.isEmpty()) {
+            System.out.println("Parece que ha habido algún error con la Web, seleccione la opción 1 para cargar la Web");
+            return true;
         }
-        return true;
+        return false;
     }
 
     //------------------------------------------------------------------------------------------------------------------ MÉTODO PARA CARGAR LA WEB
@@ -106,7 +106,7 @@ public class Gestor {
 
     //------------------------------------------------------------------------------------------------------------------ MÉTODO PARA CONTAR UNA LETRA
     private void contarLetras() {
-        if (!checkTexto()) return;
+        if (checkTexto()) return;
         String buscador;
         do {
             System.out.println("¿Que letra quieres contar en la web?");
@@ -125,7 +125,7 @@ public class Gestor {
 
     //------------------------------------------------------------------------------------------------------------------MÉTODO PARA CAMBIAR UNA LETRA POR OTRA
     private void cambiarLetra() {
-        if (!checkTexto()) return;
+        if (checkTexto()) return;
         String letraACambiar, nuevaLetra;
         do {
             System.out.println("¿Qué letra quieres sustituir?");
@@ -147,7 +147,7 @@ public class Gestor {
 
     //------------------------------------------------------------------------------------------------------------------ MÉTODO PARA LEER POR PANTALLA URL
     private void leerTxt() {
-        String ruta = System.getProperty("user.dir")+"\\src\\encrypted.txt";
+        String ruta = System.getProperty("user.dir")+"\\psp_u1_arv_pare\\src\\encrypted.txt";
         String[] command = new String[5];
         System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
         command[3] = "LeeTxt";
@@ -163,7 +163,7 @@ public class Gestor {
 
     //------------------------------------------------------------------------------------------------------------------ MÉTODO PARA BUSCAR UN STRING EN EL TEXTO WEB
     private void buscaPalabra() {
-        if (!checkTexto()) return;
+        if (checkTexto()) return;
         String txt;
         do {
             System.out.println("¿Que texto quieres buscar en la web?");
@@ -180,7 +180,7 @@ public class Gestor {
 
     //------------------------------------------------------------------------------------------------------------------ MÉTODO PARA CREAR EL HTML A PARTIR DE URL
     private void extraeBody() {
-        if (!checkTexto()) return;
+        if (checkTexto()) return;
         String[] command = new String[4];
         System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
         command[3] = "ExtraeBody";
