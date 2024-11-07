@@ -10,14 +10,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static procesos.Procesos.dirPath;
-
 public class Gestor {
-    private final String[] rutaGenerica = {
-            "java",
-            "-cp",
-            dirPath
-    };
     private ArrayList<String> textoWeb = new ArrayList<>(); // HTML web de la web
     private String url;                                     // URL web
 
@@ -92,10 +85,7 @@ public class Gestor {
             System.out.println("Parece que ha habido algún error con la url, por favor introdúcela de nuevo.");
             getUrl();
         }
-        String[] command = new String[5];
-        System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
-        command[3] = "DescargaWeb";
-        command[4] = url;// Pasar la URL como argumento
+        String[] command = {"apps.DescargaWeb", url};
 
         Process process = Procesos.ejecutaPrograma(command);
         textoWeb = Procesos.leer(process);
@@ -116,8 +106,8 @@ public class Gestor {
         if (buscador.length() > 1) System.out.println("Sólo se tendrá en cuenta el primer caracter introducido.");
 
         String[] command = new String[5];
-        System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
-        command[3] = "CuentaCaracteres";
+        //System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
+        command[3] = "apps.CuentaCaracteres";
         command[4] = buscador;
 
         creaProceso(command);
@@ -137,8 +127,8 @@ public class Gestor {
         while (nuevaLetra.isEmpty());
 
         String[] command = new String[6];
-        System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
-        command[3] = "CambiaLetras";
+        //System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
+        command[3] = "apps.CambiaLetras";
         command[4] = letraACambiar;
         command[5] = nuevaLetra;
 
@@ -149,8 +139,8 @@ public class Gestor {
     private void leerTxt() {
         String ruta = System.getProperty("user.dir")+"\\psp_u1_arv_pare\\src\\encrypted.txt";
         String[] command = new String[5];
-        System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
-        command[3] = "LeeTxt";
+        //System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
+        command[3] = "apps.LeeTxt";
         command[4] = ruta;
         File archivo = new File(ruta);
         if (!archivo.exists()) {
@@ -171,8 +161,8 @@ public class Gestor {
         }
         while (txt.isEmpty());
         String[] command = new String[5];
-        System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
-        command[3] = "BuscaPalabra";
+        //System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
+        command[3] = "apps.BuscaPalabra";
         command[4] = txt;
 
         creaProceso(command);
@@ -182,8 +172,8 @@ public class Gestor {
     private void extraeBody() {
         if (checkTexto()) return;
         String[] command = new String[4];
-        System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
-        command[3] = "ExtraeBody";
+        //System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
+        command[3] = "apps.ExtraeBody";
 
         creaProceso(command);
     }

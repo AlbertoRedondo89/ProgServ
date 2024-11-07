@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="psp_u1_arv_fill:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/psp_u1_arv_fill_jar</output-path>
+    <root id="archive" name="psp_u1_arv_fill.jar">
+      <element id="module-output" name="psp_u1_arv_fill" />
+    </root>
+  </artifact>
+</component>
