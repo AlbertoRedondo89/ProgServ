@@ -5,10 +5,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Procesos {
-    public static String dirPath = "..\\psp_u1_arv_fill_jar";
+    public static String dirPath = "../psp_u1_arv_fill_jar";
     public static Process ejecutaPrograma(String[] command) {
 
-        ProcessBuilder programa = new ProcessBuilder("java", "-cp", "psp_u1_arv_fill.jar", Arrays.toString(command));
+        ProcessBuilder programa = new ProcessBuilder("java", "-cp", "psp_u1_arv_fill.jar", "DescargaWeb");
         programa.directory(new File(dirPath));
         programa.redirectError(new File("errores.txt"));
 
