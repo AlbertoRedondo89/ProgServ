@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="psp_u1_arv_pare:jar">
+    <output-path>$PROJECT_DIR$/../psp_u1_arv_pare_jar</output-path>
+    <root id="archive" name="psp_u1_arv_pare.jar">
+      <element id="module-output" name="psp_u1_arv_pare" />
+    </root>
+  </artifact>
+</component>

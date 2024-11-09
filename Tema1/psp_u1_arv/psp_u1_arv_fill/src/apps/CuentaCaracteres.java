@@ -3,6 +3,14 @@ package apps;
 import java.io.*;
 
 public class CuentaCaracteres {
+
+    /*
+    * Recibe por argumentos el caracter a contar
+    * Recibe el texto por bufferReader
+    * Llama al metodo cuenta para recorrer el texto y contar las coincidencias
+    * devuelve el número de coincidencias
+    * */
+
     public static void main(String[] args) {
         char buscador = args[0].charAt(0);
         StringBuilder recibido = new StringBuilder();

@@ -4,18 +4,26 @@ import java.io.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/*
+* Recibe la web con recibeDatos() y la guarda en un String
+* Recorre el texto con extraeBody() y genera un nuevo String que incluye solo el body (si no encuentra body, devolverá un String vacío)
+* guarda el String de body en un nuevo archivo html
+* */
+
 public class ExtraeBody {
     public static void main(String[] args) {
-        String webCompleta = recibeDatos();
-        String webSoloBody = extraeBody(webCompleta);
+        String webCompleta = String.valueOf(Comunes.leeArchivo(args[0]));
+        String inicioHtml = "<html>\n" +
+                "  <head>\n" +
+                "    <meta charset=\"utf-8\" />\n" +
+                "    <title>Pagina Encriptada</title>\n" +
+                "\n </head>";
+        String finalHtml = "</html>";
+        String webSoloBody = inicioHtml + extraeBody(webCompleta) + finalHtml;
 
-        String fileName = "index.html";                                                   // Crear el nombre del archivo
-        String currentDirPath = System.getProperty("user.dir");                              // Obtener el directorio actual
-        String parentDirPath = currentDirPath.substring(0, currentDirPath.length() - 19);    // Eliminar las últimas 19 letras de la ruta
-        // Construir la ruta completa al archivo
-        String filePath = parentDirPath + "psp_u1_arv_pare" + File.separator + "src" + File.separator + fileName;
+        String fileName = "index.html";
 
-        boolean guardado = guardarEnArchivo(webSoloBody,filePath);
+        boolean guardado = guardarEnArchivo(webSoloBody,fileName);
 
         try (PrintWriter out = new PrintWriter(System.out)) {
             out.println("Creando archivo...");
@@ -25,17 +33,6 @@ public class ExtraeBody {
         }
     }
 
-    private static String recibeDatos() {
-        StringBuilder recibido = new StringBuilder();
-        try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
-            String linea;
-            while ((linea = br.readLine())!=null)
-                recibido.append(linea).append("\n");
-        } catch (IOException ioe) {
-            throw new RuntimeException(ioe);
-        }
-        return recibido.toString();
-    }
     private static String extraeBody(String html) {
         String regex = "(<body[^>]*>)(.*?)(</body>)";
         Pattern pattern = Pattern.compile(regex, Pattern.DOTALL | Pattern.CASE_INSENSITIVE);

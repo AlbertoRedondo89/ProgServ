@@ -6,9 +6,16 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
 public class BuscaPalabra {
+
+    /*
+    * Recibe por args[] el String que buscará en la web
+    * Recibe la web en recibeDatos()
+    * busca el String en la web recibida y devuelve si el texto contiene ese String o no
+    * */
+
     public static void main(String[] args) {
         String buscador = args[0];
-        String texto = recibeDatos();
+        String texto = Comunes.recibeDatos();
 
         try (PrintWriter out = new PrintWriter(System.out)) {
             out.println("Buscando palabra...");
@@ -18,15 +25,4 @@ public class BuscaPalabra {
         }
     }
 
-    private static String recibeDatos() {
-        StringBuilder recibido = new StringBuilder();
-        try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
-            String linea;
-            while ((linea = br.readLine())!=null)
-                recibido.append(linea).append("\n");
-        } catch (IOException ioe) {
-            throw new RuntimeException(ioe);
-        }
-        return recibido.toString();
-    }
 }

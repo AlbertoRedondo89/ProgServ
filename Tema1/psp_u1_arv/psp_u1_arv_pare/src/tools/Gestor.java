@@ -11,15 +11,15 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Gestor {
-    private String dir = "psp_u1_arv_fill.jar";
-    private final String[] rutaGenerica = {
+    private final String dir = "psp_u1_arv_fill.jar";       // String[] común para llamar a todos los procesos
+    private final String[] rutaGenerica = {                 // Cada metodo usará su propio String[] en el que copiara este y añadirá lo que necesita
             "java",
             "-cp",
             dir
     };
-    private ArrayList<String> textoWeb = new ArrayList<>(); // HTML web de la web
-    private String url;                                     // URL web
 
+    private ArrayList<String> textoWeb = new ArrayList<>(); // Aqui se guarda todo el texto de la web
+    private String url;                                     // URL de la web proporcionada por el usuario
     Scanner scan = new Scanner(System.in);
 
     public Gestor() {
@@ -37,13 +37,13 @@ public class Gestor {
                     System.out.println("Hasta luego, buenas tardes.");
                     pass();
                 }
-                case 1 -> cargarweb();              /* CARGAR WEB */
-                case 2 -> contarLetras();           // CONTAR LETRAS
-                case 3 -> cambiarLetra();           // CAMBIAR LETRAS
-                case 4 -> leerTxt();                // LEE EL ARCHIVO TXT
-                case 5 -> buscaPalabra();           // BUSCA UNA PALABRA EN EL STRING DE LA WEB
-                case 6 -> extraeBody();             // SACA EL BODY DEL HTML Y CREA UN TXT CON EL
-                case 7 -> abreIndex();              // ABRE EL TXT CON EL NAVEGADOR
+                case 1 -> cargarweb();                                                                                  /* LLAMADAS A CADA METODO, SEGUN EL NUMERO PULSADO */
+                case 2 -> contarLetras();
+                case 3 -> cambiarLetra();
+                case 4 -> leerTxt();
+                case 5 -> buscaPalabra();
+                case 6 -> extraeBody();
+                case 7 -> abreIndex();
                 default -> System.out.println("bad option");
             }
         }
@@ -52,7 +52,7 @@ public class Gestor {
     private void pass() {
     }
 
-    //------------------------------------------------------------------------------------------------------------------ MÉTODO PARA OBTENER LA URL
+    //------------------------------------------------------------------------------------------------------------------ METODO PARA OBTENER LA URL
     private void getUrl() {
         do {
             url = scan.nextLine();
@@ -76,7 +76,7 @@ public class Gestor {
         return check;
     }
 
-    //------------------------------------------------------------------------------------------------------------------VERIFICA QUE EL ARRAYLIST NO ESTÉ VACIO
+    //------------------------------------------------------------------------------------------------------------------VERIFICA QUE EL TEXTO DE LA WEB NO ESTÉ VACIO
     private boolean checkTexto() {
         if (textoWeb.isEmpty()) {
             System.out.println("Parece que ha habido algún error con la Web, seleccione la opción 1 para cargar la Web");
@@ -85,7 +85,8 @@ public class Gestor {
         return false;
     }
 
-    //------------------------------------------------------------------------------------------------------------------ MÉTODO PARA CARGAR LA WEB
+    //------------------------------------------------------------------------------------------------------------------METODO PARA CARGAR LA WEB
+                                                                                                                      //ENVIARÁ LA URL, RECIBIRA LOS DATOS Y LOS GUARDARA EN TEXTOWEB
     private void cargarweb() {
         if (url.isEmpty()) {    // No debería suceder, pero...
             System.out.println("Parece que ha habido algún error con la url, por favor introdúcela de nuevo.");
@@ -93,17 +94,19 @@ public class Gestor {
         }
         String[] command = new String[5];
         System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
-        command[3] = "DescargaWeb";
+        command[3] = "apps.DescargaWeb";
         command[4] = url;// Pasar la URL como argumento
 
         Process process = Procesos.ejecutaPrograma(command);
+        Procesos.enviar(process, url);
         textoWeb = Procesos.leer(process);
         for (String linea : textoWeb) {
             System.out.println(linea);
         }
     }
 
-    //------------------------------------------------------------------------------------------------------------------ MÉTODO PARA CONTAR UNA LETRA
+    /*----------------------------------------------------------------------------------------------------------------- METODO PARA CONTAR UNA LETRA
+                                                                                                                        SOLICITA AL USUARIO LA LETRA QUE QUIERE CONTAR*/
     private void contarLetras() {
         if (checkTexto()) return;
         String buscador;
@@ -122,13 +125,17 @@ public class Gestor {
         creaProceso(command);
     }
 
-    //------------------------------------------------------------------------------------------------------------------MÉTODO PARA CAMBIAR UNA LETRA POR OTRA
+    /*----------------------------------------------------------------------------------------------------------------- METODO PARA CAMBIAR UNA LETRA POR OTRA
+    *                                                                                                                   PEDIRÁ AL USUARIO DOS LETRAS PARA SUSTITUIR EN EL TEXTO
+    *                                                                                                                   lAS PASARÁ COMO ARGUMENTO CambiarLetras*/
     private void cambiarLetra() {
         if (checkTexto()) return;
         String letraACambiar, nuevaLetra;
         do {
             System.out.println("¿Qué letra quieres sustituir?");
-            letraACambiar = scan.nextLine();}
+            System.out.println("Tenga en cuenta que cambiar 'b', 'o', 'd' o 'y' generará un html vacío en la opción 6");
+            letraACambiar = scan.nextLine();
+        }
         while(letraACambiar.isEmpty());
         do {
             System.out.println("¿Por qué letra quieres cambiarla?");
@@ -144,23 +151,27 @@ public class Gestor {
         creaProceso(command);
     }
 
-    //------------------------------------------------------------------------------------------------------------------ MÉTODO PARA LEER POR PANTALLA URL
+    /*----------------------------------------------------------------------------------------------------------------- METODO PARA LEER POR PANTALLA encrypted.txt
+    *                                                                                                                   ENVIARA LA RUTA AL ARCHIVO COMO PARÁMETRO
+    *                                                                                                                   comprueba la existencia del archivo antes de lanzar el proceso*/
     private void leerTxt() {
-        String ruta = System.getProperty("user.dir")+"\\psp_u1_arv_pare\\src\\encrypted.txt";
+        String ruta = "encrypted.txt";
+        String checkArchivo = "../psp_u1_arv_fill_jar/encrypted.txt";
         String[] command = new String[5];
         System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
         command[3] = "apps.LeeTxt";
         command[4] = ruta;
-        File archivo = new File(ruta);
+        File archivo = new File(checkArchivo);
         if (!archivo.exists()) {
-            System.out.println("El archivo no existe en la ruta: " + ruta);
+            System.out.println("El archivo no existe en la ruta: " + checkArchivo);
             System.out.println("Seleccione la opción 3 para crearlo");
-            return; // Salir del método si el archivo no existe
+            return; // Salir del metodo si el archivo no existe
         }
         creaProcesoSinTexto(command);
     }
 
-    //------------------------------------------------------------------------------------------------------------------ MÉTODO PARA BUSCAR UN STRING EN EL TEXTO WEB
+    /*----------------------------------------------------------------------------------------------------------------- METODO PARA BUSCAR UN STRING EN EL TEXTO WEB
+    *                                                                                                                   solicita al usuario un String que enviará a PuscaPalabra por argumento*/
     private void buscaPalabra() {
         if (checkTexto()) return;
         String txt;
@@ -177,33 +188,51 @@ public class Gestor {
         creaProceso(command);
     }
 
-    //------------------------------------------------------------------------------------------------------------------ MÉTODO PARA CREAR EL HTML A PARTIR DE URL
+    //------------------------------------------------------------------------------------------------------------------ METODO PARA CREAR EL HTML A PARTIR DE URL
     private void extraeBody() {
+        /*
         if (checkTexto()) return;
         String[] command = new String[4];
         System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
         command[3] = "apps.ExtraeBody";
 
         creaProceso(command);
-    }
-
-    //------------------------------------------------------------------------------------------------------------------ MÉTODO PARA ABRIR EL HTML CON UN NAVEGADOR
-    private void abreIndex() {
-        String archivo = "src/index.html";
-        File archivoHtml = new File(archivo);
-
-        if (archivoHtml.exists()) {
-            try {
-                Desktop.getDesktop().browse(archivoHtml.toURI());
-            } catch (IOException e) {
-                throw new RuntimeException(e);
-            }
-        } else {
-            System.err.println("El archivo no esiste");
+        */
+        String ruta = "encrypted.txt";
+        String checkArchivo = "../psp_u1_arv_fill_jar/encrypted.txt";
+        String[] command = new String[5];
+        System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
+        command[3] = "apps.ExtraeBody";
+        command[4] = ruta;
+        File archivo = new File(checkArchivo);
+        if (!archivo.exists()) {
+            System.out.println("El archivo no existe en la ruta: " + checkArchivo);
+            System.out.println("Seleccione la opción 3 para crearlo");
+            return; // Salir del metodo si el archivo no existe
         }
+        creaProcesoSinTexto(command);
     }
 
-    //------------------------------------------------------------------------------------------------------------------ MÉTODOS PARA CREAR PROCESOS NUEVOS
+    //------------------------------------------------------------------------------------------------------------------ METODO PARA ABRIR EL HTML CON UN NAVEGADOR
+    private void abreIndex() {
+        String archivoHtml = "index.html";
+        String checkArchivo = "../psp_u1_arv_fill_jar/index.html";
+        String[] command = new String[5];
+        System.arraycopy(rutaGenerica, 0, command, 0, rutaGenerica.length);
+        command[3] = "apps.AbreNavegador";
+        command[4] = archivoHtml;
+        File archivo = new File(checkArchivo);
+        if (!archivo.exists()) {
+            System.out.println("El archivo no existe en la ruta: " + checkArchivo);
+            System.out.println("Seleccione la opción 6 para crearlo");
+            return; // Salir del metodo si el archivo no existe
+        }
+        creaProcesoSinRetorno(command);
+    }
+
+    //------------------------------------------------------------------------------------------------------------------ METODOS PARA CREAR PROCESOS NUEVOS
+                                                                                                                        // se usa uno u otro segun se necesite enviar o no el texto web
+    //                                                                                                                  y según se espere recibir texto de vuelta o no
     private void creaProceso(String[] command) {
         Process process = Procesos.ejecutaPrograma(command);
         System.out.println("Enviando");
@@ -229,5 +258,9 @@ public class Gestor {
         for (String linea : salida) {
             System.out.println(linea);
         }
+    }
+    private void creaProcesoSinRetorno(String[] command) {
+        Procesos.ejecutaPrograma(command);
+        System.out.println("Enviando");
     }
 }

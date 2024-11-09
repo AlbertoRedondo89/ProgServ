@@ -5,24 +5,17 @@ import java.util.ArrayList;
 
 public class LeeTxt {
 
+    /*
+    * Recibe por argumentos la ruta del archivo a leer
+    * leerArchivo, para sorpresa de nadie, lee el archivo
+    * escribeArchivo lo saca por un System.out para que lo reciba el padre
+    * */
+
     public static void main(String[] args) {
         String ruta = args[0];
-        escribeArchivo(leeArchivo(ruta));
+        escribeArchivo(Comunes.leeArchivo(ruta));
     }
 
-    public static ArrayList<String> leeArchivo(String url) {
-        ArrayList<String> texto = new ArrayList<>();
-        try (BufferedReader bw = new BufferedReader(new FileReader(url))) {
-            String linea;
-            while ((linea = bw.readLine()) != null) {
-                texto.add(linea);
-            }
-
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
-        return texto;
-    }
     public static void escribeArchivo(ArrayList<String> texto) {
         try (PrintWriter out = new PrintWriter(System.out)) {
             for (String linea : texto) {

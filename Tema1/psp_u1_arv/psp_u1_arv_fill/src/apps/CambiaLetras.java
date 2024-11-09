@@ -4,6 +4,14 @@ import java.io.*;
 
 public class CambiaLetras {
 
+    /*
+    * Recibe dos argumentos, selecciona sólo el primer caracter de cada uno
+    * Recibe el texto de la web y lo guarda en recibido
+    * Envía recibido y los dos char al metodo cambiador -> recorre recibido y cambia los valores de los char que encuentra. A la vez, genera el archvio txt
+    * El metodo cambiador devuelve un boolean para comprobar que se ha creado bien el archivo.
+    * Finalmente se devuelve una sentencia de confirmacion o de error al usuario
+    * */
+
     public static void main(String[] args) {
         boolean cambiado;
         char letraACambiar = args[0].charAt(0);
@@ -36,13 +44,8 @@ public class CambiaLetras {
     private static boolean cambiador(String texto, char letraACambiar, char nuevaLetra) {
         boolean fin;
 
-        String fileName = "encrypted.txt";                                                   // Crear el nombre del archivo
-        String currentDirPath = System.getProperty("user.dir");                              // Obtener el directorio actual
-        String parentDirPath = currentDirPath.substring(0, currentDirPath.length() - 19);    // Eliminar las últimas 19 letras de la ruta
-        // Construir la ruta completa al archivo
-        String filePath = parentDirPath + "psp_u1_arv_pare" + File.separator + "src" + File.separator + fileName;
-
-        try (PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter(filePath)))) {
+        String fileName = "encrypted.txt";
+        try (PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter(fileName)))) {
             // Cambiar letras y escribir en el archivo
             for (char c : texto.toCharArray()) {
                 if (c == letraACambiar) c = nuevaLetra;

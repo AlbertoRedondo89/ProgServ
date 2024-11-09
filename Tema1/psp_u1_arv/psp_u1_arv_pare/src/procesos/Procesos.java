@@ -8,7 +8,8 @@ public class Procesos {
     public static String dirPath = "../psp_u1_arv_fill_jar";
     public static Process ejecutaPrograma(String[] command) {
 
-        ProcessBuilder programa = new ProcessBuilder("java", "-cp", "psp_u1_arv_fill.jar", "DescargaWeb");
+        System.out.println(Arrays.toString(command));
+        ProcessBuilder programa = new ProcessBuilder(command);
         programa.directory(new File(dirPath));
         programa.redirectError(new File("errores.txt"));
 
