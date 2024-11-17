@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2992cb8b-4c0e-4dc1-a403-cc04fb3387f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/psp_u1_arv_fill/.idea/artifacts/psp_u1_arv_fill_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/psp_u1_arv_jar/psp_u1_arv.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/BuscaPalabra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/CambiaLetras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/CuentaCaracteres.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/DescargaWeb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/ExtraeBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/LeeTxt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/errores.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/encrypted.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/encrypted.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/procesos/Procesos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/procesos/Procesos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/tools/Gestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/tools/Gestor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/tools/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/tools/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/BuscaPalabra.class" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/BuscaPalabra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/BuscaPalabra.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/BuscaPalabra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/CambiaLetras.class" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/CambiaLetras.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/CambiaLetras.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/CambiaLetras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/CuentaCaracteres.class" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/CuentaCaracteres.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/CuentaCaracteres.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/CuentaCaracteres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/DescargaWeb.class" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/DescargaWeb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/DescargaWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/DescargaWeb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/ExtraeBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/ExtraeBody.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/ExtraeBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/ExtraeBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/LeeTxt.class" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/LeeTxt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/LeeTxt.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/LeeTxt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_pare/src/procesos/Procesos.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_pare/src/procesos/Procesos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/psp_u1_arv_pare/src/tools/Gestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_pare/src/tools/Gestor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2oU4r0mlqbwabSg5uJfCnzLl77x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/alber/Desktop/GIT/Programación/ProgServ/Tema1/psp_u1_arv/psp_u1_arv_pare",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2992cb8b-4c0e-4dc1-a403-cc04fb3387f0" name="Changes" comment="" />
+      <created>1730911015704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730911015704</updated>
+      <workItem from="1730911016724" duration="325000" />
+      <workItem from="1730996206379" duration="477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
