@@ -2,7 +2,7 @@ import java.util.Random;
 
 import static java.lang.Thread.sleep;
 
-public class Caballo implements Runnable{
+public class Caballo implements Runnable {
     private final int longitudNombre = 15;
     private int velocidad = 50;
     private int modificador = 0;
@@ -29,7 +29,17 @@ public class Caballo implements Runnable{
     }
 
     public void run() {
-        while (distanciRecorrida < longitudPista){
+        while (distanciRecorrida < longitudPista) {
+            synchronized (carrera.pauseLock) {
+                while (carrera.carreraEnPausa) {
+                    try {
+                        carrera.pauseLock.wait(); // Pausa el hilo si la carrera está en pausa.
+                    } catch (InterruptedException e) {
+                        Thread.currentThread().interrupt();
+                        return; // Salir del bucle si el hilo es interrumpido.
+                    }
+                }
+            }
             distanciRecorrida += velocidad;
             modificaVelocidad();
             if (distanciRecorrida > longitudPista) {
@@ -43,37 +53,48 @@ public class Caballo implements Runnable{
 
             if (distanciRecorrida >= longitudPista) {
                 carrera.caballoAcabado(this);
-            }
-            modificaEnergia();
+                break;
+            } else modificaEnergia();
 
             try {
                 sleep(900);
             } catch (InterruptedException e) {
-                throw new RuntimeException(e);
+                Thread.currentThread().interrupt();
+                break;
             }
         }
     }
+
 
     private void modificaVelocidad() {
         int min = -5;
         int max = 5;
         Random rnd = new Random();
-        modificador = rnd.nextInt((max-min) + 1) + min;
+        modificador = rnd.nextInt((max - min) + 1) + min;
         velocidad += modificador;
         if (velocidad > 70) velocidad = 70;
         if (velocidad < 15) velocidad = 15;
     }
+
     private void modificaEnergia() {
         int min = 1;
         int max = 15;
         Random rnd = new Random();
-        energia -= rnd.nextInt((max-min) + 1) + min;
+        energia -= rnd.nextInt((max - min) + 1) + min;
         if (energia <= 0) {
-            carrera.paraCaballo(this);
+            carrera.caballoDescansando(this);
         }
     }
 
     public void recuperaEnergia() {
         energia = 100;
+    }
+
+    public void pararCaballo() {
+        try {
+            wait();
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
     }
 }
