@@ -1,5 +1,6 @@
 import tools.Tools;
 
+import java.util.Scanner;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 
@@ -23,14 +24,14 @@ public class Carrera {
     };
     private int numCaballos;
     private int distanciaCarrera;
-    private int caballosRecuperando = 0; // Contador de caballos que están recuperando energía
-    private static int contadorFinalizados = 0; // Contador de caballos que han terminado
+    private int caballosRecuperando = 0;
+    private static int contadorFinalizados = 0;
     volatile boolean carreraEnPausa = false;
     private volatile boolean carreraAcabada = false;
     private Thread[]caballosCorriendo;
 
 
-    private int dineros;
+    private int dineros = 0;
     private int apuesta = 0;
     private  int caballoApuesta = 0;
     private Caballo ganador;
@@ -86,17 +87,7 @@ public class Carrera {
         System.out.println("Número de caballos y distancia configurados.");
     }
 
-    private void carreraNueva() {
-        System.out.println(datosUsuario);
-        realizarApuesta();
-        iniciaCarrera();
-        while (!carreraAcabada) {
-            Thread.onSpinWait();
-        }
-        System.out.printf("\033[%d;1H --------------- %s El ganador de la carrera es:\n", numCaballos+2, ganador.getNombre());
-        compruebaApuesta();
-    }
-
+    // APUESTA
     private void realizarApuesta() {
         apuesta = Tools.pideNumero("Introduce tu apuesta", "Apuesta al menos 500 euros, no seas rata.", "No te pases...", dineros, 500);
         caballoApuesta = Tools.pideNumero("Introduce el número de tu caballo", "Ese caballo no existe", "Ese caballo no existe", getNumCaballos(), 0);
@@ -105,29 +96,33 @@ public class Carrera {
     private void compruebaApuesta() {
         if (caballoApuesta == ganador.getLinea()) {
             dineros += (apuesta * numCaballos);
-            System.out.println("¡Enhorabuena, has ganado " + (apuesta * numCaballos) + "! ");
+            System.out.printf("\033[%d;1H --------------- ¡Enhorabuena, has ganado! %d €\n", numCaballos + 2, (apuesta * numCaballos));
         }
         else {
             dineros -= apuesta;
+            System.out.printf("\033[%d;1H --------------- Lástima, has perdido... Tu saldo es %d €\n", numCaballos + 2, dineros);
+
             System.out.println("Lo sentimos, has perdido. Tu saldo es " + dineros);
         }
     }
 
-    public void setNumCaballos(int numCaballos) {
-        if (numCaballos < 10) numCaballos = 10;
-        if (numCaballos > 50) numCaballos = 50;
-        this.numCaballos = numCaballos;
+    // CARRERA
+    private void carreraNueva() {
+        caballosRecuperando = 0;
+        contadorFinalizados = 0;
+        carreraEnPausa = false;
+        carreraAcabada = false;
+        ganador = null;
+        System.out.println(datosUsuario);
+        realizarApuesta();
+        iniciaCarrera();
+        while (!carreraAcabada) {
+            Thread.onSpinWait();
+        }
+        System.out.printf("\033[%d;1H --------------- El ganador de la carrera es: %s\n", numCaballos+2, ganador.getNombre());
+        compruebaApuesta();
+        pedirCarreraNueva();
     }
-    public void setDistanciaCarrera(int distanciaCarrera) {
-        if (distanciaCarrera < 100) distanciaCarrera = 100;
-        if (distanciaCarrera > 5000) distanciaCarrera = 5000;
-        this.distanciaCarrera = distanciaCarrera;
-    }
-
-    public int getNumCaballos() {
-        return numCaballos;
-    }
-
     private void iniciaCarrera() {
         System.out.print("\033[H\033[2J");
         System.out.flush();
@@ -138,14 +133,19 @@ public class Carrera {
         for (Thread caballo : caballosCorriendo) caballo.start();
     }
 
-    public synchronized void caballoAcabado(Caballo caballo) {
-        contadorFinalizados++;
-        if (contadorFinalizados == 1) ganador = caballo;
-        if (contadorFinalizados == 3) {
-            System.out.println("Acabados!");
-            pausarCarrera();
+    private void pedirCarreraNueva() {
+        datosUsuario = "Tienes " + dineros + " € para apostar";
+        System.out.flush();
+        String respuesta;
+        if (dineros > 500) {
+            Scanner get = new Scanner(System.in);
+            System.out.printf("\033[%d;1H --------------- %s\n", numCaballos+4, datosUsuario);
+            System.out.printf("\033[%d;1H ¿Quieres apostar otra vez?\n", numCaballos+5);
+            respuesta = get.nextLine();
+            if (respuesta.equalsIgnoreCase("si")) carreraNueva();
+        } else {
+            System.out.println("No tienes fondos suficientes, retírate antes de arruinarte... ");
         }
-        if (contadorFinalizados == numCaballos) carreraAcabada = true;
     }
 
     public synchronized void pausarCarrera() {
@@ -154,7 +154,6 @@ public class Carrera {
             pauseLock.notifyAll();
         }
     }
-
     public void reanudarCarrera() {
         synchronized (pauseLock) {
             carreraEnPausa = false;
@@ -162,6 +161,16 @@ public class Carrera {
         }
     }
 
+    // CABALLOS
+    public synchronized void caballoAcabado(Caballo caballo) {
+        contadorFinalizados++;
+        if (contadorFinalizados == 1) ganador = caballo;
+        if (contadorFinalizados == 3) {
+            //System.out.println("Acabados!");
+            //pausarCarrera();
+        }
+        if (contadorFinalizados == numCaballos) carreraAcabada = true;
+    }
     public synchronized void caballoDescansando(Caballo caballo) {
         lock.lock(); // Adquirir el bloqueo
         try {
@@ -183,4 +192,21 @@ public class Carrera {
             lock.unlock();
         }
     }
+
+    // GETTERS Y SETTERS
+    public void setNumCaballos(int numCaballos) {
+        if (numCaballos < 10) numCaballos = 10;
+        if (numCaballos > 50) numCaballos = 50;
+        this.numCaballos = numCaballos;
+    }
+    public void setDistanciaCarrera(int distanciaCarrera) {
+        if (distanciaCarrera < 100) distanciaCarrera = 100;
+        if (distanciaCarrera > 5000) distanciaCarrera = 5000;
+        this.distanciaCarrera = distanciaCarrera;
+    }
+
+    public int getNumCaballos() {
+        return numCaballos;
+    }
+
 }

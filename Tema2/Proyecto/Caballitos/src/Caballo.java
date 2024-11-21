@@ -23,9 +23,10 @@ public class Caballo implements Runnable {
 
     public Caballo(int longitudPista, String nombre, int linea, Carrera carrera) {
         this.longitudPista = longitudPista;
-        this.nombre = String.format("%-" + longitudNombre + "s", nombre);
+        this.nombre = String.format("%-" + longitudNombre + "s", nombre + linea);
         this.linea = linea;
         this.carrera = carrera;
+
     }
 
     public void run() {
