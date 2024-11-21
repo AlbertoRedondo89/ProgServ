@@ -4,8 +4,6 @@ import java.util.Scanner;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 
-import static java.lang.Thread.sleep;
-
 public class Carrera {
 
     final Object pauseLock = new Object();
@@ -25,9 +23,9 @@ public class Carrera {
     private int numCaballos;
     private int distanciaCarrera;
     private int caballosRecuperando = 0;
-    private static int contadorFinalizados = 0;
+    private int contadorFinalizados = 0;
     volatile boolean carreraEnPausa = false;
-    private volatile boolean carreraAcabada = false;
+    volatile boolean carreraAcabada = false;
     private Thread[]caballosCorriendo;
 
 
@@ -74,6 +72,9 @@ public class Carrera {
                 "--------------------------------------------\n";
         System.out.println(banderaDeCuadros);
         System.out.println(mensajeDeBienvenida);
+    }
+
+    private void defineDatosCarrera() {
         int caballos = Tools.pideNumero("Introduce el número de caballos (mínimo 10)",
                 "He dicho que mínimo diez...",
                 "No pidas más de 100, que es una carrera, no la carga de los Rohirrim...",
@@ -101,8 +102,6 @@ public class Carrera {
         else {
             dineros -= apuesta;
             System.out.printf("\033[%d;1H --------------- Lástima, has perdido... Tu saldo es %d €\n", numCaballos + 2, dineros);
-
-            System.out.println("Lo sentimos, has perdido. Tu saldo es " + dineros);
         }
     }
 
@@ -114,6 +113,7 @@ public class Carrera {
         carreraAcabada = false;
         ganador = null;
         System.out.println(datosUsuario);
+        defineDatosCarrera();
         realizarApuesta();
         iniciaCarrera();
         while (!carreraAcabada) {
@@ -143,6 +143,10 @@ public class Carrera {
             System.out.printf("\033[%d;1H ¿Quieres apostar otra vez?\n", numCaballos+5);
             respuesta = get.nextLine();
             if (respuesta.equalsIgnoreCase("si")) carreraNueva();
+            else {
+                System.out.println("Gracias por jugar!");
+                System.exit(0);
+            }
         } else {
             System.out.println("No tienes fondos suficientes, retírate antes de arruinarte... ");
         }
@@ -166,11 +170,28 @@ public class Carrera {
         contadorFinalizados++;
         if (contadorFinalizados == 1) ganador = caballo;
         if (contadorFinalizados == 3) {
-            //System.out.println("Acabados!");
-            //pausarCarrera();
+            pausarCarrera();
+            pedirContinuar();
         }
-        if (contadorFinalizados == numCaballos) carreraAcabada = true;
+        if (contadorFinalizados == numCaballos) {
+            carreraAcabada = true;
+            reanudarCarrera();
+        }
     }
+
+    private void pedirContinuar() {
+        Scanner scanner = new Scanner(System.in);
+        String respuesta;
+        System.out.printf("\033[%d;1H Han acabado tres caballos, escribe 'si' para ver terminar la carrera\n", numCaballos+4);
+        respuesta = scanner.nextLine();
+        if (respuesta.equalsIgnoreCase("si")) {
+            reanudarCarrera();
+        }
+        else {
+            carreraAcabada = true;
+        }
+    }
+
     public synchronized void caballoDescansando(Caballo caballo) {
         lock.lock(); // Adquirir el bloqueo
         try {

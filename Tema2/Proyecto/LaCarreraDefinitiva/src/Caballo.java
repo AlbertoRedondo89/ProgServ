@@ -2,7 +2,8 @@ import java.util.Random;
 
 import static java.lang.Thread.sleep;
 
-public class Caballo implements Runnable {
+public class Caballo implements Runnable{
+
     private final int longitudNombre = 15;
     private int velocidad = 50;
     private int modificador = 0;
@@ -14,14 +15,6 @@ public class Caballo implements Runnable {
     Carrera carrera = new Carrera();
     private volatile boolean enCarrera = true;
 
-    public String getNombre() {
-        return nombre.trim();
-    }
-
-    public int getLinea() {
-        return linea;
-    }
-
     public Caballo(int longitudPista, String nombre, int linea, Carrera carrera) {
         this.longitudPista = longitudPista;
         this.nombre = String.format("%-" + longitudNombre + "s", nombre + linea);
@@ -29,19 +22,9 @@ public class Caballo implements Runnable {
         this.carrera = carrera;
 
     }
-
+    @Override
     public void run() {
-        while (distanciRecorrida < longitudPista && !carrera.carreraAcabada) {
-            synchronized (carrera.pauseLock) {
-                while (carrera.carreraEnPausa) {
-                    try {
-                        carrera.pauseLock.wait();
-                    } catch (InterruptedException e) {
-                        Thread.currentThread().interrupt();
-                        return;
-                    }
-                }
-            }
+        while (enCarrera) {
             distanciRecorrida += velocidad;
             modificaVelocidad();
             if (distanciRecorrida > longitudPista) {
@@ -53,9 +36,9 @@ public class Caballo implements Runnable {
             String pista = nombre + "_".repeat(posicionX) + "X" + "_".repeat(longitudTotal - posicionX) + "|| ";
             System.out.printf("\033[%d;1H%s%s\n", linea, pista, distanciRecorrida >= longitudPista ? "Meta!" : velocidad + " km/h");
 
-            if (distanciRecorrida >= longitudPista || carrera.carreraAcabada) {
+            if (distanciRecorrida >= longitudPista) {
                 carrera.caballoAcabado(this);
-                break;
+                enCarrera = false;
             } else modificaEnergia();
 
             try {
@@ -66,7 +49,6 @@ public class Caballo implements Runnable {
             }
         }
     }
-
 
     private void modificaVelocidad() {
         int min = -5;
@@ -92,4 +74,11 @@ public class Caballo implements Runnable {
         energia = 100;
     }
 
+    public String getNombre() {
+        return nombre.trim();
+    }
+
+    public int getLinea() {
+        return linea;
+    }
 }
