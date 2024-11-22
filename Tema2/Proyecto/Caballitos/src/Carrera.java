@@ -1,3 +1,4 @@
+import tools.Crono;
 import tools.Tools;
 
 import java.util.Scanner;
@@ -6,9 +7,11 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class Carrera {
 
+
+    private final Crono crono = new Crono();
     final Object pauseLock = new Object();
-    private final ReentrantLock lock = new ReentrantLock(); // Bloqueo para gestionar el acceso
-    private final Condition espacioDisponible = lock.newCondition(); // Para notificar caballos esperando
+    private final ReentrantLock lock = new ReentrantLock();
+    private final Condition espacioDisponible = lock.newCondition();
     private final String[] caballos = {
             "Pegaso", "Fury", "Shadowfax", "Silver", "Trigger", "Bucephalus",
             "Maximus", "Stormy", "Black Beauty", "Zorro", "Seabiscuit", "Warhorse",
@@ -124,6 +127,7 @@ public class Carrera {
         pedirCarreraNueva();
     }
     private void iniciaCarrera() {
+        crono.reiniciar();
         System.out.print("\033[H\033[2J");
         System.out.flush();
         caballosCorriendo = new Thread[numCaballos];
@@ -131,6 +135,7 @@ public class Carrera {
             caballosCorriendo[i] = new Thread(new Caballo(distanciaCarrera, caballos[i], i+1, this));
         }
         for (Thread caballo : caballosCorriendo) caballo.start();
+        crono.start();
     }
 
     private void pedirCarreraNueva() {
@@ -154,12 +159,14 @@ public class Carrera {
 
     public synchronized void pausarCarrera() {
         synchronized (pauseLock) {
+            crono.playPause();
             carreraEnPausa = true;
             pauseLock.notifyAll();
         }
     }
     public void reanudarCarrera() {
         synchronized (pauseLock) {
+            crono.playPause();
             carreraEnPausa = false;
             pauseLock.notifyAll(); // Notifica a todos los hilos pausados para que continúen.
         }
@@ -190,6 +197,10 @@ public class Carrera {
         else {
             carreraAcabada = true;
         }
+    }
+
+    public String getTimer() {
+        return crono.getTiempos();
     }
 
     public synchronized void caballoDescansando(Caballo caballo) {

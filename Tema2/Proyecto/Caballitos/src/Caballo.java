@@ -12,6 +12,7 @@ public class Caballo implements Runnable {
     private int linea;
     private int energia = 100;
     Carrera carrera = new Carrera();
+    String tiempo;
     private volatile boolean enCarrera = true;
 
     public String getNombre() {
@@ -51,7 +52,7 @@ public class Caballo implements Runnable {
             int longitudTotal = longitudPista / 10;
 
             String pista = nombre + "_".repeat(posicionX) + "X" + "_".repeat(longitudTotal - posicionX) + "|| ";
-            System.out.printf("\033[%d;1H%s%s\n", linea, pista, distanciRecorrida >= longitudPista ? "Meta!" : velocidad + " km/h");
+            System.out.printf("\033[%d;1H%s%s \n", linea, pista, distanciRecorrida >= longitudPista ? "Meta!" + carrera.getTimer() : velocidad + " km/h");
 
             if (distanciRecorrida >= longitudPista || carrera.carreraAcabada) {
                 carrera.caballoAcabado(this);
