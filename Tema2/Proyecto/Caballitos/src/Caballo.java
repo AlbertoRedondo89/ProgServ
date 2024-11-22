@@ -13,6 +13,7 @@ public class Caballo implements Runnable {
     private int energia = 100;
     Carrera carrera = new Carrera();
     String tiempo;
+    String platillo = new String(Character.toChars(0x1F40E));
     private volatile boolean enCarrera = true;
 
     public String getNombre() {
@@ -51,7 +52,7 @@ public class Caballo implements Runnable {
             int posicionX = distanciRecorrida / 10;
             int longitudTotal = longitudPista / 10;
 
-            String pista = nombre + "_".repeat(posicionX) + "X" + "_".repeat(longitudTotal - posicionX) + "|| ";
+            String pista = nombre + "_".repeat(posicionX) + platillo + "_".repeat(longitudTotal - posicionX) + "|| ";
             System.out.printf("\033[%d;1H%s%s \n", linea, pista, distanciRecorrida >= longitudPista ? "Meta!" + carrera.getTimer() : velocidad + " km/h");
 
             if (distanciRecorrida >= longitudPista || carrera.carreraAcabada) {
@@ -67,7 +68,6 @@ public class Caballo implements Runnable {
             }
         }
     }
-
 
     private void modificaVelocidad() {
         int min = -5;
@@ -91,6 +91,9 @@ public class Caballo implements Runnable {
 
     public void recuperaEnergia() {
         energia = 100;
+    }
+    public void velocidadRecuperada() {
+        velocidad = 60;
     }
 
 }

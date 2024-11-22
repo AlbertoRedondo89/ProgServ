@@ -1,26 +1,23 @@
-import Tools.Tools;
+import tools.Tools;
 
 import java.util.Scanner;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public class Hipodromo {
-
-    private int dineros = 0;
+    private int dineros = 10000;
     private int apuesta = 0;
     private  int caballoApuesta = 0;
     private Caballo ganador;
     private String datosUsuario;
-
     private int numCaballos;
     private int distanciaCarrera;
-    private boolean carreraAcabada = false;
-    Thread carr;
+    private Carrera carrera;
     public Hipodromo() {
         puntoDePartida();
     }
+
     private void puntoDePartida() {
         String banderaDeCuadros =
-                "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣾⣷⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n" +
+                        "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣾⣷⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n" +
                         "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n" +
                         "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡴⠾⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⡷⠦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n" +
                         "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢾⣏⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⡟⠀⠀⢸⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀\n" +
@@ -42,47 +39,29 @@ public class Hipodromo {
 
 
         String mensajeDeBienvenida = "--------------------------------------------\n" +
-                "       ¡Bienvenido a la Carrera!          \n" +
-                "      ¡Que comience la competición!      \n" +
+                "   ¡Bienvenido a la Carrera de caballos  \n" +
+                "         haciendo el moonwalk!          \n" +
+                "      ¡Que comience la competición!       \n" +
                 "--------------------------------------------\n";
         System.out.println(banderaDeCuadros);
         System.out.println(mensajeDeBienvenida);
+        carreraNueva();
     }
 
-    // APUESTA
-    private void realizarApuesta() {
-        apuesta = Tools.pideNumero("Introduce tu apuesta", "Apuesta al menos 500 euros, no seas rata.", "No te pases...", dineros, 500);
-        caballoApuesta = Tools.pideNumero("Introduce el número de tu caballo", "Ese caballo no existe", "Ese caballo no existe", getNumCaballos(), 0);
-    }
-
-    private void compruebaApuesta() {
-        if (caballoApuesta == ganador.getLinea()) {
-            dineros += (apuesta * numCaballos);
-            System.out.printf("\033[%d;1H --------------- ¡Enhorabuena, has ganado! %d €\n", numCaballos + 2, (apuesta * numCaballos));
-        }
-        else {
-            dineros -= apuesta;
-            System.out.printf("\033[%d;1H --------------- Lástima, has perdido... Tu saldo es %d €\n", numCaballos + 2, dineros);
-
-            System.out.println("Lo sentimos, has perdido. Tu saldo es " + dineros);
-        }
-    }
-
-    // CARRERA
     private void carreraNueva() {
+        datosUsuario = "Tienes un saldo de " + dineros + " euros.";
         ganador = null;
         System.out.println(datosUsuario);
         defineDatosCarrera();
         realizarApuesta();
-        Carrera carrera = new Carrera(getNumCaballos(), getDistanciaCarrera());
-        carr = new Thread(carrera);
-        carr.start();
-        while (!carreraAcabada) {
-            Thread.onSpinWait();
+        carrera = new Carrera(numCaballos, distanciaCarrera, this);
+        carrera.start();
+        try {
+            carrera.join();
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
         }
-        System.out.printf("\033[%d;1H --------------- El ganador de la carrera es: %s\n", numCaballos+2, ganador.getNombre());
         compruebaApuesta();
-        pedirCarreraNueva();
     }
     private void defineDatosCarrera() {
         int caballos = Tools.pideNumero("Introduce el número de caballos (mínimo 10)",
@@ -98,6 +77,25 @@ public class Hipodromo {
         System.out.println("Número de caballos y distancia configurados.");
     }
 
+    // APUESTA
+    private void realizarApuesta() {
+        apuesta = Tools.pideNumero("Introduce tu apuesta", "Apuesta al menos 500 euros, no seas rata.", "No te pases...", dineros, 500);
+        caballoApuesta = Tools.pideNumero("Introduce el número de tu caballo", "Ese caballo no existe", "Ese caballo no existe", getNumCaballos(), 0);
+    }
+
+    private void compruebaApuesta() {
+        if (caballoApuesta == ganador.getLinea()) {
+            dineros += (apuesta * numCaballos);
+            System.out.printf("\033[%d;1H --------------- ¡Enhorabuena, has ganado! %d €\n", numCaballos + 2, (apuesta * numCaballos));
+            pedirCarreraNueva();
+        }
+        else {
+            dineros -= apuesta;
+            System.out.printf("\033[%d;1H --------------- Lástima, has perdido... Tu saldo es %d €\n", numCaballos + 2, dineros);
+            pedirCarreraNueva();
+        }
+    }
+
     private void pedirCarreraNueva() {
         datosUsuario = "Tienes " + dineros + " € para apostar";
         System.out.flush();
@@ -108,10 +106,15 @@ public class Hipodromo {
             System.out.printf("\033[%d;1H ¿Quieres apostar otra vez?\n", numCaballos+5);
             respuesta = get.nextLine();
             if (respuesta.equalsIgnoreCase("si")) carreraNueva();
+            else {
+                System.out.println("Gracias por jugar!");
+                System.exit(0);
+            }
         } else {
             System.out.println("No tienes fondos suficientes, retírate antes de arruinarte... ");
         }
     }
+
     public void setNumCaballos(int numCaballos) {
         if (numCaballos < 10) numCaballos = 10;
         if (numCaballos > 50) numCaballos = 50;
@@ -122,10 +125,12 @@ public class Hipodromo {
         if (distanciaCarrera > 5000) distanciaCarrera = 5000;
         this.distanciaCarrera = distanciaCarrera;
     }
-
     public int getNumCaballos() {
         return numCaballos;
     }
-    public int getDistanciaCarrera(){return distanciaCarrera};
+
+    public void setGanador(Caballo ganador) {
+        this.ganador = ganador;
+    }
 
 }

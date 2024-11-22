@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Caballitos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Caballitos_jar</output-path>
+    <root id="archive" name="Caballitos.jar">
+      <element id="module-output" name="Caballitos" />
+    </root>
+  </artifact>
+</component>
