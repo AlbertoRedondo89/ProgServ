@@ -1,5 +1,6 @@
 package tools;
 public class Crono extends Thread {
+
     private long inicioTiempo;
     private long tiempoPausado;
     private boolean encendido;
@@ -17,13 +18,6 @@ public class Crono extends Thread {
         encendido = true;
         inicioTiempo = System.currentTimeMillis();
         while (encendido) {
-            try {
-                Thread.sleep(10); // Pequeña pausa para no saturar la CPU
-
-            } catch (InterruptedException e) {
-                System.err.println("El cronómetro fue interrumpido.");
-                encendido = false;
-            }
         }
     }
 

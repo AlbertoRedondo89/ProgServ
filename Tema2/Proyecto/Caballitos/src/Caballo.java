@@ -3,6 +3,7 @@ import java.util.Random;
 import static java.lang.Thread.sleep;
 
 public class Caballo implements Runnable {
+    // CLASE que define el comportamiento del caballo, sus mecanicas sobre la velocidad y el cansancio. Notifica a Carrera cuando el caballo finaliza.
     private final int longitudNombre = 15;
     private int velocidad = 50;
     private int modificador = 0;

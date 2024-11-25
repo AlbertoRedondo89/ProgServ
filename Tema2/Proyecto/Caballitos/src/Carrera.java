@@ -7,7 +7,7 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class Carrera extends Thread{
-
+    // CLASE para gestionar los caballos. Controla los resultados de la carrera y los envía a hipódromo para comprobar las apuestas.
     private final Crono crono = new Crono();
     final Object pauseLock = new Object();
     private final ReentrantLock lock = new ReentrantLock();

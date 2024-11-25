@@ -3,6 +3,7 @@ import tools.Tools;
 import java.util.Scanner;
 
 public class Hipodromo {
+    // CLASE para gestionar las apuestas, generar carreras e interactuar con el usuario.
     private int dineros = 10000;
     private int apuesta = 0;
     private  int caballoApuesta = 0;
@@ -48,6 +49,7 @@ public class Hipodromo {
         carreraNueva();
     }
 
+    // Metodos para generar una carrera y definir sus valores
     private void carreraNueva() {
         datosUsuario = "Tienes un saldo de " + dineros + " euros.";
         ganador = null;
@@ -66,7 +68,7 @@ public class Hipodromo {
     private void defineDatosCarrera() {
         int caballos = Tools.pideNumero("Introduce el número de caballos (mínimo 10)",
                 "He dicho que mínimo diez...",
-                "No pidas más de 100, que es una carrera, no la carga de los Rohirrim...",
+                "No pidas más de 50, que es una carrera, no la carga de los Rohirrim...",
                 100, 10);
         int distancia = Tools.pideNumero("¿Cómo de larga quieres que sea la carrera?",
                 "Es una carrera, dale más distancia, hombre.",
@@ -75,6 +77,16 @@ public class Hipodromo {
         setNumCaballos(caballos);
         setDistanciaCarrera(distancia);
         System.out.println("Número de caballos y distancia configurados.");
+    }
+    public void setNumCaballos(int numCaballos) {
+        if (numCaballos < 10) numCaballos = 10;
+        if (numCaballos > 50) numCaballos = 50;
+        this.numCaballos = numCaballos;
+    }
+    public void setDistanciaCarrera(int distanciaCarrera) {
+        if (distanciaCarrera < 100) distanciaCarrera = 100;
+        if (distanciaCarrera > 5000) distanciaCarrera = 5000;
+        this.distanciaCarrera = distanciaCarrera;
     }
 
     // APUESTA
@@ -96,6 +108,7 @@ public class Hipodromo {
         }
     }
 
+    // Metodo para generar una nueva carrera al terminar la actual
     private void pedirCarreraNueva() {
         datosUsuario = "Tienes " + dineros + " € para apostar";
         System.out.flush();
@@ -112,19 +125,11 @@ public class Hipodromo {
             }
         } else {
             System.out.println("No tienes fondos suficientes, retírate antes de arruinarte... ");
+            System.exit(0);
         }
     }
 
-    public void setNumCaballos(int numCaballos) {
-        if (numCaballos < 10) numCaballos = 10;
-        if (numCaballos > 50) numCaballos = 50;
-        this.numCaballos = numCaballos;
-    }
-    public void setDistanciaCarrera(int distanciaCarrera) {
-        if (distanciaCarrera < 100) distanciaCarrera = 100;
-        if (distanciaCarrera > 5000) distanciaCarrera = 5000;
-        this.distanciaCarrera = distanciaCarrera;
-    }
+
     public int getNumCaballos() {
         return numCaballos;
     }
