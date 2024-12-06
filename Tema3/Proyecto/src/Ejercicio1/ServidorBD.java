@@ -70,7 +70,7 @@ public class ServidorBD {
                             default:
                                 pw.println("Comando no reconocido. Por favor, introduzca select, insert o delete.");
                                 pw.println("Inténtelo de nuevo");
-                                pw.flush(); // Enviar el mensaje al cliente
+                                pw.flush();
                                 break;
                             }
                     }

@@ -13,7 +13,7 @@ public class Tools {
         File archivo = new File("bbdd.txt");
         if (!archivo.exists()) {
             try {
-                archivo.createNewFile(); // Crear el archivo si no existe
+                archivo.createNewFile();
             } catch (IOException e) {
                 System.out.println("Error al crear el archivo: " + e.getMessage());
             }
@@ -29,11 +29,11 @@ public class Tools {
             while ((linea = br.readLine()) != null) {
                 String[] partes = linea.split(",");
                 if (partes[0].equals(id)) {
-                    return false; // El ID ya existe
+                    return false;
                 }
             }
             pw.println(id + "," + nombre + "," + apellido);
-            return true; // Inserción exitosa
+            return true;
         } catch (IOException e) {
             System.out.println("Error al insertar en el archivo: " + e.getMessage());
             return false;
@@ -47,13 +47,13 @@ public class Tools {
             while ((linea = br.readLine()) != null) {
                 String[] partes = linea.split(",");
                 if (partes[0].equals(id)) {
-                    return linea; // Registro encontrado
+                    return linea;
                 }
             }
         } catch (IOException e) {
             System.out.println("Error al buscar en el archivo: " + e.getMessage());
         }
-        return null; // Registro no encontrado
+        return null;
     }
 
     public static boolean eliminarDeArchivo(String id) {
@@ -76,7 +76,6 @@ public class Tools {
             return false;
         }
 
-        // Reemplazar el archivo original por el temporal
         if (archivo.delete() && archivoTemp.renameTo(archivo)) {
             return eliminado;
         } else {
