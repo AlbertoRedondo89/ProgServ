@@ -4,11 +4,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 public class ClientSocketSteam {
-    public static BufferedReader getFlujo(InputStream is) {
-        InputStreamReader isr = new InputStreamReader(is);
-        BufferedReader bfr = new BufferedReader(isr);
-        return bfr;
-    }
+
     public static void main(String[] args) {
         String destino = "localhost";
         int puertoDestino = 5555;
@@ -30,5 +26,11 @@ public class ClientSocketSteam {
         } catch (IOException e) {
             System.out.println("Error Client");
         }
+    }
+
+    public static BufferedReader getFlujo(InputStream is) {
+        InputStreamReader isr = new InputStreamReader(is);
+        BufferedReader bfr = new BufferedReader(isr);
+        return bfr;
     }
 }
