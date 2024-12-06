@@ -2,7 +2,6 @@ package ejercicio2;
 
 import java.io.*;
 import java.net.*;
-import org.json.JSONObject;
 
 public class ChatServer {
     private static final int PORT = 2222;
