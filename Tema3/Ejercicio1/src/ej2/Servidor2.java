@@ -1,56 +1,43 @@
 package ej2;
 
 import java.io.*;
-import java.net.ServerSocket;
-import java.net.Socket;
+import java.net.*;
 import java.util.Random;
 
 public class Servidor2 {
-    static boolean exit = false;
     public static void main(String[] args) {
-        int puertoDestino = 2222;
-        int numero;
-        String respuesta;
-        try {
-            ServerSocket serverSocket = new ServerSocket(puertoDestino);
-            Socket server = serverSocket.accept();
-            numero = generaRandom();
-            System.out.println(numero);
-            System.out.println("Conexion recibida!");
-            while (!exit) {
-//Read From Stream
-                InputStream is = server.getInputStream();
-                InputStreamReader isr = new InputStreamReader(is);
-                BufferedReader bf = new BufferedReader(isr);
-                String linea = bf.readLine();
-                OutputStream os = server.getOutputStream();
-                PrintWriter pw = new PrintWriter(os);
-                respuesta = compruebaNumero(Integer.parseInt(linea), numero);
-                pw.write(respuesta);
-                pw.flush();
+        int port = 2222;
+        Random random = new Random();
+        int numeroSecret = random.nextInt(101); // Generar un número entre 0 i 100
+        System.out.println("El número secret és: " + numeroSecret);
+
+        try (ServerSocket servidorSocket = new ServerSocket(port)) {
+            System.out.println("Servidor esperant connexions al port " + port);
+
+            try (Socket socket = servidorSocket.accept()) {
+                System.out.println("Client connectat!");
+                BufferedReader entrada = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+                PrintWriter sortida = new PrintWriter(socket.getOutputStream(), true);
+
+                String missatgeClient;
+                while ((missatgeClient = entrada.readLine()) != null) {
+                    try {
+                        int numeroClient = Integer.parseInt(missatgeClient);
+                        if (numeroClient < numeroSecret) {
+                            sortida.println("El número és més gran.");
+                        } else if (numeroClient > numeroSecret) {
+                            sortida.println("El número és més petit.");
+                        } else {
+                            sortida.println("Has encertat el número secret!");
+                            break;
+                        }
+                    } catch (NumberFormatException e) {
+                        sortida.println("Si us plau, introdueix un número vàlid.");
+                    }
+                }
             }
         } catch (IOException e) {
-            System.out.println("Error ej1.Server");
+            e.printStackTrace();
         }
-    }
-    private static String compruebaNumero(int numeroAComprobar, int numerousuario) throws IOException {
-       String respuesta = "";
-
-        if (numeroAComprobar == numerousuario){
-            respuesta = "OK";
-        }
-        else if (numeroAComprobar > numerousuario){
-            respuesta = "Te pasaste pelotudo";
-        }
-        else {
-            respuesta = "Más aaaalta, coño!";
-        }
-        return respuesta;
-    }
-    private static int generaRandom() {
-        int rnd = 0;
-        Random rand = new Random();
-        rnd = rand.nextInt(100);
-        return rnd;
     }
 }

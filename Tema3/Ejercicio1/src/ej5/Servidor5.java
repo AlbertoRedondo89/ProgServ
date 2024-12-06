@@ -1,4 +1,4 @@
-package ej1;
+package ej5;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class Server {
+public class Servidor5 {
     public static void main(String[] args) {
         int puertoDestino = 2222;
         boolean exit = false;

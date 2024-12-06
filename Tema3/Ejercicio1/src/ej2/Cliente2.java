@@ -1,44 +1,35 @@
 package ej2;
 
 import java.io.*;
-import java.net.InetSocketAddress;
-import java.net.ServerSocket;
-import java.net.Socket;
+import java.net.*;
+import java.util.Scanner;
 
 public class Cliente2 {
     public static void main(String[] args) {
-        String destino = "localhost";
-        int puertoDestino = 2222;
-        Socket socket = new Socket();
-        boolean numeroAcertado = false;
-        InetSocketAddress direccion = new InetSocketAddress(destino, puertoDestino);
-        try {
-            socket.connect(direccion);
-            while (!numeroAcertado) {
-                System.out.println("Adivina el número");
-                BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-                String txt = reader.readLine();
-                PrintWriter pw = new PrintWriter(socket.getOutputStream());
-                pw.print(txt + "\n");
-                pw.flush();
-                BufferedReader bfr = Cliente2.getFlujo(socket.getInputStream());
-                System.out.println("El resultado fue: " + bfr.readLine());
-                numeroAcertado = checkResultado(bfr.readLine());
-//socket.close();
+        String host = "localhost";
+        int port = 2222;
+
+        try (Socket socket = new Socket(host, port)) {
+            System.out.println("Connectat al servidor a " + host + ":" + port);
+
+            BufferedReader entrada = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+            PrintWriter sortida = new PrintWriter(socket.getOutputStream(), true);
+            Scanner scanner = new Scanner(System.in);
+
+            String respostaServidor;
+            while (true) {
+                System.out.print("Introdueix un número: ");
+                String numero = scanner.nextLine();
+                sortida.println(numero);
+                respostaServidor = entrada.readLine();
+                System.out.println("Servidor: " + respostaServidor);
+
+                if (respostaServidor.equals("Has encertat el número secret!")) {
+                    break;
+                }
             }
         } catch (IOException e) {
-            System.out.println("Error Client");
+            e.printStackTrace();
         }
-    }
-
-    private static boolean checkResultado(String s) {
-        if (s.equals("OK")) return true;
-        else return false;
-    }
-
-    public static BufferedReader getFlujo(InputStream is) {
-        InputStreamReader isr = new InputStreamReader(is);
-        BufferedReader bfr = new BufferedReader(isr);
-        return bfr;
     }
 }
