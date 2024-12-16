@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+package waiting;
 
 public class Almacen {
 

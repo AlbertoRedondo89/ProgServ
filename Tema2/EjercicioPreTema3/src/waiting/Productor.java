@@ -1,10 +1,12 @@
+package waiting;
+
 import java.util.Random;
 
-public class Consumidor extends Thread {
+public class Productor extends Thread {
     private String nombre;
     private Almacen almacen;
 
-    public Consumidor(String nombre, Almacen almacen) {
+    public Productor(String nombre, Almacen almacen) {
         this.nombre = nombre;
         this.almacen = almacen;
     }
@@ -13,8 +15,8 @@ public class Consumidor extends Thread {
         int actual = 0;
         Random rand = new Random();
         while (true) {
-            actual = almacen.consumir();
-            System.out.println("Consumidor " + nombre + ": " + actual);
+            actual = almacen.producir();
+            System.out.println("waiting.Productor " + nombre + ": " + actual);
             try {
                 sleep(rand.nextInt(1000));
             } catch (InterruptedException e) {

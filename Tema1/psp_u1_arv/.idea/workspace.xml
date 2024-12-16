@@ -5,39 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2992cb8b-4c0e-4dc1-a403-cc04fb3387f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/psp_u1_arv_fill/.idea/artifacts/psp_u1_arv_fill_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/psp_u1_arv_jar/psp_u1_arv.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/BuscaPalabra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/CambiaLetras.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/CuentaCaracteres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/DescargaWeb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/ExtraeBody.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/LeeTxt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/errores.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_fill/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/encrypted.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/encrypted.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/procesos/Procesos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/procesos/Procesos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/tools/Gestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/tools/Gestor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/tools/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/psp_u1_arv_pare/tools/Menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/BuscaPalabra.class" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/BuscaPalabra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/BuscaPalabra.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/BuscaPalabra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/CambiaLetras.class" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/CambiaLetras.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/CambiaLetras.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/CambiaLetras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/CuentaCaracteres.class" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/CuentaCaracteres.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/CuentaCaracteres.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/CuentaCaracteres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/DescargaWeb.class" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/DescargaWeb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/DescargaWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/DescargaWeb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/ExtraeBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/ExtraeBody.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/ExtraeBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/ExtraeBody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/LeeTxt.class" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/LeeTxt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_fill/src/LeeTxt.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_fill/src/apps/LeeTxt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_pare/src/procesos/Procesos.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_pare/src/procesos/Procesos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psp_u1_arv_pare/src/tools/Gestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/psp_u1_arv_pare/src/tools/Gestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema2/EjercicioPreTema3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema2/EjercicioPreTema3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema2/EjercicioPreTema3/src/Almacen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema2/EjercicioPreTema3/src/waiting/Almacen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema2/EjercicioPreTema3/src/Consumidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema2/EjercicioPreTema3/src/waiting/Consumidor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema2/EjercicioPreTema3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema2/EjercicioPreTema3/src/waiting/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema2/EjercicioPreTema3/src/Productor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema2/EjercicioPreTema3/src/waiting/Productor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema3/Proyecto/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema3/Proyecto/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,20 +29,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/alber/Desktop/GIT/Programación/ProgServ/Tema1/psp_u1_arv/psp_u1_arv_pare",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alber/Desktop/GIT/Programación/ProgServ/Tema1/psp_u1_arv&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="psp_u1_arv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="psp_u1_arv" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,6 +68,9 @@
       <updated>1730911015704</updated>
       <workItem from="1730911016724" duration="325000" />
       <workItem from="1730996206379" duration="477000" />
+      <workItem from="1734190138121" duration="29000" />
+      <workItem from="1734190181276" duration="34000" />
+      <workItem from="1734258440172" duration="66000" />
     </task>
     <servers />
   </component>
