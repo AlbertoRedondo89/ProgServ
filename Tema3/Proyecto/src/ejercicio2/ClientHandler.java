@@ -19,7 +19,7 @@ class ClientHandler extends Thread {
         ) {
             String input;
             while ((input = in.readLine()) != null) {
-                // Parsear el JSON recibido
+                // Parseo del JSON
                 JSONObject message = new JSONObject(input);
                 String sender = message.getString("sender");
                 String receiver = message.getString("receiver");
@@ -28,7 +28,7 @@ class ClientHandler extends Thread {
 
                 System.out.println(message);
 
-                // Finalizar si el mensaje es "adeu"
+                // Terminar si recibe "adeu"
                 if (text.equalsIgnoreCase("adeu")) {
                     out.println("Chat finalitzat.");
                     break;

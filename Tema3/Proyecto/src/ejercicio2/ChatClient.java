@@ -6,6 +6,12 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 import org.json.JSONObject;
+/*
+* El cliente se conecta al servidor
+* Pide al usuario un id para el y otro para el receptor
+* en bucle va pidiendo mensajes al usuario que envía junto a los ids en formato JSON al servidor
+* el servidor guarda los datos en un archivo y envía al usuario la conversación completa
+* */
 
 public class ChatClient {
     private static final String SERVER_ADDRESS = "localhost";
@@ -24,14 +30,14 @@ public class ChatClient {
                 System.out.print("Escriu el missatge a enviar: ");
                 String text = scanner.nextLine();
 
-                // Construir JSON
+                // Constructor del JSON que se envía al servidor
                 JSONObject message = new JSONObject();
                 message.put("sender", sender);
                 message.put("receiver", receiver);
                 message.put("text", text);
                 message.put("time", getTime());
 
-                // Enviar al servidor
+                // Enviar al servidor el JSON
                 out.println(message.toString());
 
                 // Leer la respuesta del servidor
@@ -46,7 +52,7 @@ public class ChatClient {
                 System.out.println(conversation);
                 System.out.println("---------------------------------");
 
-                // Finalizar si el mensaje es "adeu"
+                // Acaba el programa si el mensaje es "adeu"
                 if (text.equalsIgnoreCase("adeu")) {
                     break;
                 }
@@ -64,7 +70,7 @@ public class ChatClient {
             if (scanner.hasNextInt()) {
                 respuesta = String.valueOf(scanner.nextInt());
                 scanner.nextLine(); // Limpiar el buffer de entrada
-                break; // Salir del bucle si la entrada es válida
+                break;
             } else {
                 System.out.println("Por favor, introduce un número válido.");
                 scanner.nextLine(); // Descartar la entrada inválida

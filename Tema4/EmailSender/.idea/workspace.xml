@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd3908b3-5a0d-4c81-b409-a5a3c01b997f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Emails/src/main/java/EmailUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaMail/src/main/java/SmtpExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaMail2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaMail2/.idea/libraries/javax_mail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaMail2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaMail2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaMail2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaMail2/lib/javax.mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaMail2/src/SmtpExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/MainEntrenamiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/cat/paucasesnovescifp/connexio/JPAUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/cat/paucasesnovescifp/dao/InterinsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/cat/paucasesnovescifp/dao/InterinsDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/cat/paucasesnovescifp/entitats/Aspirant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/cat/paucasesnovescifp/entitats/Centre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/cat/paucasesnovescifp/entitats/Cos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/cat/paucasesnovescifp/entitats/EspecialitatPK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/cat/paucasesnovescifp/entitats/Especialitats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/cat/paucasesnovescifp/entitats/Illa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/cat/paucasesnovescifp/entitats/Localitat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/cat/paucasesnovescifp/entitats/Preferencies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/cat/paucasesnovescifp/entitats/PreferenciesPK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema3/Proyecto/chat_1_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema3/Proyecto/chat_1_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema3/Proyecto/src/Ejercicio1/ClienteBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema3/Proyecto/src/Ejercicio1/ClienteBD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema3/Proyecto/src/Ejercicio1/Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema3/Proyecto/src/Ejercicio1/Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema3/Proyecto/src/ejercicio2/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema3/Proyecto/src/ejercicio2/ChatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tema3/Proyecto/src/ejercicio2/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tema3/Proyecto/src/ejercicio2/ClientHandler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2rKwOfrScgqNfc5hmtvckcs2GFj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alber/Desktop/ConexionConGit/Prog/ProgServ/Tema4/pruebaMail2&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd3908b3-5a0d-4c81-b409-a5a3c01b997f" name="Changes" comment="" />
+      <created>1736321045178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736321045178</updated>
+      <workItem from="1736321046056" duration="160000" />
+      <workItem from="1736928145712" duration="9000" />
+      <workItem from="1736934326448" duration="284000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

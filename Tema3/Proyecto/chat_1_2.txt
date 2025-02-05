@@ -1,2 +1,6 @@
 1: hola que tal		2024-12-06 16:31
 1: como te va la vida?		2024-12-06 16:32
+1: Hola que ase		2024-12-06 16:52
+2: como va		2024-12-06 16:53
+1: me va muy bienj		2024-12-06 16:53
+2: pues me alegro		2024-12-06 16:53

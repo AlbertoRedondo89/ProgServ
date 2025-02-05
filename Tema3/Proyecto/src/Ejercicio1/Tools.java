@@ -3,11 +3,6 @@ package Ejercicio1;
 import java.io.*;
 
 public class Tools {
-    public static BufferedReader getFlujo(InputStream is) {
-        InputStreamReader isr = new InputStreamReader(is);
-        BufferedReader bfr = new BufferedReader(isr);
-        return bfr;
-    }
 
     public static File obtenerArchivo() {
         File archivo = new File("bbdd.txt");

@@ -4,6 +4,11 @@ import java.io.*;
 import java.net.InetSocketAddress;
 import java.net.Socket;
 
+/*
+* El código se conecta al servidor y pide una opción al cliente.
+* segun la opcion se pedirán unos datos y otros al usuario.
+* Repite el bucle hasta que el usuario escribe "exit"
+* */
 public class ClienteBD {
     String destino = "localhost";
     int puertoDestino = 2222;
@@ -26,8 +31,8 @@ public class ClienteBD {
                         break;
                     }
 
-                    writer.println(comando); // Enviar comando al servidor
-                    String respuesta = reader.readLine(); // Leer respuesta inicial del servidor
+                    writer.println(comando);
+                    String respuesta = reader.readLine();
                     System.out.println("Respuesta del servidor: " + respuesta);
 
                     switch (comando.toLowerCase()) {
@@ -57,7 +62,6 @@ public class ClienteBD {
                             break;
                     }
 
-                    // Leer respuesta final del servidor
                     respuesta = reader.readLine();
                     System.out.println("Respuesta del servidor: " + respuesta);
                 }
