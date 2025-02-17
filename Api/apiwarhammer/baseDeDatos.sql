@@ -36,3 +36,11 @@ INSERT INTO unidades (nombre, faccion_id, tipo_unidad_id, puntos) VALUES
 ('Dreadnought', 1, 2, 200),
 ('Nobz Orkos', 2, 1, 120);
 
+
+CREATE TABLE usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    api_key VARCHAR(255) NOT NULL UNIQUE,
+    role ENUM('admin', 'basic') NOT NULL DEFAULT 'basic'
+);
