@@ -37,6 +37,25 @@ module.exports={
         })
     },
 
+    // Obtener unidades por facción
+    getUnidadesByFaccion: (req, res) => {
+        const { faccionId } = req.params;
+
+        unidadModel.getUnidadesByFaccion(faccionId, (err, result) => {
+            if (err) {
+                res.status(500).json({ error: err.message });
+                return;
+            }
+
+            if (result.length === 0) {
+                res.status(404).json({ message: "No se encontraron unidades para esta facción" });
+                return;
+            }
+
+            res.status(200).json({ data: result });
+        });
+    },
+
     // Añadir unidad
     postUnidad : (req, res) => {
 
@@ -87,6 +106,32 @@ module.exports={
             }
             res.status(200).json({message: "Unidad eliminada correctamente"});
         })
-    }
+    },
+
+    // Crear una nueva habilidad
+    postHabilidad: (req, res) => {
+        const { nombre, descripcion } = req.body;
+
+        unidadModel.postHabilidad(nombre, descripcion, (err, result) => {
+            if (err) {
+                res.status(500).json({ error: err.message });
+                return;
+            }
+            res.status(201).json({ message: 'Habilidad creada correctamente', data: { idInsertado: result } });
+        });
+    },
+
+    // Asignar una habilidad a una unidad
+    asignarHabilidadAUnidad: (req, res) => {
+        const { unidad_id, habilidad_id } = req.body;
+
+        unidadModel.asignarHabilidadAUnidad(unidad_id, habilidad_id, (err, result) => {
+            if (err) {
+                res.status(500).json({ error: err.message });
+                return;
+            }
+            res.status(201).json({ message: 'Habilidad asignada correctamente' });
+        });
+    },
 
 }
