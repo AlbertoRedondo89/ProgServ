@@ -17,6 +17,11 @@ app.use('/api/usuarios', usuarioRoutes);
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocs));
 
 //Inicio del servidor
+app._router.stack.forEach((r) => {
+    if (r.route && r.route.path) {
+        console.log(r.route.path);
+    }
+});
 app.listen(port, ()=>{
     console.log("Servidor iniciado en http://localhost:" + port);
 });

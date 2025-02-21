@@ -20,9 +20,14 @@ const autenticar = (req, res, next) => {
 };
 
 const autorizarAdmin = (req, res, next) => {
-    if (req.usuario.role !== 'admin') {
-        return res.status(403).json({ message: "Acceso denegado. Se requiere rol de administrador" });
+    if (!req.user || !req.user.role) {
+        return res.status(403).json({ error: "Acceso denegado: Usuario no autenticado" });
     }
+
+    if (req.user.role !== "admin") {
+        return res.status(403).json({ error: "Acceso denegado: No tienes permisos" });
+    }
+
     next();
 };
 

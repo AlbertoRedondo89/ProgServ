@@ -40,6 +40,7 @@ module.exports={
     // Obtener unidades por facción
     getUnidadesByFaccion: (req, res) => {
         const { faccionId } = req.params;
+        console.log('faccionId:', faccionId);// Log para localizar un error maravilloso
 
         unidadModel.getUnidadesByFaccion(faccionId, (err, result) => {
             if (err) {
@@ -73,7 +74,7 @@ module.exports={
 
 
     // Editar unidad
-    putUnidad: (req, es) => {
+    putUnidad: (req, res) => {
         const {id} = req.params;
         const {nombre, puntos} = req.body;
 

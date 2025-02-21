@@ -13,6 +13,7 @@ const sequelize = require('./config/database');
 //const sequelize = require(path.join(__dirname, 'config', 'database'));
 const authRoutes = require('./routes/authRoutes');
 const eventRoutes = require('./routes/eventRoutes');
+const personajeRoutes = require('./routes/personajeRoutes');
 
 const jwtSecret = process.env.JWT_SECRET;
 
@@ -25,6 +26,7 @@ app.use(express.json());
 // Routes
 app.use('/api/auth', authRoutes);
 app.use('/api/events', eventRoutes);
+app.use('/personajes', personajeRoutes);
 
 // Swagger documentation
 const swaggerOptions = {

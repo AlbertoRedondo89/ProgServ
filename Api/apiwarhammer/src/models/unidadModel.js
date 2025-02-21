@@ -61,13 +61,13 @@ class Unidad{
             SELECT 
                 u.id AS unidad_id, 
                 u.nombre AS unidad_nombre, 
-                f.nombre AS faccion_nombre, 
+                COALESCE(f.nombre, 'Sin Facción') AS faccion_nombre, 
                 u.puntos, 
-                tu.nombre AS tipo_unidad,
-                GROUP_CONCAT(h.nombre SEPARATOR ', ') AS habilidades
+                COALESCE(tu.nombre, 'Desconocido') AS tipo_unidad,
+                COALESCE(GROUP_CONCAT(h.nombre SEPARATOR ', '), '') AS habilidades
             FROM 
                 unidades u
-            LEFT JOIN 
+            INNER JOIN 
                 faccion f ON u.faccion_id = f.id
             LEFT JOIN 
                 tipo_unidad tu ON u.tipo_unidad_id = tu.id
@@ -95,9 +95,20 @@ class Unidad{
     }
 
     //Editar unidad
-    putUnidad(id, nombre, puntos, callback){
-        const sql = 'UPDATE unidades  set nombre = ?, puntos = ? WHERE id = ?';
-        db.query(sql, [nombre, puntos, id], (err, result), callback);
+    putUnidad(id, nombre, puntos, callback) {
+        const sql = "UPDATE unidades SET nombre = ?, puntos = ? WHERE id = ?";
+        db.query(sql, [nombre, puntos, id], (error, result) => {
+            if (error) {
+                console.error("Error al actualizar unidad:", error.sqlMessage || error);
+                if (typeof callback === "function") {
+                    callback(error, null);
+                }
+                return;
+            }
+            if (typeof callback === "function") {
+                callback(null, result);
+            }
+        });
     }
 
     //Eliminar unidad

@@ -20,7 +20,7 @@ const { autenticar, autorizarAdmin } = require('../middlewares/authMiddleware');
  *     summary: Obtener todas las unidades
  *     tags: [Unidades]
  *     security:
- *       - apiKeyAuth: []
+ *       - ApiKeyAuth: []
  *     responses:
  *       200:
  *         description: Lista de unidades obtenida exitosamente
@@ -37,7 +37,7 @@ router.get('/', autenticar, unidadControler.getUnidades);
  *     summary: Obtener una unidad por ID
  *     tags: [Unidades]
  *     security:
- *       - apiKeyAuth: []
+ *       - ApiKeyAuth: []
  *     parameters:
  *       - in: path
  *         name: id
@@ -63,7 +63,7 @@ router.get('/:id', autenticar, unidadControler.getUnidadesById);
  *     summary: Obtener unidades por facción
  *     tags: [Unidades]
  *     security:
- *       - apiKeyAuth: []
+ *       - ApiKeyAuth: []
  *     parameters:
  *       - in: path
  *         name: faccionId
@@ -79,7 +79,7 @@ router.get('/:id', autenticar, unidadControler.getUnidadesById);
  *       500:
  *         description: Error en el servidor
  */
-router.get('/faccion/faccionId', autenticar, unidadControler.getUnidadesByFaccion);
+router.get('/faccion/:faccionId', autenticar, unidadControler.getUnidadesByFaccion);
 
 //Solo admin
 
@@ -90,7 +90,7 @@ router.get('/faccion/faccionId', autenticar, unidadControler.getUnidadesByFaccio
  *     summary: Crear una nueva unidad
  *     tags: [Unidades]
  *     security:
- *       - apiKeyAuth: []
+ *       - ApiKeyAuth: []
  *     requestBody:
  *       required: true
  *       content:
@@ -112,7 +112,7 @@ router.get('/faccion/faccionId', autenticar, unidadControler.getUnidadesByFaccio
  *       500:
  *         description: Error en el servidor
  */
-router.post('/', autorizarAdmin, unidadControler.postUnidad);
+router.post('/', autenticar, autorizarAdmin, unidadControler.postUnidad);
 
 /**
  * @swagger
@@ -121,7 +121,7 @@ router.post('/', autorizarAdmin, unidadControler.postUnidad);
  *     summary: Actualizar una unidad
  *     tags: [Unidades]
  *     security:
- *       - apiKeyAuth: []
+ *       - ApiKeyAuth: []
  *     parameters:
  *       - in: path
  *         name: id
@@ -148,7 +148,7 @@ router.post('/', autorizarAdmin, unidadControler.postUnidad);
  *       500:
  *         description: Error en el servidor
  */
-router.put('/:id', autorizarAdmin, unidadControler.putUnidad);
+router.put('/:id', autenticar, autorizarAdmin, unidadControler.putUnidad);
 
 /**
  * @swagger
@@ -157,7 +157,7 @@ router.put('/:id', autorizarAdmin, unidadControler.putUnidad);
  *     summary: Eliminar una unidad
  *     tags: [Unidades]
  *     security:
- *       - apiKeyAuth: []
+ *       - ApiKeyAuth: []
  *     parameters:
  *       - in: path
  *         name: id
@@ -173,9 +173,70 @@ router.put('/:id', autorizarAdmin, unidadControler.putUnidad);
  *       500:
  *         description: Error en el servidor
  */
-router.delete('/:id', autorizarAdmin, unidadControler.deleteUnidad);
-router.post('/habilidad', autorizarAdmin, unidadControler.postHabilidad);
-router.post('/unidad-habilidad', autorizarAdmin, unidadControler.asignarHabilidadAUnidad);
+router.delete('/:id', autenticar, autorizarAdmin, unidadControler.deleteUnidad);
+
+/**
+ * @swagger
+ * /api/unidades/habilidad:
+ *   post:
+ *     summary: Crear una nueva habilidad
+ *     tags: [Unidades]
+ *     security:
+ *       - ApiKeyAuth: []
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             properties:
+ *               nombre:
+ *                 type: string
+ *                 description: Nombre de la habilidad
+ *               descripcion:
+ *                 type: string
+ *                 description: Descripción de la habilidad
+ *     responses:
+ *       201:
+ *         description: Habilidad creada correctamente
+ *       400:
+ *         description: Datos incorrectos en la solicitud
+ *       500:
+ *         description: Error en el servidor
+ */
+router.post('/habilidad', autenticar, autorizarAdmin, unidadControler.postHabilidad);
+
+
+/**
+ * @swagger
+ * /api/unidades/unidad-habilidad:
+ *   post:
+ *     summary: Asignar una habilidad a una unidad
+ *     tags: [Unidades]
+ *     security:
+ *       - ApiKeyAuth: []
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             properties:
+ *               unidad_id:
+ *                 type: integer
+ *                 description: ID de la unidad
+ *               habilidad_id:
+ *                 type: integer
+ *                 description: ID de la habilidad
+ *     responses:
+ *       201:
+ *         description: Habilidad asignada correctamente
+ *       400:
+ *         description: Datos incorrectos en la solicitud
+ *       500:
+ *         description: Error en el servidor
+ */
+router.post('/unidad-habilidad', autenticar, autorizarAdmin, unidadControler.asignarHabilidadAUnidad);
 
 
 module.exports = router;
