@@ -5,7 +5,7 @@ Esta es una API RESTful para gestionar unidades de Warhammer. Permite realizar o
 
 ## --------------------------------------------- Instalación
 1. Clona este repositorio:
-   git clone https://github.com/tu-usuario/apiwarhammer.git
+   git clone https://github.com/AlbertoRedondo89/ProgServ/tree/main/Api/apiwarhammer
 2. Accede al directorio del proyecto:
    cd apiwarhammer
 3. Instala las dependencias:
